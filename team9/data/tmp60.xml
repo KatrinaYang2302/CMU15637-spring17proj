@@ -1,0 +1,4441 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5045</pid>
+				<ln>21645.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.31367773711</lat>
+						<lon>-79.82921799140098</lon>
+
+							<typ>S</typ>
+                			<stpid>18185</stpid>
+                			<stpnm>Boston Bridge Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.313784088553</lat>
+						<lon>-79.828901490737</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.314049966428</lat>
+						<lon>-79.82828458266397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.314152226871</lat>
+						<lon>-79.82825776057302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.314855774517</lat>
+						<lon>-79.828831753303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.314533237905</lat>
+						<lon>-79.82950552843897</lon>
+
+							<typ>S</typ>
+                			<stpid>10246</stpid>
+                			<stpnm>Walnut St at Linden St</stpnm>
+                			<pdist>386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.314633953105</lat>
+						<lon>-79.82963494311201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.314822110572</lat>
+						<lon>-79.82988707075901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.31493255058</lat>
+						<lon>-79.830085554226</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.315317044015</lat>
+						<lon>-79.83082047949597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.315787431941</lat>
+						<lon>-79.83174315939698</lon>
+
+							<typ>S</typ>
+                			<stpid>18184</stpid>
+                			<stpnm>Walnut St past Center St</stpnm>
+                			<pdist>996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.316084197427</lat>
+						<lon>-79.83238065144997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.316276441139</lat>
+						<lon>-79.83278834722</lon>
+
+							<typ>S</typ>
+                			<stpid>10248</stpid>
+                			<stpnm>Walnut St at #4913</stpnm>
+                			<pdist>1554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.316461114184</lat>
+						<lon>-79.83320510647701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.316547009899</lat>
+						<lon>-79.83332848809101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.31661245418</lat>
+						<lon>-79.833392861108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.316710620482</lat>
+						<lon>-79.83345723412401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.317086923319</lat>
+						<lon>-79.83359134457498</lon>
+
+							<typ>S</typ>
+                			<stpid>16678</stpid>
+                			<stpnm>Walnut St opp Wampler St</stpnm>
+                			<pdist>2016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.318055911324</lat>
+						<lon>-79.83392333333302</lon>
+
+							<typ>S</typ>
+                			<stpid>10249</stpid>
+                			<stpnm>Walnut St at Larch St</stpnm>
+                			<pdist>2262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.318880723679</lat>
+						<lon>-79.83422635846301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.318991157049</lat>
+						<lon>-79.83428536706197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.319105680353</lat>
+						<lon>-79.83437656216802</lon>
+
+							<typ>S</typ>
+                			<stpid>10250</stpid>
+                			<stpnm>Walnut St at Juniper St</stpnm>
+                			<pdist>2648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.319908107604</lat>
+						<lon>-79.835228000001</lon>
+
+							<typ>S</typ>
+                			<stpid>10251</stpid>
+                			<stpnm>Walnut St opp Grant St</stpnm>
+                			<pdist>3072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.321110576276</lat>
+						<lon>-79.83644572289398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.321462314764</lat>
+						<lon>-79.83587173016497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.321838591117</lat>
+						<lon>-79.83539429695998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.322057083212</lat>
+						<lon>-79.835082892184</lon>
+
+							<typ>S</typ>
+                			<stpid>10252</stpid>
+                			<stpnm>Olympia Driveway at Life Span</stpnm>
+                			<pdist>3722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.322322928511</lat>
+						<lon>-79.83472884059398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.322373940441</lat>
+						<lon>-79.83478095716998</lon>
+
+							<typ>S</typ>
+                			<stpid>16370</stpid>
+                			<stpnm>Olympia Park and Ride</stpnm>
+                			<pdist>4461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.322757404291</lat>
+						<lon>-79.83528077602398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.322626527579</lat>
+						<lon>-79.835506081581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.322516100155</lat>
+						<lon>-79.83567774295801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.322389312891</lat>
+						<lon>-79.83579039573704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.321980320092</lat>
+						<lon>-79.83529150485998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.321726743312</lat>
+						<lon>-79.83559727668802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.321538605086</lat>
+						<lon>-79.83586013317097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.321150057089</lat>
+						<lon>-79.83648777008102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.321481345521</lat>
+						<lon>-79.83684718608902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.321743103133</lat>
+						<lon>-79.83705639839201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.32207029872</lat>
+						<lon>-79.83739972114597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.322336143967</lat>
+						<lon>-79.83771085739102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.322536549692</lat>
+						<lon>-79.83797371387499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.322794213321</lat>
+						<lon>-79.83823657035799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.323023246832</lat>
+						<lon>-79.83844578266098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.323235920111</lat>
+						<lon>-79.83859062194801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.323415873901</lat>
+						<lon>-79.83870327472698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.323559018618</lat>
+						<lon>-79.838778376579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.323738971547</lat>
+						<lon>-79.83886420726799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.323972091673</lat>
+						<lon>-79.83895540237398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.324368803018</lat>
+						<lon>-79.83905196189903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.324822768811</lat>
+						<lon>-79.83913242816902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.325501666913</lat>
+						<lon>-79.839277267456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.325855273943</lat>
+						<lon>-79.83940116666702</lon>
+
+							<typ>S</typ>
+                			<stpid>10254</stpid>
+                			<stpnm>Walnut St opp Exxon Station</stpnm>
+                			<pdist>6924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.326284632383</lat>
+						<lon>-79.83957608861897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.326992143245</lat>
+						<lon>-79.83997305555397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.327728273841</lat>
+						<lon>-79.84042366666802</lon>
+
+							<typ>S</typ>
+                			<stpid>10255</stpid>
+                			<stpnm>Walnut St past Eden Park Blvd</stpnm>
+                			<pdist>7663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.328364930529</lat>
+						<lon>-79.84076270039702</lon>
+
+							<typ>S</typ>
+                			<stpid>10256</stpid>
+                			<stpnm>Walnut St at 35th Ave</stpnm>
+                			<pdist>7936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.329464703312</lat>
+						<lon>-79.841368285052</lon>
+
+							<typ>S</typ>
+                			<stpid>10257</stpid>
+                			<stpnm>Walnut St at 34th Ave</stpnm>
+                			<pdist>8388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.329632013829</lat>
+						<lon>-79.84150395303601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.330143196489</lat>
+						<lon>-79.84227642923298</lon>
+
+							<typ>S</typ>
+                			<stpid>10258</stpid>
+                			<stpnm>Walnut St past 33rd Ave</stpnm>
+                			<pdist>8698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.331082296418</lat>
+						<lon>-79.84374018122003</lon>
+
+							<typ>S</typ>
+                			<stpid>10259</stpid>
+                			<stpnm>Walnut St past 31st Ave</stpnm>
+                			<pdist>9143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.331897606944</lat>
+						<lon>-79.84508179365002</lon>
+
+							<typ>S</typ>
+                			<stpid>10260</stpid>
+                			<stpnm>Walnut St past 30th Ave</stpnm>
+                			<pdist>9729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.33232689879</lat>
+						<lon>-79.845781635582</lon>
+
+							<typ>S</typ>
+                			<stpid>10261</stpid>
+                			<stpnm>Walnut St past 29th Ave</stpnm>
+                			<pdist>9964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.332739922422</lat>
+						<lon>-79.84647535317498</lon>
+
+							<typ>S</typ>
+                			<stpid>10262</stpid>
+                			<stpnm>Walnut St at 28th Ave</stpnm>
+                			<pdist>10204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.333591440186</lat>
+						<lon>-79.84788516666697</lon>
+
+							<typ>S</typ>
+                			<stpid>10263</stpid>
+                			<stpnm>Walnut St past 27th Ave</stpnm>
+                			<pdist>10720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.334092296987</lat>
+						<lon>-79.84869307341103</lon>
+
+							<typ>S</typ>
+                			<stpid>10264</stpid>
+                			<stpnm>Walnut St past 26th Ave</stpnm>
+                			<pdist>11015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.334686273459</lat>
+						<lon>-79.84969333333402</lon>
+
+							<typ>S</typ>
+                			<stpid>10265</stpid>
+                			<stpnm>Walnut St past 25th Ave</stpnm>
+                			<pdist>11363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.335685606737</lat>
+						<lon>-79.85151666666599</lon>
+
+							<typ>S</typ>
+                			<stpid>10266</stpid>
+                			<stpnm>Walnut St at CP Industries</stpnm>
+                			<pdist>11970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.336448606696</lat>
+						<lon>-79.85290533333301</lon>
+
+							<typ>S</typ>
+                			<stpid>10267</stpid>
+                			<stpnm>Walnut St at Sunoco Station</stpnm>
+                			<pdist>12454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.336567189439</lat>
+						<lon>-79.85319501190702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.336771641955</lat>
+						<lon>-79.853854835324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.337004717067</lat>
+						<lon>-79.85462731152097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.337299126585</lat>
+						<lon>-79.85533541470102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.337646691723</lat>
+						<lon>-79.85619372158499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.338206881177</lat>
+						<lon>-79.857416808896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.338754799209</lat>
+						<lon>-79.85834485321499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.3391100865</lat>
+						<lon>-79.85892471031201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.339216397878</lat>
+						<lon>-79.85905345634501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.339923773171</lat>
+						<lon>-79.859665</lon>
+
+							<typ>S</typ>
+                			<stpid>20310</stpid>
+                			<stpnm>Walnut St at 15th Ave Bridge</stpnm>
+                			<pdist>14735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.341144439771</lat>
+						<lon>-79.86079400000096</lon>
+
+							<typ>S</typ>
+                			<stpid>20309</stpid>
+                			<stpnm>Walnut St at 14th Ave</stpnm>
+                			<pdist>15287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.341763628519</lat>
+						<lon>-79.86136972155498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.342499597989</lat>
+						<lon>-79.86214756216901</lon>
+
+							<typ>S</typ>
+                			<stpid>18191</stpid>
+                			<stpnm>Walnut St past 13th Ave</stpnm>
+                			<pdist>15842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.343510446488</lat>
+						<lon>-79.86321312169503</lon>
+
+							<typ>S</typ>
+                			<stpid>10271</stpid>
+                			<stpnm>Walnut St at 12th Ave</stpnm>
+                			<pdist>16375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.343592219152</lat>
+						<lon>-79.86327749471099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.347028845375</lat>
+						<lon>-79.864040328042</lon>
+
+							<typ>S</typ>
+                			<stpid>10828</stpid>
+                			<stpnm>Walnut St at 9th Ave</stpnm>
+                			<pdist>17499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.348869272679</lat>
+						<lon>-79.864441</lon>
+
+							<typ>S</typ>
+                			<stpid>10831</stpid>
+                			<stpnm>Walnut St at 7th Ave</stpnm>
+                			<pdist>18445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.34934993932</lat>
+						<lon>-79.86454016666602</lon>
+
+							<typ>S</typ>
+                			<stpid>20165</stpid>
+                			<stpnm>Walnut St at Shaw Ave</stpnm>
+                			<pdist>18627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.350949397447</lat>
+						<lon>-79.864912457672</lon>
+
+							<typ>S</typ>
+                			<stpid>10464</stpid>
+                			<stpnm>Walnut St at 5th Ave</stpnm>
+                			<pdist>19116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.351470525706</lat>
+						<lon>-79.865021109581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.351524014497</lat>
+						<lon>-79.86461894643003</lon>
+
+							<typ>S</typ>
+                			<stpid>18493</stpid>
+                			<stpnm>Lysle Blvd past Walnut St</stpnm>
+                			<pdist>19656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.351680603286</lat>
+						<lon>-79.863000525796</lon>
+
+							<typ>S</typ>
+                			<stpid>18492</stpid>
+                			<stpnm>Lysle Blvd past Locust St</stpnm>
+                			<pdist>20146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.351879038738</lat>
+						<lon>-79.860870333332</lon>
+
+							<typ>S</typ>
+                			<stpid>9892</stpid>
+                			<stpnm>Lysle Blvd opp McKeesport Transportation Center</stpnm>
+                			<pdist>20738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.351957014182</lat>
+						<lon>-79.859721064568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.352390353902</lat>
+						<lon>-79.859737157822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.352292239492</lat>
+						<lon>-79.860638380051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.352239094127</lat>
+						<lon>-79.860874414444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.35224727034</lat>
+						<lon>-79.861223101616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.35224910583</lat>
+						<lon>-79.861465499999</lon>
+
+							<typ>S</typ>
+                			<stpid>10592</stpid>
+                			<stpnm>McKeesport Transportation Center</stpnm>
+                			<pdist>21645.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5044</pid>
+				<ln>27986.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.31367773711</lat>
+						<lon>-79.82921799140098</lon>
+
+							<typ>S</typ>
+                			<stpid>18185</stpid>
+                			<stpnm>Boston Bridge Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.313784088553</lat>
+						<lon>-79.828901490737</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.314049966428</lat>
+						<lon>-79.82828458266397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.314152226871</lat>
+						<lon>-79.82825776057302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.314855774517</lat>
+						<lon>-79.828831753303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.314533237905</lat>
+						<lon>-79.82950552843897</lon>
+
+							<typ>S</typ>
+                			<stpid>10246</stpid>
+                			<stpnm>Walnut St at Linden St</stpnm>
+                			<pdist>386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.314633953105</lat>
+						<lon>-79.82963494311201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.314822110572</lat>
+						<lon>-79.82988707075901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.31493255058</lat>
+						<lon>-79.830085554226</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.315317044015</lat>
+						<lon>-79.83082047949597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.315787431941</lat>
+						<lon>-79.83174315939698</lon>
+
+							<typ>S</typ>
+                			<stpid>18184</stpid>
+                			<stpnm>Walnut St past Center St</stpnm>
+                			<pdist>996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.316084197427</lat>
+						<lon>-79.83238065144997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.316276441139</lat>
+						<lon>-79.83278834722</lon>
+
+							<typ>S</typ>
+                			<stpid>10248</stpid>
+                			<stpnm>Walnut St at #4913</stpnm>
+                			<pdist>1554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.316461114184</lat>
+						<lon>-79.83320510647701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.316547009899</lat>
+						<lon>-79.83332848809101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.31661245418</lat>
+						<lon>-79.833392861108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.316710620482</lat>
+						<lon>-79.83345723412401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.317086923319</lat>
+						<lon>-79.83359134457498</lon>
+
+							<typ>S</typ>
+                			<stpid>16678</stpid>
+                			<stpnm>Walnut St opp Wampler St</stpnm>
+                			<pdist>2016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.318055911324</lat>
+						<lon>-79.83392333333302</lon>
+
+							<typ>S</typ>
+                			<stpid>10249</stpid>
+                			<stpnm>Walnut St at Larch St</stpnm>
+                			<pdist>2262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.318880723679</lat>
+						<lon>-79.83422635846301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.318991157049</lat>
+						<lon>-79.83428536706197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.319105680353</lat>
+						<lon>-79.83437656216802</lon>
+
+							<typ>S</typ>
+                			<stpid>10250</stpid>
+                			<stpnm>Walnut St at Juniper St</stpnm>
+                			<pdist>2648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.319908107604</lat>
+						<lon>-79.835228000001</lon>
+
+							<typ>S</typ>
+                			<stpid>10251</stpid>
+                			<stpnm>Walnut St opp Grant St</stpnm>
+                			<pdist>3072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.321110576276</lat>
+						<lon>-79.83644572289398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.321462314764</lat>
+						<lon>-79.83587173016497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.321838591117</lat>
+						<lon>-79.83539429695998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.322057083212</lat>
+						<lon>-79.835082892184</lon>
+
+							<typ>S</typ>
+                			<stpid>10252</stpid>
+                			<stpnm>Olympia Driveway at Life Span</stpnm>
+                			<pdist>3722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.322322928511</lat>
+						<lon>-79.83472884059398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.322373940441</lat>
+						<lon>-79.83478095716998</lon>
+
+							<typ>S</typ>
+                			<stpid>16370</stpid>
+                			<stpnm>Olympia Park and Ride</stpnm>
+                			<pdist>4461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.322757404291</lat>
+						<lon>-79.83528077602398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.322626527579</lat>
+						<lon>-79.835506081581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.322516100155</lat>
+						<lon>-79.83567774295801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.322389312891</lat>
+						<lon>-79.83579039573704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.321980320092</lat>
+						<lon>-79.83529150485998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.321726743312</lat>
+						<lon>-79.83559727668802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.321538605086</lat>
+						<lon>-79.83586013317097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.321150057089</lat>
+						<lon>-79.83648777008102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.321481345521</lat>
+						<lon>-79.83684718608902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.321743103133</lat>
+						<lon>-79.83705639839201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.32207029872</lat>
+						<lon>-79.83739972114597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.322336143967</lat>
+						<lon>-79.83771085739102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.322536549692</lat>
+						<lon>-79.83797371387499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.322794213321</lat>
+						<lon>-79.83823657035799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.323023246832</lat>
+						<lon>-79.83844578266098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.323235920111</lat>
+						<lon>-79.83859062194801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.323415873901</lat>
+						<lon>-79.83870327472698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.323559018618</lat>
+						<lon>-79.838778376579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.323738971547</lat>
+						<lon>-79.83886420726799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.323972091673</lat>
+						<lon>-79.83895540237398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.324368803018</lat>
+						<lon>-79.83905196189903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.324822768811</lat>
+						<lon>-79.83913242816902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.325501666913</lat>
+						<lon>-79.839277267456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.325855273943</lat>
+						<lon>-79.83940116666702</lon>
+
+							<typ>S</typ>
+                			<stpid>10254</stpid>
+                			<stpnm>Walnut St opp Exxon Station</stpnm>
+                			<pdist>6924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.326284632383</lat>
+						<lon>-79.83957608861897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.326992143245</lat>
+						<lon>-79.83997305555397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.327728273841</lat>
+						<lon>-79.84042366666802</lon>
+
+							<typ>S</typ>
+                			<stpid>10255</stpid>
+                			<stpnm>Walnut St past Eden Park Blvd</stpnm>
+                			<pdist>7663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.328364930529</lat>
+						<lon>-79.84076270039702</lon>
+
+							<typ>S</typ>
+                			<stpid>10256</stpid>
+                			<stpnm>Walnut St at 35th Ave</stpnm>
+                			<pdist>7936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.329464703312</lat>
+						<lon>-79.841368285052</lon>
+
+							<typ>S</typ>
+                			<stpid>10257</stpid>
+                			<stpnm>Walnut St at 34th Ave</stpnm>
+                			<pdist>8388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.329632013829</lat>
+						<lon>-79.84150395303601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.330143196489</lat>
+						<lon>-79.84227642923298</lon>
+
+							<typ>S</typ>
+                			<stpid>10258</stpid>
+                			<stpnm>Walnut St past 33rd Ave</stpnm>
+                			<pdist>8698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.331082296418</lat>
+						<lon>-79.84374018122003</lon>
+
+							<typ>S</typ>
+                			<stpid>10259</stpid>
+                			<stpnm>Walnut St past 31st Ave</stpnm>
+                			<pdist>9143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.331897606944</lat>
+						<lon>-79.84508179365002</lon>
+
+							<typ>S</typ>
+                			<stpid>10260</stpid>
+                			<stpnm>Walnut St past 30th Ave</stpnm>
+                			<pdist>9729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.33232689879</lat>
+						<lon>-79.845781635582</lon>
+
+							<typ>S</typ>
+                			<stpid>10261</stpid>
+                			<stpnm>Walnut St past 29th Ave</stpnm>
+                			<pdist>9964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.332739922422</lat>
+						<lon>-79.84647535317498</lon>
+
+							<typ>S</typ>
+                			<stpid>10262</stpid>
+                			<stpnm>Walnut St at 28th Ave</stpnm>
+                			<pdist>10204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.333591440186</lat>
+						<lon>-79.84788516666697</lon>
+
+							<typ>S</typ>
+                			<stpid>10263</stpid>
+                			<stpnm>Walnut St past 27th Ave</stpnm>
+                			<pdist>10720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.334092296987</lat>
+						<lon>-79.84869307341103</lon>
+
+							<typ>S</typ>
+                			<stpid>10264</stpid>
+                			<stpnm>Walnut St past 26th Ave</stpnm>
+                			<pdist>11015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.334686273459</lat>
+						<lon>-79.84969333333402</lon>
+
+							<typ>S</typ>
+                			<stpid>10265</stpid>
+                			<stpnm>Walnut St past 25th Ave</stpnm>
+                			<pdist>11363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.335685606737</lat>
+						<lon>-79.85151666666599</lon>
+
+							<typ>S</typ>
+                			<stpid>10266</stpid>
+                			<stpnm>Walnut St at CP Industries</stpnm>
+                			<pdist>11970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.336448606696</lat>
+						<lon>-79.85290533333301</lon>
+
+							<typ>S</typ>
+                			<stpid>10267</stpid>
+                			<stpnm>Walnut St at Sunoco Station</stpnm>
+                			<pdist>12454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.336567189439</lat>
+						<lon>-79.85319501190702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.336771641955</lat>
+						<lon>-79.853854835324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.337004717067</lat>
+						<lon>-79.85462731152097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.337299126585</lat>
+						<lon>-79.85533541470102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.337646691723</lat>
+						<lon>-79.85619372158499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.338206881177</lat>
+						<lon>-79.857416808896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.338754799209</lat>
+						<lon>-79.85834485321499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.3391100865</lat>
+						<lon>-79.85892471031201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.339216397878</lat>
+						<lon>-79.85905345634501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.339923773171</lat>
+						<lon>-79.859665</lon>
+
+							<typ>S</typ>
+                			<stpid>20310</stpid>
+                			<stpnm>Walnut St at 15th Ave Bridge</stpnm>
+                			<pdist>14735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.341144439771</lat>
+						<lon>-79.86079400000096</lon>
+
+							<typ>S</typ>
+                			<stpid>20309</stpid>
+                			<stpnm>Walnut St at 14th Ave</stpnm>
+                			<pdist>15287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.341763628519</lat>
+						<lon>-79.86136972155498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.342499597989</lat>
+						<lon>-79.86214756216901</lon>
+
+							<typ>S</typ>
+                			<stpid>18191</stpid>
+                			<stpnm>Walnut St past 13th Ave</stpnm>
+                			<pdist>15842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.343510446488</lat>
+						<lon>-79.86321312169503</lon>
+
+							<typ>S</typ>
+                			<stpid>10271</stpid>
+                			<stpnm>Walnut St at 12th Ave</stpnm>
+                			<pdist>16375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.343592219152</lat>
+						<lon>-79.86327749471099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.347028845375</lat>
+						<lon>-79.864040328042</lon>
+
+							<typ>S</typ>
+                			<stpid>10828</stpid>
+                			<stpnm>Walnut St at 9th Ave</stpnm>
+                			<pdist>17499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.348869272679</lat>
+						<lon>-79.864441</lon>
+
+							<typ>S</typ>
+                			<stpid>10831</stpid>
+                			<stpnm>Walnut St at 7th Ave</stpnm>
+                			<pdist>18445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.34934993932</lat>
+						<lon>-79.86454016666602</lon>
+
+							<typ>S</typ>
+                			<stpid>20165</stpid>
+                			<stpnm>Walnut St at Shaw Ave</stpnm>
+                			<pdist>18627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.350949397447</lat>
+						<lon>-79.864912457672</lon>
+
+							<typ>S</typ>
+                			<stpid>10464</stpid>
+                			<stpnm>Walnut St at 5th Ave</stpnm>
+                			<pdist>19116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.351470525706</lat>
+						<lon>-79.865021109581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.351524014497</lat>
+						<lon>-79.86461894643003</lon>
+
+							<typ>S</typ>
+                			<stpid>18493</stpid>
+                			<stpnm>Lysle Blvd past Walnut St</stpnm>
+                			<pdist>19656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.351680603286</lat>
+						<lon>-79.863000525796</lon>
+
+							<typ>S</typ>
+                			<stpid>18492</stpid>
+                			<stpnm>Lysle Blvd past Locust St</stpnm>
+                			<pdist>20146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.351879038738</lat>
+						<lon>-79.860870333332</lon>
+
+							<typ>S</typ>
+                			<stpid>9892</stpid>
+                			<stpnm>Lysle Blvd opp McKeesport Transportation Center</stpnm>
+                			<pdist>20738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.352001682479</lat>
+						<lon>-79.85914835514501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.352014167253</lat>
+						<lon>-79.85888236243801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.35203869597</lat>
+						<lon>-79.85848003108498</lon>
+
+							<typ>S</typ>
+                			<stpid>9894</stpid>
+                			<stpnm>Lysle Blvd at Senior Care Plaza</stpnm>
+                			<pdist>21437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.352083665261</lat>
+						<lon>-79.857932860446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.352100017723</lat>
+						<lon>-79.85764854629099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.352175453164</lat>
+						<lon>-79.85624040410102</lon>
+
+							<typ>S</typ>
+                			<stpid>18174</stpid>
+                			<stpnm>Lysle Blvd past Coursin St</stpnm>
+                			<pdist>22166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.352257215323</lat>
+						<lon>-79.855065596553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.352286950962</lat>
+						<lon>-79.854612149481</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.352323743885</lat>
+						<lon>-79.85338906216998</lon>
+
+							<typ>S</typ>
+                			<stpid>9896</stpid>
+                			<stpnm>Lysle Blvd at Center St</stpnm>
+                			<pdist>23048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.352364624887</lat>
+						<lon>-79.85213378835101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.352426489156</lat>
+						<lon>-79.85103846296101</lon>
+
+							<typ>S</typ>
+                			<stpid>9897</stpid>
+                			<stpnm>Lysle Blvd at Evans St</stpnm>
+                			<pdist>23658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.352504162922</lat>
+						<lon>-79.85014260514998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.352520515281</lat>
+						<lon>-79.84999776586403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.352673048856</lat>
+						<lon>-79.848313875661</lon>
+
+							<typ>S</typ>
+                			<stpid>9898</stpid>
+                			<stpnm>Lysle Blvd at 5th Ave</stpnm>
+                			<pdist>24461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.352713929647</lat>
+						<lon>-79.84784180687399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.352767074637</lat>
+						<lon>-79.84749848412099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.35290606903</lat>
+						<lon>-79.84694058464498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.353083134109</lat>
+						<lon>-79.84631518650701</lon>
+
+							<typ>S</typ>
+                			<stpid>20904</stpid>
+                			<stpnm>Fifth Ave opp # 1681</stpnm>
+                			<pdist>25064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.353318345635</lat>
+						<lon>-79.845510721207</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.353420546586</lat>
+						<lon>-79.84515130519901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.35340828248</lat>
+						<lon>-79.84501719474798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.353383754262</lat>
+						<lon>-79.844861626625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.353346961917</lat>
+						<lon>-79.84472751617398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.353261113034</lat>
+						<lon>-79.84452903270699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.352989206286</lat>
+						<lon>-79.84391799404602</lon>
+
+							<typ>S</typ>
+                			<stpid>9899</stpid>
+                			<stpnm>5th Ave at Pirl St</stpnm>
+                			<pdist>25730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.35216908888784</lat>
+						<lon>-79.84473114153678</lon>
+
+							<typ>S</typ>
+                			<stpid>22440</stpid>
+                			<stpnm>Pirl St opp Brownlee St</stpnm>
+                			<pdist>26120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.3520469528431</lat>
+						<lon>-79.84486699104309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.351552288720306</lat>
+						<lon>-79.84406232833862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.35130699937983</lat>
+						<lon>-79.8436439037323</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.35123750057118</lat>
+						<lon>-79.8435366153717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.35114347265721</lat>
+						<lon>-79.84341323375702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.35104126825419</lat>
+						<lon>-79.8433381319046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.350906358205066</lat>
+						<lon>-79.84327375888824</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.350698272582</lat>
+						<lon>-79.843113333335</lon>
+
+							<typ>S</typ>
+                			<stpid>22441</stpid>
+                			<stpnm>Brownlee St at #60</stpnm>
+                			<pdist>26886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.35010506871509</lat>
+						<lon>-79.84269976615906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.349683979095545</lat>
+						<lon>-79.84237253665924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.34948365398471</lat>
+						<lon>-79.84186291694641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.349228272662</lat>
+						<lon>-79.84127666666501</lon>
+
+							<typ>S</typ>
+                			<stpid>22442</stpid>
+                			<stpnm>Brownlee St at #44</stpnm>
+                			<pdist>27647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.34907073708304</lat>
+						<lon>-79.84086513519287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.349744213927</lat>
+						<lon>-79.840500753968</lon>
+
+							<typ>S</typ>
+                			<stpid>20840</stpid>
+                			<stpnm>Young Dr at Yester Sq</stpnm>
+                			<pdist>27986.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5046</pid>
+				<ln>21469.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.35224910583</lat>
+						<lon>-79.861465499999</lon>
+
+							<typ>S</typ>
+                			<stpid>10592</stpid>
+                			<stpnm>McKeesport Transportation Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.352165508168</lat>
+						<lon>-79.862285256386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.351932693971</lat>
+						<lon>-79.862250717593</lon>
+
+							<typ>S</typ>
+                			<stpid>20311</stpid>
+                			<stpnm>MCKSPRT TRANSPORTATION CTR (LEAVE TIME)</stpnm>
+                			<pdist>1229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.351801689121</lat>
+						<lon>-79.86353163491901</lon>
+
+							<typ>S</typ>
+                			<stpid>18195</stpid>
+                			<stpnm>Lysle Blvd past Locust St</stpnm>
+                			<pdist>1703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.351613610916</lat>
+						<lon>-79.865128397942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.350996298268</lat>
+						<lon>-79.865047931671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.350486772593</lat>
+						<lon>-79.864932844576</lon>
+
+							<typ>S</typ>
+                			<stpid>18196</stpid>
+                			<stpnm>Walnut St past 5th Ave</stpnm>
+                			<pdist>2454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.348758096052</lat>
+						<lon>-79.86453325992</lon>
+
+							<typ>S</typ>
+                			<stpid>18197</stpid>
+                			<stpnm>Walnut St past 7th Ave</stpnm>
+                			<pdist>3077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.347104430442</lat>
+						<lon>-79.864178437829</lon>
+
+							<typ>S</typ>
+                			<stpid>10364</stpid>
+                			<stpnm>Walnut St at 9th Ave</stpnm>
+                			<pdist>3624.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.343653717502</lat>
+						<lon>-79.863416690469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.343506526769</lat>
+						<lon>-79.863336224198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.342414246046</lat>
+						<lon>-79.862195226192</lon>
+
+							<typ>S</typ>
+                			<stpid>10370</stpid>
+                			<stpnm>Walnut St at 13th Ave</stpnm>
+                			<pdist>5552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.341750177693</lat>
+						<lon>-79.861482797624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.341194106436</lat>
+						<lon>-79.861000000001</lon>
+
+							<typ>S</typ>
+                			<stpid>10371</stpid>
+                			<stpnm>Walnut St past 14th Ave</stpnm>
+                			<pdist>6068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.340390614863</lat>
+						<lon>-79.860301994709</lon>
+
+							<typ>S</typ>
+                			<stpid>10372</stpid>
+                			<stpnm>Walnut St at 15th Ave Bridge</stpnm>
+                			<pdist>6512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.339940842636</lat>
+						<lon>-79.859915756611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.339012666835</lat>
+						<lon>-79.859068178562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.338526084992</lat>
+						<lon>-79.858242058186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.337982254074</lat>
+						<lon>-79.857314013866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.337630601672</lat>
+						<lon>-79.856423520473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.337520198796</lat>
+						<lon>-79.856096290974</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.337081459877</lat>
+						<lon>-79.855024877665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.336885186375</lat>
+						<lon>-79.854456249353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.33665211085</lat>
+						<lon>-79.853705230829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.336455836099</lat>
+						<lon>-79.853099051592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.336280006149</lat>
+						<lon>-79.852745000002</lon>
+
+							<typ>S</typ>
+                			<stpid>10373</stpid>
+                			<stpnm>Walnut St opp Sunoco Station</stpnm>
+                			<pdist>9060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.335650250294</lat>
+						<lon>-79.851619062169</lon>
+
+							<typ>S</typ>
+                			<stpid>10374</stpid>
+                			<stpnm>Walnut St at CP Industries</stpnm>
+                			<pdist>9463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.3345221068</lat>
+						<lon>-79.849601666668</lon>
+
+							<typ>S</typ>
+                			<stpid>10375</stpid>
+                			<stpnm>Walnut St past 25th Ave</stpnm>
+                			<pdist>10164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.333827765182</lat>
+						<lon>-79.848427127645</lon>
+
+							<typ>S</typ>
+                			<stpid>10376</stpid>
+                			<stpnm>Walnut St past 26th Ave</stpnm>
+                			<pdist>10684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.333213947423</lat>
+						<lon>-79.847432242724</lon>
+
+							<typ>S</typ>
+                			<stpid>18199</stpid>
+                			<stpnm>Walnut St past 27th Ave</stpnm>
+                			<pdist>10889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.332801773562</lat>
+						<lon>-79.846740666667</lon>
+
+							<typ>S</typ>
+                			<stpid>10377</stpid>
+                			<stpnm>Walnut St at 28th Ave</stpnm>
+                			<pdist>11210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.331970106943</lat>
+						<lon>-79.8453675</lon>
+
+							<typ>S</typ>
+                			<stpid>10378</stpid>
+                			<stpnm>Walnut St at #2906</stpnm>
+                			<pdist>11698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.330955272474</lat>
+						<lon>-79.843742328708</lon>
+
+							<typ>S</typ>
+                			<stpid>20170</stpid>
+                			<stpnm>Walnut St at 31st Ave</stpnm>
+                			<pdist>12418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.329972379166</lat>
+						<lon>-79.84218967791</lon>
+
+							<typ>S</typ>
+                			<stpid>10380</stpid>
+                			<stpnm>Walnut St opp 33rd Ave</stpnm>
+                			<pdist>12827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.329616221082</lat>
+						<lon>-79.841645992729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.329444462799</lat>
+						<lon>-79.84147969577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.328712440453</lat>
+						<lon>-79.841072</lon>
+
+							<typ>S</typ>
+                			<stpid>10381</stpid>
+                			<stpnm>Walnut St opp 35th Ave</stpnm>
+                			<pdist>13411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.327606107181</lat>
+						<lon>-79.840477</lon>
+
+							<typ>S</typ>
+                			<stpid>10382</stpid>
+                			<stpnm>Walnut St opp Eden Park Blvd</stpnm>
+                			<pdist>13847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.326687106555</lat>
+						<lon>-79.839908955689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.326012310072</lat>
+						<lon>-79.839570997353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.325775107282</lat>
+						<lon>-79.839485166665</lon>
+
+							<typ>S</typ>
+                			<stpid>10383</stpid>
+                			<stpnm>Walnut St at Exxon Station</stpnm>
+                			<pdist>14574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.325402942604</lat>
+						<lon>-79.839356420632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.324854916155</lat>
+						<lon>-79.839238403436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.324658607091</lat>
+						<lon>-79.839259861108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.323764517562</lat>
+						<lon>-79.839046344577</lon>
+
+							<typ>S</typ>
+                			<stpid>10384</stpid>
+                			<stpnm>Walnut St opp Long Run Rd</stpnm>
+                			<pdist>15296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.323339173664</lat>
+						<lon>-79.838831767856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.322983355076</lat>
+						<lon>-79.83860109788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.322660253814</lat>
+						<lon>-79.838300690471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.321989507015</lat>
+						<lon>-79.83753894311</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.321437362881</lat>
+						<lon>-79.836922035037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.321061084291</lat>
+						<lon>-79.836530432521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.321445542827</lat>
+						<lon>-79.835875973521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.321825909224</lat>
+						<lon>-79.835382447062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.322057083212</lat>
+						<lon>-79.835082892184</lon>
+
+							<typ>S</typ>
+                			<stpid>10252</stpid>
+                			<stpnm>Olympia Driveway at Life Span</stpnm>
+                			<pdist>16397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.322322928511</lat>
+						<lon>-79.83472884059398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.322373940441</lat>
+						<lon>-79.83478095716998</lon>
+
+							<typ>S</typ>
+                			<stpid>16370</stpid>
+                			<stpnm>Olympia Park and Ride</stpnm>
+                			<pdist>17136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.322781908382</lat>
+						<lon>-79.835270460316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.322667391314</lat>
+						<lon>-79.835522587963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.32254469424</lat>
+						<lon>-79.835699613758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.322377007878</lat>
+						<lon>-79.835844453045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.321951655238</lat>
+						<lon>-79.83534019775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.32152220995</lat>
+						<lon>-79.835919554897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.321129571868</lat>
+						<lon>-79.836584742733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.319794121091</lat>
+						<lon>-79.835226313491</lon>
+
+							<typ>S</typ>
+                			<stpid>10386</stpid>
+                			<stpnm>Walnut St at Grant St</stpnm>
+                			<pdist>18551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.319129003976</lat>
+						<lon>-79.834549304893</lon>
+
+							<typ>S</typ>
+                			<stpid>10387</stpid>
+                			<stpnm>Walnut St at Juniper St</stpnm>
+                			<pdist>18831.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.31896130913</lat>
+						<lon>-79.834383007934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.31885905597</lat>
+						<lon>-79.834318634918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.318088511926</lat>
+						<lon>-79.834056988758</lon>
+
+							<typ>S</typ>
+                			<stpid>10388</stpid>
+                			<stpnm>Walnut St at Larch St</stpnm>
+                			<pdist>19244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.317103894506</lat>
+						<lon>-79.833717333332</lon>
+
+							<typ>S</typ>
+                			<stpid>16679</stpid>
+                			<stpnm>Walnut St at Wampler St</stpnm>
+                			<pdist>19585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.316646989353</lat>
+						<lon>-79.833545356482</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.316532461878</lat>
+						<lon>-79.833459525794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.316405663376</lat>
+						<lon>-79.833282499999</lon>
+
+							<typ>S</typ>
+                			<stpid>10389</stpid>
+                			<stpnm>Walnut St at Worthington St</stpnm>
+                			<pdist>19921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.315618732556</lat>
+						<lon>-79.831603999999</lon>
+
+							<typ>S</typ>
+                			<stpid>10390</stpid>
+                			<stpnm>Walnut St opp Center St</stpnm>
+                			<pdist>20469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.315014585921</lat>
+						<lon>-79.830412580694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.314855061601</lat>
+						<lon>-79.830133630957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.314679175374</lat>
+						<lon>-79.829860045637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.31446647514</lat>
+						<lon>-79.829586460318</lon>
+
+							<typ>S</typ>
+                			<stpid>10391</stpid>
+                			<stpnm>Walnut St opp Linden St</stpnm>
+                			<pdist>21166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.31403698224</lat>
+						<lon>-79.8295810959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.313595215264</lat>
+						<lon>-79.829511358465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.31367773711</lat>
+						<lon>-79.82921799140098</lon>
+
+							<typ>S</typ>
+                			<stpid>18185</stpid>
+                			<stpnm>Boston Bridge Terminal</stpnm>
+                			<pdist>21469.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5047</pid>
+				<ln>33676.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.349744213927</lat>
+						<lon>-79.840500753968</lon>
+
+							<typ>S</typ>
+                			<stpid>20840</stpid>
+                			<stpnm>Young Dr at Yester Sq</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.349578772642</lat>
+						<lon>-79.839752166667</lon>
+
+							<typ>S</typ>
+                			<stpid>20843</stpid>
+                			<stpnm>Yester Sq at Craig St</stpnm>
+                			<pdist>267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.349525625139</lat>
+						<lon>-79.839542954364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.35051911721</lat>
+						<lon>-79.839014613097</lon>
+
+							<typ>S</typ>
+                			<stpid>20844</stpid>
+                			<stpnm>Yester Sq at Crawford Village Pl</stpnm>
+                			<pdist>743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.350842085095</lat>
+						<lon>-79.838703476852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.351016106856</lat>
+						<lon>-79.837650632937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.351024283217</lat>
+						<lon>-79.837441420634</lon>
+
+							<typ>S</typ>
+                			<stpid>20842</stpid>
+                			<stpnm>Crawford Village Pl at Grandview Ave </stpnm>
+                			<pdist>1172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.350205372171</lat>
+						<lon>-79.837432223547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.349829253973</lat>
+						<lon>-79.837389308203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.348839889565</lat>
+						<lon>-79.837201553572</lon>
+
+							<typ>S</typ>
+                			<stpid>20841</stpid>
+                			<stpnm>Grandview Ave at Brownlee St</stpnm>
+                			<pdist>1994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.348776378936</lat>
+						<lon>-79.838494062424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.348068106057</lat>
+						<lon>-79.838485666666</lon>
+
+							<typ>S</typ>
+                			<stpid>10664</stpid>
+                			<stpnm>McCleary St opp Idaho St</stpnm>
+                			<pdist>2587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.347370106097</lat>
+						<lon>-79.838493333334</lon>
+
+							<typ>S</typ>
+                			<stpid>10665</stpid>
+                			<stpnm>McCleary St at #1004</stpnm>
+                			<pdist>2838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.346244007414</lat>
+						<lon>-79.838533186508</lon>
+
+							<typ>S</typ>
+                			<stpid>10666</stpid>
+                			<stpnm>McCleary St opp Ford St</stpnm>
+                			<pdist>3237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.345043710393</lat>
+						<lon>-79.838671279763</lon>
+
+							<typ>S</typ>
+                			<stpid>10667</stpid>
+                			<stpnm>McCleary St at Versailles Ave</stpnm>
+                			<pdist>3670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.345092772888</lat>
+						<lon>-79.839637833332</lon>
+
+							<typ>S</typ>
+                			<stpid>10579</stpid>
+                			<stpnm>Versailles Ave at Craig St</stpnm>
+                			<pdist>3959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.345200627016</lat>
+						<lon>-79.841007937829</lon>
+
+							<typ>S</typ>
+                			<stpid>18193</stpid>
+                			<stpnm>Versailles Ave at Sumac St</stpnm>
+                			<pdist>4339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.34527330946</lat>
+						<lon>-79.842000082009</lon>
+
+							<typ>S</typ>
+                			<stpid>20168</stpid>
+                			<stpnm>Versailles Ave past Freemont St</stpnm>
+                			<pdist>4614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.345428090313</lat>
+						<lon>-79.844181771164</lon>
+
+							<typ>S</typ>
+                			<stpid>10582</stpid>
+                			<stpnm>Versailles Ave opp Hamilton St</stpnm>
+                			<pdist>5232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.345530835044</lat>
+						<lon>-79.845900579368</lon>
+
+							<typ>S</typ>
+                			<stpid>10583</stpid>
+                			<stpnm>Versailles Ave at Maple St</stpnm>
+                			<pdist>5693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.345653256791</lat>
+						<lon>-79.847661386906</lon>
+
+							<typ>S</typ>
+                			<stpid>10584</stpid>
+                			<stpnm>Versailles Ave opp Packer St</stpnm>
+                			<pdist>6259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.345866923275</lat>
+						<lon>-79.849302935187</lon>
+
+							<typ>S</typ>
+                			<stpid>10585</stpid>
+                			<stpnm>Versailles Ave at Evans St</stpnm>
+                			<pdist>6688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.346713939466</lat>
+						<lon>-79.849334666668</lon>
+
+							<typ>S</typ>
+                			<stpid>10668</stpid>
+                			<stpnm>Evans St at Lamont St</stpnm>
+                			<pdist>7031.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.347291636545</lat>
+						<lon>-79.849361488756</lon>
+
+							<typ>S</typ>
+                			<stpid>10587</stpid>
+                			<stpnm>Evans St at Baldwin St</stpnm>
+                			<pdist>7225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.348029270607</lat>
+						<lon>-79.84941698016</lon>
+
+							<typ>S</typ>
+                			<stpid>10588</stpid>
+                			<stpnm>Evans St at Colfax St</stpnm>
+                			<pdist>7522.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.349597939306</lat>
+						<lon>-79.849609333334</lon>
+
+							<typ>S</typ>
+                			<stpid>18194</stpid>
+                			<stpnm>Evans St opp Beacon St</stpnm>
+                			<pdist>8055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.350064641252</lat>
+						<lon>-79.849466806874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.350448934569</lat>
+						<lon>-79.84947753571</lon>
+
+							<typ>S</typ>
+                			<stpid>10590</stpid>
+                			<stpnm>Evans St opp Linwood St</stpnm>
+                			<pdist>8229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.351078771608</lat>
+						<lon>-79.850061347221</lon>
+
+							<typ>S</typ>
+                			<stpid>17520</stpid>
+                			<stpnm>Evans St at McKeesport Hospital</stpnm>
+                			<pdist>8651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.352051709275</lat>
+						<lon>-79.850881658732</lon>
+
+							<typ>S</typ>
+                			<stpid>17521</stpid>
+                			<stpnm>Evans St at 5th Ave</stpnm>
+                			<pdist>8860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.352125295358</lat>
+						<lon>-79.850919209659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.352566810171</lat>
+						<lon>-79.850967489421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.352452343645</lat>
+						<lon>-79.853193722903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.352444167457</lat>
+						<lon>-79.853869639575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.352403286503</lat>
+						<lon>-79.85483523482</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.352378451039</lat>
+						<lon>-79.85573605359099</lon>
+
+							<typ>S</typ>
+                			<stpid>9916</stpid>
+                			<stpnm>Lysle Blvd at Center St</stpnm>
+                			<pdist>9816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.352316398754</lat>
+						<lon>-79.85665209920603</lon>
+
+							<typ>S</typ>
+                			<stpid>9917</stpid>
+                			<stpnm>Lysle Blvd opp Coursin St</stpnm>
+                			<pdist>10780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.35219412494</lat>
+						<lon>-79.858626723289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.352128715159</lat>
+						<lon>-79.859699606895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.352378089609</lat>
+						<lon>-79.85974252224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.352296327595</lat>
+						<lon>-79.860595464706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.352239094127</lat>
+						<lon>-79.86085832119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.35224910583</lat>
+						<lon>-79.861465499999</lon>
+
+							<typ>S</typ>
+                			<stpid>10592</stpid>
+                			<stpnm>McKeesport Transportation Center</stpnm>
+                			<pdist>12207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.352165508168</lat>
+						<lon>-79.862285256386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.351932693971</lat>
+						<lon>-79.862250717593</lon>
+
+							<typ>S</typ>
+                			<stpid>20311</stpid>
+                			<stpnm>MCKSPRT TRANSPORTATION CTR (LEAVE TIME)</stpnm>
+                			<pdist>13436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.351801689121</lat>
+						<lon>-79.86353163491901</lon>
+
+							<typ>S</typ>
+                			<stpid>18195</stpid>
+                			<stpnm>Lysle Blvd past Locust St</stpnm>
+                			<pdist>13910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.351613610916</lat>
+						<lon>-79.865128397942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.350996298268</lat>
+						<lon>-79.865047931671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.350486772593</lat>
+						<lon>-79.864932844576</lon>
+
+							<typ>S</typ>
+                			<stpid>18196</stpid>
+                			<stpnm>Walnut St past 5th Ave</stpnm>
+                			<pdist>14661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.348758096052</lat>
+						<lon>-79.86453325992</lon>
+
+							<typ>S</typ>
+                			<stpid>18197</stpid>
+                			<stpnm>Walnut St past 7th Ave</stpnm>
+                			<pdist>15284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.347104430442</lat>
+						<lon>-79.864178437829</lon>
+
+							<typ>S</typ>
+                			<stpid>10364</stpid>
+                			<stpnm>Walnut St at 9th Ave</stpnm>
+                			<pdist>15831.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.343653717502</lat>
+						<lon>-79.863416690469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.343506526769</lat>
+						<lon>-79.863336224198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.342414246046</lat>
+						<lon>-79.862195226192</lon>
+
+							<typ>S</typ>
+                			<stpid>10370</stpid>
+                			<stpnm>Walnut St at 13th Ave</stpnm>
+                			<pdist>17759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.341750177693</lat>
+						<lon>-79.861482797624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.341194106436</lat>
+						<lon>-79.861000000001</lon>
+
+							<typ>S</typ>
+                			<stpid>10371</stpid>
+                			<stpnm>Walnut St past 14th Ave</stpnm>
+                			<pdist>18275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.340390614863</lat>
+						<lon>-79.860301994709</lon>
+
+							<typ>S</typ>
+                			<stpid>10372</stpid>
+                			<stpnm>Walnut St at 15th Ave Bridge</stpnm>
+                			<pdist>18719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.339940842636</lat>
+						<lon>-79.859915756611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.339012666835</lat>
+						<lon>-79.859068178562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.338526084992</lat>
+						<lon>-79.858242058186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.337982254074</lat>
+						<lon>-79.857314013866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.337630601672</lat>
+						<lon>-79.856423520473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.337520198796</lat>
+						<lon>-79.856096290974</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.337081459877</lat>
+						<lon>-79.855024877665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.336885186375</lat>
+						<lon>-79.854456249353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.33665211085</lat>
+						<lon>-79.853705230829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.336455836099</lat>
+						<lon>-79.853099051592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.336280006149</lat>
+						<lon>-79.852745000002</lon>
+
+							<typ>S</typ>
+                			<stpid>10373</stpid>
+                			<stpnm>Walnut St opp Sunoco Station</stpnm>
+                			<pdist>21267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.335650250294</lat>
+						<lon>-79.851619062169</lon>
+
+							<typ>S</typ>
+                			<stpid>10374</stpid>
+                			<stpnm>Walnut St at CP Industries</stpnm>
+                			<pdist>21670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.3345221068</lat>
+						<lon>-79.849601666668</lon>
+
+							<typ>S</typ>
+                			<stpid>10375</stpid>
+                			<stpnm>Walnut St past 25th Ave</stpnm>
+                			<pdist>22371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.333827765182</lat>
+						<lon>-79.848427127645</lon>
+
+							<typ>S</typ>
+                			<stpid>10376</stpid>
+                			<stpnm>Walnut St past 26th Ave</stpnm>
+                			<pdist>22891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.333213947423</lat>
+						<lon>-79.847432242724</lon>
+
+							<typ>S</typ>
+                			<stpid>18199</stpid>
+                			<stpnm>Walnut St past 27th Ave</stpnm>
+                			<pdist>23096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.332801773562</lat>
+						<lon>-79.846740666667</lon>
+
+							<typ>S</typ>
+                			<stpid>10377</stpid>
+                			<stpnm>Walnut St at 28th Ave</stpnm>
+                			<pdist>23417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.331970106943</lat>
+						<lon>-79.8453675</lon>
+
+							<typ>S</typ>
+                			<stpid>10378</stpid>
+                			<stpnm>Walnut St at #2906</stpnm>
+                			<pdist>23905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.330955272474</lat>
+						<lon>-79.843742328708</lon>
+
+							<typ>S</typ>
+                			<stpid>20170</stpid>
+                			<stpnm>Walnut St at 31st Ave</stpnm>
+                			<pdist>24625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.329972379166</lat>
+						<lon>-79.84218967791</lon>
+
+							<typ>S</typ>
+                			<stpid>10380</stpid>
+                			<stpnm>Walnut St opp 33rd Ave</stpnm>
+                			<pdist>25034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.329616221082</lat>
+						<lon>-79.841645992729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.329444462799</lat>
+						<lon>-79.84147969577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.328712440453</lat>
+						<lon>-79.841072</lon>
+
+							<typ>S</typ>
+                			<stpid>10381</stpid>
+                			<stpnm>Walnut St opp 35th Ave</stpnm>
+                			<pdist>25618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.327606107181</lat>
+						<lon>-79.840477</lon>
+
+							<typ>S</typ>
+                			<stpid>10382</stpid>
+                			<stpnm>Walnut St opp Eden Park Blvd</stpnm>
+                			<pdist>26054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.326687106555</lat>
+						<lon>-79.839908955689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.326012310072</lat>
+						<lon>-79.839570997353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.325775107282</lat>
+						<lon>-79.839485166665</lon>
+
+							<typ>S</typ>
+                			<stpid>10383</stpid>
+                			<stpnm>Walnut St at Exxon Station</stpnm>
+                			<pdist>26781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.325402942604</lat>
+						<lon>-79.839356420632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.324854916155</lat>
+						<lon>-79.839238403436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.324658607091</lat>
+						<lon>-79.839259861108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.323764517562</lat>
+						<lon>-79.839046344577</lon>
+
+							<typ>S</typ>
+                			<stpid>10384</stpid>
+                			<stpnm>Walnut St opp Long Run Rd</stpnm>
+                			<pdist>27503.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.323339173664</lat>
+						<lon>-79.838831767856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.322983355076</lat>
+						<lon>-79.83860109788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.322660253814</lat>
+						<lon>-79.838300690471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.321989507015</lat>
+						<lon>-79.83753894311</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.321437362881</lat>
+						<lon>-79.836922035037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.321061084291</lat>
+						<lon>-79.836530432521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.321445542827</lat>
+						<lon>-79.835875973521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.321825909224</lat>
+						<lon>-79.835382447062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.322057083212</lat>
+						<lon>-79.835082892184</lon>
+
+							<typ>S</typ>
+                			<stpid>10252</stpid>
+                			<stpnm>Olympia Driveway at Life Span</stpnm>
+                			<pdist>28604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.322322928511</lat>
+						<lon>-79.83472884059398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.322373940441</lat>
+						<lon>-79.83478095716998</lon>
+
+							<typ>S</typ>
+                			<stpid>16370</stpid>
+                			<stpnm>Olympia Park and Ride</stpnm>
+                			<pdist>29343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.322781908382</lat>
+						<lon>-79.835270460316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.322667391314</lat>
+						<lon>-79.835522587963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.32254469424</lat>
+						<lon>-79.835699613758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.322377007878</lat>
+						<lon>-79.835844453045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.321951655238</lat>
+						<lon>-79.83534019775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.32152220995</lat>
+						<lon>-79.835919554897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.321129571868</lat>
+						<lon>-79.836584742733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.319794121091</lat>
+						<lon>-79.835226313491</lon>
+
+							<typ>S</typ>
+                			<stpid>10386</stpid>
+                			<stpnm>Walnut St at Grant St</stpnm>
+                			<pdist>30758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.319129003976</lat>
+						<lon>-79.834549304893</lon>
+
+							<typ>S</typ>
+                			<stpid>10387</stpid>
+                			<stpnm>Walnut St at Juniper St</stpnm>
+                			<pdist>31038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.31896130913</lat>
+						<lon>-79.834383007934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.31885905597</lat>
+						<lon>-79.834318634918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.318088511926</lat>
+						<lon>-79.834056988758</lon>
+
+							<typ>S</typ>
+                			<stpid>10388</stpid>
+                			<stpnm>Walnut St at Larch St</stpnm>
+                			<pdist>31451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.317103894506</lat>
+						<lon>-79.833717333332</lon>
+
+							<typ>S</typ>
+                			<stpid>16679</stpid>
+                			<stpnm>Walnut St at Wampler St</stpnm>
+                			<pdist>31792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.316646989353</lat>
+						<lon>-79.833545356482</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.316532461878</lat>
+						<lon>-79.833459525794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.316405663376</lat>
+						<lon>-79.833282499999</lon>
+
+							<typ>S</typ>
+                			<stpid>10389</stpid>
+                			<stpnm>Walnut St at Worthington St</stpnm>
+                			<pdist>32128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.315618732556</lat>
+						<lon>-79.831603999999</lon>
+
+							<typ>S</typ>
+                			<stpid>10390</stpid>
+                			<stpnm>Walnut St opp Center St</stpnm>
+                			<pdist>32676.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.315014585921</lat>
+						<lon>-79.830412580694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.314855061601</lat>
+						<lon>-79.830133630957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.314679175374</lat>
+						<lon>-79.829860045637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.31446647514</lat>
+						<lon>-79.829586460318</lon>
+
+							<typ>S</typ>
+                			<stpid>10391</stpid>
+                			<stpnm>Walnut St opp Linden St</stpnm>
+                			<pdist>33373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.31403698224</lat>
+						<lon>-79.8295810959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.313595215264</lat>
+						<lon>-79.829511358465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.31367773711</lat>
+						<lon>-79.82921799140098</lon>
+
+							<typ>S</typ>
+                			<stpid>18185</stpid>
+                			<stpnm>Boston Bridge Terminal</stpnm>
+                			<pdist>33676.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

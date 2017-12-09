@@ -1,0 +1,8502 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4292</pid>
+				<ln>42093.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.517539930238</lat>
+						<lon>-80.03688816666698</lon>
+
+							<typ>S</typ>
+                			<stpid>3167</stpid>
+                			<stpnm>LAYOVER WEST VIEW TERMINUS</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.517576632847</lat>
+						<lon>-80.03730122685499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.517525571485</lat>
+						<lon>-80.03774710449699</lon>
+
+							<typ>S</typ>
+                			<stpid>16529</stpid>
+                			<stpnm>West View Plaza at Dollar Tree</stpnm>
+                			<pdist>240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.517435853893</lat>
+						<lon>-80.03845520767698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.517358370422</lat>
+						<lon>-80.03863223347201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.517268652606</lat>
+						<lon>-80.03869660648797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.516954639307</lat>
+						<lon>-80.03867514881597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.516803352162</lat>
+						<lon>-80.03862674008099</lon>
+
+							<typ>S</typ>
+                			<stpid>619</stpid>
+                			<stpnm>West View Plaza at Giant Eagle</stpnm>
+                			<pdist>692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.516301742318</lat>
+						<lon>-80.038551638228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.516224257536</lat>
+						<lon>-80.03850335846602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.516179397884</lat>
+						<lon>-80.03836924801499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.516248726424</lat>
+						<lon>-80.03758604298298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.516326211177</lat>
+						<lon>-80.03753239880302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.516513805474</lat>
+						<lon>-80.037569949729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.516538274256</lat>
+						<lon>-80.03701205025402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.516586018827</lat>
+						<lon>-80.03663127380702</lon>
+
+							<typ>S</typ>
+                			<stpid>620</stpid>
+                			<stpnm>West View Plaza at K-Mart</stpnm>
+                			<pdist>1471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.516655346947</lat>
+						<lon>-80.03535990673498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.516614565709</lat>
+						<lon>-80.03509168583298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.516614534774</lat>
+						<lon>-80.03447086045401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.516745034649</lat>
+						<lon>-80.03387004563501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.51687145616</lat>
+						<lon>-80.03352135846302</lon>
+
+							<typ>S</typ>
+                			<stpid>733</stpid>
+                			<stpnm>West View Park Dr opp West View Tower</stpnm>
+                			<pdist>2377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.517698143316</lat>
+						<lon>-80.03119666666498</lon>
+
+							<typ>S</typ>
+                			<stpid>842</stpid>
+                			<stpnm>West View Park Dr at Perry Hwy</stpnm>
+                			<pdist>3140.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.51772643934805</lat>
+						<lon>-80.03105521202133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.517673424580444</lat>
+						<lon>-80.03091573715238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.51764895621263</lat>
+						<lon>-80.03073871135757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.517620409772086</lat>
+						<lon>-80.03051340580032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.5176285658986</lat>
+						<lon>-80.0302773714061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.51764080008746</lat>
+						<lon>-80.03011643886612</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.517705740508</lat>
+						<lon>-80.029830255283</lon>
+
+							<typ>S</typ>
+                			<stpid>19327</stpid>
+                			<stpnm>Perry Hwy at McDonalds</stpnm>
+                			<pdist>3511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.51854016421</lat>
+						<lon>-80.02689903108501</lon>
+
+							<typ>S</typ>
+                			<stpid>563</stpid>
+                			<stpnm>Perry Hwy opp #328</stpnm>
+                			<pdist>4474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.518918000605</lat>
+						<lon>-80.02548845767302</lon>
+
+							<typ>S</typ>
+                			<stpid>843</stpid>
+                			<stpnm>Center Ave at Township nRd</stpnm>
+                			<pdist>4844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.518825802647</lat>
+						<lon>-80.02530860054503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.518723852806</lat>
+						<lon>-80.02521204101998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.518581122768</lat>
+						<lon>-80.02509402382401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.518426158383</lat>
+						<lon>-80.02499209988099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.518254881541</lat>
+						<lon>-80.02488481152102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.518132540671</lat>
+						<lon>-80.02479898083197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.518010199579</lat>
+						<lon>-80.024643412709</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.51787154607</lat>
+						<lon>-80.02446102249598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.517769594778</lat>
+						<lon>-80.02425717461097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.51770434587</lat>
+						<lon>-80.02406405556201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.517626862709</lat>
+						<lon>-80.02373682606202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.517614628517</lat>
+						<lon>-80.02348469841502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.517598316258</lat>
+						<lon>-80.02323793518497</lon>
+
+							<typ>S</typ>
+                			<stpid>20180</stpid>
+                			<stpnm>Center Ave opp Norwich St</stpnm>
+                			<pdist>5678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.517610534064</lat>
+						<lon>-80.02304295370999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.51756567534</lat>
+						<lon>-80.02283374140598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.517508582375</lat>
+						<lon>-80.02267817328402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.517422942836</lat>
+						<lon>-80.02251187632498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.517353615511</lat>
+						<lon>-80.02243141005397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.517247585345</lat>
+						<lon>-80.02235094378398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.517072227394</lat>
+						<lon>-80.02225438425899</lon>
+
+							<typ>S</typ>
+                			<stpid>845</stpid>
+                			<stpnm>Center Ave opp #360</stpnm>
+                			<pdist>6037.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.516937324286</lat>
+						<lon>-80.02221853042198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.516814981012</lat>
+						<lon>-80.02222925925798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.516048291413</lat>
+						<lon>-80.02252966666799</lon>
+
+							<typ>S</typ>
+                			<stpid>19324</stpid>
+                			<stpnm>Center Ave opp Brightwood Ave</stpnm>
+                			<pdist>6506.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.515855331991</lat>
+						<lon>-80.02251051587098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.515626954014</lat>
+						<lon>-80.02265535515801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.515333324043</lat>
+						<lon>-80.02289675396901</lon>
+
+							<typ>S</typ>
+                			<stpid>847</stpid>
+                			<stpnm>Center Ave opp Ridgewood Ave (Steps)</stpnm>
+                			<pdist>6804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.51509860784</lat>
+						<lon>-80.02312637433198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.514698941358</lat>
+						<lon>-80.02364135846301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.51449502897</lat>
+						<lon>-80.02397395238097</lon>
+
+							<typ>S</typ>
+                			<stpid>848</stpid>
+                			<stpnm>Center Ave at Oakwood Ave</stpnm>
+                			<pdist>7143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.514342106154</lat>
+						<lon>-80.02430598345899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.514154505782</lat>
+						<lon>-80.02457420435996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.513420412323</lat>
+						<lon>-80.02563635912998</lon>
+
+							<typ>S</typ>
+                			<stpid>849</stpid>
+                			<stpnm>Center Ave at Frankfort Ave</stpnm>
+                			<pdist>7736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.512833752616</lat>
+						<lon>-80.02644900859798</lon>
+
+							<typ>S</typ>
+                			<stpid>850</stpid>
+                			<stpnm>Center Ave opp Martsolf St Steps</stpnm>
+                			<pdist>8106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.512523796919</lat>
+						<lon>-80.026803060188</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.511920194872</lat>
+						<lon>-80.027280493393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.511483067764</lat>
+						<lon>-80.02751993254003</lon>
+
+							<typ>S</typ>
+                			<stpid>851</stpid>
+                			<stpnm>Center Ave at Park Ave</stpnm>
+                			<pdist>8636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.511081193233</lat>
+						<lon>-80.02773300462701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.510546912636</lat>
+						<lon>-80.02797440343898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.509959606915</lat>
+						<lon>-80.02824798875798</lon>
+
+							<typ>S</typ>
+                			<stpid>852</stpid>
+                			<stpnm>Center Ave at Perrysville Rd</stpnm>
+                			<pdist>9249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.509143895992</lat>
+						<lon>-80.02863422685601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.509094953022</lat>
+						<lon>-80.028811252651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.509093353992</lat>
+						<lon>-80.029102964944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.509085196826</lat>
+						<lon>-80.02937655026301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.508722201958</lat>
+						<lon>-80.02942483002602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.508436698995</lat>
+						<lon>-80.02950529629601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.508273553899</lat>
+						<lon>-80.029591126985</lon>
+
+							<typ>S</typ>
+                			<stpid>568</stpid>
+                			<stpnm>Perry Hwy at Lower PNR Lot Shelter</stpnm>
+                			<pdist>10118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.507877925395</lat>
+						<lon>-80.02971450860002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.507616890877</lat>
+						<lon>-80.02977351719801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.507249809366</lat>
+						<lon>-80.02982716137797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.507033638204</lat>
+						<lon>-80.02981643254202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.506724218751</lat>
+						<lon>-80.02974129894801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.506508045894</lat>
+						<lon>-80.02965546825999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.506271478573</lat>
+						<lon>-80.029548179899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.506047146722</lat>
+						<lon>-80.02940870503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.505773868726</lat>
+						<lon>-80.02919412830897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.505480195609</lat>
+						<lon>-80.02886153439101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.505329279757</lat>
+						<lon>-80.02866305092402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.505239545846</lat>
+						<lon>-80.02847529629298</lon>
+
+							<typ>S</typ>
+                			<stpid>569</stpid>
+                			<stpnm>Perry Hwy opp Clarwin Ave</stpnm>
+                			<pdist>11286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.504695055212</lat>
+						<lon>-80.027237588628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.504279011224</lat>
+						<lon>-80.02643292592302</lon>
+
+							<typ>S</typ>
+                			<stpid>570</stpid>
+                			<stpnm>Perry Hwy opp Hanway Ave</stpnm>
+                			<pdist>11911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.503791551063</lat>
+						<lon>-80.02569981150998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.503408132905</lat>
+						<lon>-80.02520092063298</lon>
+
+							<typ>S</typ>
+                			<stpid>571</stpid>
+                			<stpnm>Perry Hwy at I-279 ramp</stpnm>
+                			<pdist>12423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.502833001559</lat>
+						<lon>-80.02447672419902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.502494446758</lat>
+						<lon>-80.02412267261002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.502188522277</lat>
+						<lon>-80.023913460306</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.501768383714</lat>
+						<lon>-80.02366669707703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.501441983588</lat>
+						<lon>-80.02348190477699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.50115237057</lat>
+						<lon>-80.02324050596502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.500879072631</lat>
+						<lon>-80.02298301389999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.500532349764</lat>
+						<lon>-80.022564589294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.500283524013</lat>
+						<lon>-80.02221590212201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.499989826858</lat>
+						<lon>-80.02177065542503</lon>
+
+							<typ>S</typ>
+                			<stpid>572</stpid>
+                			<stpnm>Perry Hwy opp West View Ave (farside)</stpnm>
+                			<pdist>14053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.499838898652</lat>
+						<lon>-80.02150779894203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.49946815714</lat>
+						<lon>-80.02111047884199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.499162218856</lat>
+						<lon>-80.02081007143198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.498937863228</lat>
+						<lon>-80.020654503309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.498656397834</lat>
+						<lon>-80.020482841932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.49836677279</lat>
+						<lon>-80.02035946031799</lon>
+
+							<typ>S</typ>
+                			<stpid>573</stpid>
+                			<stpnm>Perry Hwy opp Ivory Ave</stpnm>
+                			<pdist>14748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.497710012776</lat>
+						<lon>-80.02013415476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.496994379953</lat>
+						<lon>-80.019977200396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.49660276426</lat>
+						<lon>-80.01999865806897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.496423272971</lat>
+						<lon>-80.02004157341298</lon>
+
+							<typ>S</typ>
+                			<stpid>574</stpid>
+                			<stpnm>Perry Hwy at Connie Dr</stpnm>
+                			<pdist>15444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.496038577063</lat>
+						<lon>-80.020138196414</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.495757099505</lat>
+						<lon>-80.020266942447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.495598002972</lat>
+						<lon>-80.02034204429901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.495145187697</lat>
+						<lon>-80.02062099403702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.494561826577</lat>
+						<lon>-80.02105551189698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.494394568257</lat>
+						<lon>-80.02121108002001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.493819359634</lat>
+						<lon>-80.02201574272397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.493737769359</lat>
+						<lon>-80.02212839550299</lon>
+
+							<typ>S</typ>
+                			<stpid>576</stpid>
+                			<stpnm>Perry Hwy at Perryview Ave</stpnm>
+                			<pdist>16616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.493635548588</lat>
+						<lon>-80.022231534394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.493513162804</lat>
+						<lon>-80.022274449738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.493390776796</lat>
+						<lon>-80.02227444973903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.493252072383</lat>
+						<lon>-80.02221007672199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.492803320849</lat>
+						<lon>-80.02185602513202</lon>
+
+							<typ>S</typ>
+                			<stpid>577</stpid>
+                			<stpnm>Perrysville Ave at Bascom St</stpnm>
+                			<pdist>16958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.492283755788</lat>
+						<lon>-80.02141732143599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.491076181953</lat>
+						<lon>-80.019947470896</lon>
+
+							<typ>S</typ>
+                			<stpid>578</stpid>
+                			<stpnm>Perrysville Ave opp Waldorf St</stpnm>
+                			<pdist>17687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.490329598357</lat>
+						<lon>-80.01866149999898</lon>
+
+							<typ>S</typ>
+                			<stpid>579</stpid>
+                			<stpnm>Perrysville Ave opp Franklin Rd</stpnm>
+                			<pdist>18330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.490277950928</lat>
+						<lon>-80.01858270965897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.490155559019</lat>
+						<lon>-80.01852906547799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.4896007129</lat>
+						<lon>-80.01842177711796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.489388564642</lat>
+						<lon>-80.01837349735598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.489253931746</lat>
+						<lon>-80.01826620899499</lon>
+
+							<typ>S</typ>
+                			<stpid>809</stpid>
+                			<stpnm>Perrysville Ave at Perry Academy</stpnm>
+                			<pdist>18760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.488711317639</lat>
+						<lon>-80.01754201256097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.488257279069</lat>
+						<lon>-80.01685409325398</lon>
+
+							<typ>S</typ>
+                			<stpid>810</stpid>
+                			<stpnm>Perrysville Ave at #3835</stpnm>
+                			<pdist>19325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.487969373545</lat>
+						<lon>-80.016402550929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.487859217048</lat>
+						<lon>-80.01631672023899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.487704181672</lat>
+						<lon>-80.016257711641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.487549145938</lat>
+						<lon>-80.01627916931301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.487300272036</lat>
+						<lon>-80.01630599140401</lon>
+
+							<typ>S</typ>
+                			<stpid>811</stpid>
+                			<stpnm>Perrysville Ave at Semicir St</stpnm>
+                			<pdist>19742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.48696571878</lat>
+						<lon>-80.01632208465799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.486793408459</lat>
+						<lon>-80.01628743055903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.485455175323</lat>
+						<lon>-80.01581536177201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.485055332196</lat>
+						<lon>-80.015670522486</lon>
+
+							<typ>S</typ>
+                			<stpid>813</stpid>
+                			<stpnm>Perrysville Ave opp Cherryfield St</stpnm>
+                			<pdist>20591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.484888050182</lat>
+						<lon>-80.01557932737899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.484753408257</lat>
+						<lon>-80.01546131018199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.484618766062</lat>
+						<lon>-80.01532183531401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.484508604066</lat>
+						<lon>-80.015150173937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.484411002353</lat>
+						<lon>-80.01491698347598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.484341640903</lat>
+						<lon>-80.01468631349996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.484284519654</lat>
+						<lon>-80.01420351587797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.484247798826</lat>
+						<lon>-80.01361342989401</lon>
+
+							<typ>S</typ>
+                			<stpid>815</stpid>
+                			<stpnm>Perrysville Ave opp Watson Blvd</stpnm>
+                			<pdist>21415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.484186597401</lat>
+						<lon>-80.013602701058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.484113155617</lat>
+						<lon>-80.01356515013197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.484007072899</lat>
+						<lon>-80.01341494642702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.483828573166</lat>
+						<lon>-80.01312113491798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.483702089369</lat>
+						<lon>-80.01301384655699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.483563364931</lat>
+						<lon>-80.012938744704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.483457281344</lat>
+						<lon>-80.01290119377802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.4833185564</lat>
+						<lon>-80.01294947354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.482722851911</lat>
+						<lon>-80.013416177909</lon>
+
+							<typ>S</typ>
+                			<stpid>816</stpid>
+                			<stpnm>Perrysville Ave opp #3418</stpnm>
+                			<pdist>21967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.482454473427</lat>
+						<lon>-80.013635048281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.482287184929</lat>
+						<lon>-80.01375306547902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.482148457568</lat>
+						<lon>-80.01381207407701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.482042371744</lat>
+						<lon>-80.01382816733098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.481924045051</lat>
+						<lon>-80.01382280291301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.481720033021</lat>
+						<lon>-80.01374770105997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.481193679122</lat>
+						<lon>-80.013490208995</lon>
+
+							<typ>S</typ>
+                			<stpid>817</stpid>
+                			<stpnm>Perrysville Ave opp #3358</stpnm>
+                			<pdist>22583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.480647460876</lat>
+						<lon>-80.01323742328901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.480496489163</lat>
+						<lon>-80.01317305027203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.480406722037</lat>
+						<lon>-80.01308721958401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.48031287446</lat>
+						<lon>-80.01296920238701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.480255749783</lat>
+						<lon>-80.01286727844399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.479904839987</lat>
+						<lon>-80.01198214946902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.479815072071</lat>
+						<lon>-80.01188022552697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.479762027336</lat>
+						<lon>-80.01183194576498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.479700821821</lat>
+						<lon>-80.01181585250998</lon>
+
+							<typ>S</typ>
+                			<stpid>818</stpid>
+                			<stpnm>Perrysville Ave opp Delaware St</stpnm>
+                			<pdist>23231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.479602892881</lat>
+						<lon>-80.01180512367398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.47821455304328</lat>
+						<lon>-80.0120873022471</lon>
+
+							<typ>S</typ>
+                			<stpid>819</stpid>
+                			<stpnm>Perrysville Ave at Marshall Rd</stpnm>
+                			<pdist>23850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.47733335475585</lat>
+						<lon>-80.01229584217072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.47664374444725</lat>
+						<lon>-80.01243531703949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.47654989160914</lat>
+						<lon>-80.01245677471161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.47645195807298</lat>
+						<lon>-80.01244604587555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.47634994382092</lat>
+						<lon>-80.01243531703949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.476272412885656</lat>
+						<lon>-80.01242458820343</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.476131432449</lat>
+						<lon>-80.01236870899402</lon>
+
+							<typ>S</typ>
+                			<stpid>820</stpid>
+                			<stpnm>Perrysville Ave opp #3000</stpnm>
+                			<pdist>24632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.475891917841</lat>
+						<lon>-80.01228867659398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.475638920101</lat>
+						<lon>-80.01214383730701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.475434888972</lat>
+						<lon>-80.01197754034797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.475296147449</lat>
+						<lon>-80.01180587897102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.475124760467</lat>
+						<lon>-80.01156984457799</lon>
+
+							<typ>S</typ>
+                			<stpid>821</stpid>
+                			<stpnm>Perrysville Ave at Marshall Ave</stpnm>
+                			<pdist>25077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.474768562016</lat>
+						<lon>-80.011022032413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.474405381467</lat>
+						<lon>-80.010544599208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.474287041313</lat>
+						<lon>-80.01046949735502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.474160539539</lat>
+						<lon>-80.01045340410099</lon>
+
+							<typ>S</typ>
+                			<stpid>19326</stpid>
+                			<stpnm>Perrysville Ave past Kennedy Ave</stpnm>
+                			<pdist>25557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.472572265974</lat>
+						<lon>-80.01039116666499</lon>
+
+							<typ>S</typ>
+                			<stpid>823</stpid>
+                			<stpnm>Perrysville Ave at Hawkins St</stpnm>
+                			<pdist>26153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.472188536398</lat>
+						<lon>-80.01034074074403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.472017141483</lat>
+						<lon>-80.01027100330901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.471857988671</lat>
+						<lon>-80.01013689285799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.471743724881</lat>
+						<lon>-80.00995450264497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.471674350342</lat>
+						<lon>-80.00976674801399</lon>
+
+							<typ>S</typ>
+                			<stpid>824</stpid>
+                			<stpnm>Perrysville Ave at Ellzey St</stpnm>
+                			<pdist>26458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.471563995931</lat>
+						<lon>-80.00942399868302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.471449731641</lat>
+						<lon>-80.00902166733101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.471355871542</lat>
+						<lon>-80.00884464153603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.471249768665</lat>
+						<lon>-80.00873735317498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.471025319717</lat>
+						<lon>-80.00865152248701</lon>
+
+							<typ>S</typ>
+                			<stpid>825</stpid>
+                			<stpnm>Perrysville Ave at N. Charles St</stpnm>
+                			<pdist>26946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.470780092807</lat>
+						<lon>-80.008527690471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.470592370607</lat>
+						<lon>-80.00846868187199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.470188358006</lat>
+						<lon>-80.008409673274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.469800666862</lat>
+						<lon>-80.00836675792999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.469539484197</lat>
+						<lon>-80.00840430885603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.469364001524</lat>
+						<lon>-80.00854378372503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.469229328464</lat>
+						<lon>-80.00868325859403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.468894685145</lat>
+						<lon>-80.00930553108503</lon>
+
+							<typ>S</typ>
+                			<stpid>827</stpid>
+                			<stpnm>Perrysville Ave at McIntyre Ave</stpnm>
+                			<pdist>27887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.468771411086</lat>
+						<lon>-80.00951951322497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.468689790361</lat>
+						<lon>-80.00969653902001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.468583683271</lat>
+						<lon>-80.00977700529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.468481657065</lat>
+						<lon>-80.00982528505199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.46824495567</lat>
+						<lon>-80.00985747156102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.467604225293</lat>
+						<lon>-80.00992720899501</lon>
+
+							<typ>S</typ>
+                			<stpid>828</stpid>
+                			<stpnm>Perrysville Ave at Burgess St</stpnm>
+                			<pdist>28387.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.467257875956</lat>
+						<lon>-80.009958688479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.46711503640396</lat>
+						<lon>-80.01001233265981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.4669640342615</lat>
+						<lon>-80.0102912823969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.466441645853</lat>
+						<lon>-80.01137489483898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.466347778756</lat>
+						<lon>-80.01151436970798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.466209018458</lat>
+						<lon>-80.011627022487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.466131475813</lat>
+						<lon>-80.01167530224899</lon>
+
+							<typ>S</typ>
+                			<stpid>830</stpid>
+                			<stpnm>Perrysville Ave at Cutler St</stpnm>
+                			<pdist>29154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.465917657191</lat>
+						<lon>-80.01173905952498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.465754408706</lat>
+						<lon>-80.01177124603299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.465615647183</lat>
+						<lon>-80.01176051719699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.465497291539</lat>
+						<lon>-80.01174442394301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.465346285759</lat>
+						<lon>-80.01170150859798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.464819803495</lat>
+						<lon>-80.01151911838497</lon>
+
+							<typ>S</typ>
+                			<stpid>831</stpid>
+                			<stpnm>Perrysville Ave opp LaFayette Ave</stpnm>
+                			<pdist>29642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.464163847283</lat>
+						<lon>-80.011295520494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.464000594536</lat>
+						<lon>-80.01138135118299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.463890398707</lat>
+						<lon>-80.01151009721599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.463829178724</lat>
+						<lon>-80.011644207666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.463718982615</lat>
+						<lon>-80.01225038690399</lon>
+
+							<typ>S</typ>
+                			<stpid>832</stpid>
+                			<stpnm>Perrysville Ave at Wilson Ave</stpnm>
+                			<pdist>30265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.463463728876</lat>
+						<lon>-80.01353712367597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.463361694892</lat>
+						<lon>-80.01371951388899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.463255579384</lat>
+						<lon>-80.01376242923402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.463161707834</lat>
+						<lon>-80.01379998016</lon>
+
+							<typ>S</typ>
+                			<stpid>833</stpid>
+                			<stpnm>Perrysville Ave at McClintock Ave</stpnm>
+                			<pdist>30798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.462978448092</lat>
+						<lon>-80.013762412701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.462843762228</lat>
+						<lon>-80.01367121759398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.462533575573</lat>
+						<lon>-80.01342445436501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.462431540176</lat>
+						<lon>-80.01337081018403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.462329504625</lat>
+						<lon>-80.01335471693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>249</seq>
+						<lat>40.462231550349</lat>
+						<lon>-80.01337081018403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>250</seq>
+						<lat>40.46139893324</lat>
+						<lon>-80.013633666668</lon>
+
+							<typ>S</typ>
+                			<stpid>834</stpid>
+                			<stpnm>Perrysville Ave at #1923</stpnm>
+                			<pdist>31449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>251</seq>
+						<lat>40.460805855341</lat>
+						<lon>-80.01381282341697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>252</seq>
+						<lat>40.460679328171</lat>
+						<lon>-80.013818187835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>253</seq>
+						<lat>40.460552800764</lat>
+						<lon>-80.01376990807199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>254</seq>
+						<lat>40.460450762358</lat>
+						<lon>-80.01365189087602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>255</seq>
+						<lat>40.460369131522</lat>
+						<lon>-80.01337830555599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>256</seq>
+						<lat>40.460267092838</lat>
+						<lon>-80.013018889548</lon>
+
+							<typ>S</typ>
+                			<stpid>835</stpid>
+                			<stpnm>Perrysville Ave at O'hern St</stpnm>
+                			<pdist>31965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>257</seq>
+						<lat>40.460060844668</lat>
+						<lon>-80.01227642196199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>258</seq>
+						<lat>40.460032273721</lat>
+						<lon>-80.01212085383901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>259</seq>
+						<lat>40.460007784328</lat>
+						<lon>-80.01183653968303</lon>
+
+							<typ>S</typ>
+                			<stpid>836</stpid>
+                			<stpnm>Perrysville Ave at #1749</stpnm>
+                			<pdist>32355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>260</seq>
+						<lat>40.459873579283</lat>
+						<lon>-80.01030806747002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>261</seq>
+						<lat>40.459881742431</lat>
+						<lon>-80.01013104167498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>262</seq>
+						<lat>40.459934802871</lat>
+						<lon>-80.01001838889601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>263</seq>
+						<lat>40.46000010797</lat>
+						<lon>-80.00993255820799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>264</seq>
+						<lat>40.461130692432</lat>
+						<lon>-80.00903133597899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>265</seq>
+						<lat>40.461204159356</lat>
+						<lon>-80.008795301585</lon>
+
+							<typ>S</typ>
+                			<stpid>837</stpid>
+                			<stpnm>Perrysville Ave at Federal St</stpnm>
+                			<pdist>33346.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>266</seq>
+						<lat>40.460183036207</lat>
+						<lon>-80.00860936706397</lon>
+
+							<typ>S</typ>
+                			<stpid>838</stpid>
+                			<stpnm>Federal St at #1623</stpnm>
+                			<pdist>33805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>267</seq>
+						<lat>40.459513196018</lat>
+						<lon>-80.00848964815299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>268</seq>
+						<lat>40.459362176786</lat>
+						<lon>-80.00833944444798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>269</seq>
+						<lat>40.459247891736</lat>
+						<lon>-80.00819996958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>270</seq>
+						<lat>40.459162177821</lat>
+						<lon>-80.008049765875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>271</seq>
+						<lat>40.459088708664</lat>
+						<lon>-80.00792638426003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>272</seq>
+						<lat>40.4590111578</lat>
+						<lon>-80.00786737566199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>273</seq>
+						<lat>40.458929525214</lat>
+						<lon>-80.007829824736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>274</seq>
+						<lat>40.458851974167</lat>
+						<lon>-80.007829824736</lon>
+
+							<typ>S</typ>
+                			<stpid>839</stpid>
+                			<stpnm>Federal St at Alpine St</stpnm>
+                			<pdist>34348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>275</seq>
+						<lat>40.45770355752</lat>
+						<lon>-80.007457822091</lon>
+
+							<typ>S</typ>
+                			<stpid>840</stpid>
+                			<stpnm>Federal St at Sampsonia Way</stpnm>
+                			<pdist>34796.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>276</seq>
+						<lat>40.457605890502</lat>
+						<lon>-80.00735646098997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>277</seq>
+						<lat>40.45612421265</lat>
+						<lon>-80.00690048545698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>278</seq>
+						<lat>40.455373156852</lat>
+						<lon>-80.00664835780998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>279</seq>
+						<lat>40.455544594242</lat>
+						<lon>-80.00574713558103</lon>
+
+							<typ>S</typ>
+                			<stpid>625</stpid>
+                			<stpnm>North Ave opp Boyle St</stpnm>
+                			<pdist>35960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>280</seq>
+						<lat>40.455737933544</lat>
+						<lon>-80.00476066666698</lon>
+
+							<typ>S</typ>
+                			<stpid>626</stpid>
+                			<stpnm>North Ave opp Sandusky St</stpnm>
+                			<pdist>36248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>281</seq>
+						<lat>40.456053357831</lat>
+						<lon>-80.00311283333201</lon>
+
+							<typ>S</typ>
+                			<stpid>627</stpid>
+                			<stpnm>North Ave at Cedar Ave</stpnm>
+                			<pdist>36740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>282</seq>
+						<lat>40.456146338765</lat>
+						<lon>-80.00268442460498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>283</seq>
+						<lat>40.456056539086</lat>
+						<lon>-80.002657602515</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>284</seq>
+						<lat>40.45499526107139</lat>
+						<lon>-80.00223381349082</lon>
+
+							<typ>S</typ>
+                			<stpid>853</stpid>
+                			<stpnm>Cedar Ave opp Suismon St</stpnm>
+                			<pdist>37320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>285</seq>
+						<lat>40.453341018585</lat>
+						<lon>-80.00172632473601</lon>
+
+							<typ>S</typ>
+                			<stpid>174</stpid>
+                			<stpnm>Cedar Ave at East Ohio St</stpnm>
+                			<pdist>37843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>286</seq>
+						<lat>40.451615446349</lat>
+						<lon>-80.00119645767398</lon>
+
+							<typ>S</typ>
+                			<stpid>175</stpid>
+                			<stpnm>Cedar Ave opp Pressley St</stpnm>
+                			<pdist>38564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>287</seq>
+						<lat>40.450896997119</lat>
+						<lon>-80.00096042328101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>288</seq>
+						<lat>40.4508031083</lat>
+						<lon>-80.001368119051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>289</seq>
+						<lat>40.449924251054</lat>
+						<lon>-80.001107853176</lon>
+
+							<typ>S</typ>
+                			<stpid>176</stpid>
+                			<stpnm>Anderson St at Lacock St</stpnm>
+                			<pdist>39266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>290</seq>
+						<lat>40.449032031562</lat>
+						<lon>-80.00080484457897</lon>
+
+							<typ>S</typ>
+                			<stpid>177</stpid>
+                			<stpnm>Anderson St at General Robinson St</stpnm>
+                			<pdist>39559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>291</seq>
+						<lat>40.448328522567</lat>
+						<lon>-80.000581064816</lon>
+
+							<typ>S</typ>
+                			<stpid>178</stpid>
+                			<stpnm>Anderson St at Isabella St</stpnm>
+                			<pdist>39833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>292</seq>
+						<lat>40.448050927244</lat>
+						<lon>-80.00048450529101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>293</seq>
+						<lat>40.447593708918</lat>
+						<lon>-80.00025383531602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>294</seq>
+						<lat>40.446797651732</lat>
+						<lon>-79.99984077512698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>295</seq>
+						<lat>40.445564765072</lat>
+						<lon>-79.99923459589002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>296</seq>
+						<lat>40.443821443608</lat>
+						<lon>-79.99844733862403</lon>
+
+							<typ>S</typ>
+                			<stpid>179</stpid>
+                			<stpnm>9th St at Penn Ave</stpnm>
+                			<pdist>41569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>297</seq>
+						<lat>40.443743875123</lat>
+						<lon>-79.998409787698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>298</seq>
+						<lat>40.443314338118</lat>
+						<lon>-80.00012062434001</lon>
+
+							<typ>S</typ>
+                			<stpid>2932</stpid>
+                			<stpnm>Penn Ave at 7th St</stpnm>
+                			<pdist>42093.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5674</pid>
+				<ln>42187.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.443314338118</lat>
+						<lon>-80.00012062434001</lon>
+
+							<typ>S</typ>
+                			<stpid>2932</stpid>
+                			<stpnm>Penn Ave at 7th St</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.44328576005</lat>
+						<lon>-80.00023327711898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.444530493611</lat>
+						<lon>-80.00080546031501</lon>
+
+							<typ>S</typ>
+                			<stpid>213</stpid>
+                			<stpnm>7th St at Ft Duquesne Blvd</stpnm>
+                			<pdist>509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.445118137596</lat>
+						<lon>-79.998922348022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.445285518688</lat>
+						<lon>-79.99901354312897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.445987698237</lat>
+						<lon>-79.99934613704698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.446497998539</lat>
+						<lon>-79.99960362911202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.44752675217</lat>
+						<lon>-80.00012934207899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.448008464727</lat>
+						<lon>-80.00036001205399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.448210189202</lat>
+						<lon>-80.00045721759398</lon>
+
+							<typ>S</typ>
+                			<stpid>15719</stpid>
+                			<stpnm>ANDERSON ST + ISABELLA ST</stpnm>
+                			<pdist>2265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.450499472008</lat>
+						<lon>-80.00120426851998</lon>
+
+							<typ>S</typ>
+                			<stpid>15720</stpid>
+                			<stpnm>Anderson St at Underpass (Stockton)</stpnm>
+                			<pdist>3203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.450747628967</lat>
+						<lon>-80.00125050544699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.450849682109</lat>
+						<lon>-80.00084280967701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.451530433769</lat>
+						<lon>-80.00105743783098</lon>
+
+							<typ>S</typ>
+                			<stpid>944</stpid>
+                			<stpnm>Cedar Ave at Pressley St</stpnm>
+                			<pdist>3625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.453171015664</lat>
+						<lon>-80.001590677911</lon>
+
+							<typ>S</typ>
+                			<stpid>19329</stpid>
+                			<stpnm>Cedar Ave at East Ohio</stpnm>
+                			<pdist>4237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.454828174494</lat>
+						<lon>-80.00212881084599</lon>
+
+							<typ>S</typ>
+                			<stpid>2596</stpid>
+                			<stpnm>Cedar Ave at Suismon St</stpnm>
+                			<pdist>4743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.456093545661</lat>
+						<lon>-80.002568693125</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.456293553761</lat>
+						<lon>-80.00264915939499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.455934318348</lat>
+						<lon>-80.00454534060401</lon>
+
+							<typ>S</typ>
+                			<stpid>18636</stpid>
+                			<stpnm>North Ave at Sandusky St</stpnm>
+                			<pdist>5973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.455527631768</lat>
+						<lon>-80.006593465805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.455783766874</lat>
+						<lon>-80.00669897156001</lon>
+
+							<typ>S</typ>
+                			<stpid>873</stpid>
+                			<stpnm>Federal St past North Ave</stpnm>
+                			<pdist>6522.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.457245678665</lat>
+						<lon>-80.007163544972</lon>
+
+							<typ>S</typ>
+                			<stpid>19577</stpid>
+                			<stpnm>Federal St at Hemlock St</stpnm>
+                			<pdist>7066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.457780383697</lat>
+						<lon>-80.00732984193098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.458861331388</lat>
+						<lon>-80.00763362698399</lon>
+
+							<typ>S</typ>
+                			<stpid>875</stpid>
+                			<stpnm>Federal St at Henderson St</stpnm>
+                			<pdist>7686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.459102147474</lat>
+						<lon>-80.00785893254101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.459212351157</lat>
+						<lon>-80.00799840741001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.459306228228</lat>
+						<lon>-80.008207619713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.459502145167</lat>
+						<lon>-80.00840610318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.460216433303</lat>
+						<lon>-80.008567833332</lon>
+
+							<typ>S</typ>
+                			<stpid>876</stpid>
+                			<stpnm>Federal St opp #1623</stpnm>
+                			<pdist>8266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.461269465867</lat>
+						<lon>-80.00870194378297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.461208540521</lat>
+						<lon>-80.00898258465799</lon>
+
+							<typ>S</typ>
+                			<stpid>877</stpid>
+                			<stpnm>Perrysville Ave at #1664</stpnm>
+                			<pdist>8735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.461151399591</lat>
+						<lon>-80.00911669510901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.460065712683</lat>
+						<lon>-80.00998036641198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.459959591968</lat>
+						<lon>-80.01011447686199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.459928032521</lat>
+						<lon>-80.01026076123702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.459977011356</lat>
+						<lon>-80.01081329629403</lon>
+
+							<typ>S</typ>
+                			<stpid>878</stpid>
+                			<stpnm>Perrysville Ave opp #1733</stpnm>
+                			<pdist>9532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.460039735127</lat>
+						<lon>-80.01145018318903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.460092795442</lat>
+						<lon>-80.01217974404102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.460300954734</lat>
+						<lon>-80.01296831349202</lon>
+
+							<typ>S</typ>
+                			<stpid>879</stpid>
+                			<stpnm>Perrysville Ave opp O'Hern St</stpnm>
+                			<pdist>10201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.460470938161</lat>
+						<lon>-80.01356929960298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.460585221131</lat>
+						<lon>-80.01370877447198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.460675014756</lat>
+						<lon>-80.01375168981599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.460760726741</lat>
+						<lon>-80.01375168981701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.46159743323</lat>
+						<lon>-80.01348883333299</lon>
+
+							<typ>S</typ>
+                			<stpid>880</stpid>
+                			<stpnm>Perrysville Ave opp #1923</stpnm>
+                			<pdist>10797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.46223396252</lat>
+						<lon>-80.01331103108498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.462474766516</lat>
+						<lon>-80.01330566666701</lon>
+
+							<typ>S</typ>
+                			<stpid>881</stpid>
+                			<stpnm>Perrysville Ave at Langley St</stpnm>
+                			<pdist>11122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.462720205419</lat>
+						<lon>-80.01349523678198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.462997740143</lat>
+						<lon>-80.013709813503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.463156913952</lat>
+						<lon>-80.01372590675703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.463316087385</lat>
+						<lon>-80.01366689815899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.463409958719</lat>
+						<lon>-80.01353278770802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.463634433118</lat>
+						<lon>-80.01239016666801</lon>
+
+							<typ>S</typ>
+                			<stpid>883</stpid>
+                			<stpnm>Perrysville Ave opp Wilson Ave</stpnm>
+                			<pdist>11806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.463765036059</lat>
+						<lon>-80.01166060581602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.463834418769</lat>
+						<lon>-80.01149967327501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.463944614689</lat>
+						<lon>-80.01134946957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.464082006361</lat>
+						<lon>-80.01127296031598</lon>
+
+							<typ>S</typ>
+                			<stpid>884</stpid>
+                			<stpnm>Perrysville Ave at Clayton Ave</stpnm>
+                			<pdist>12163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.464220771053</lat>
+						<lon>-80.01125686706098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.464803668656</lat>
+						<lon>-80.01144385582097</lon>
+
+							<typ>S</typ>
+                			<stpid>885</stpid>
+                			<stpnm>Perrysville Ave at LaFayette Ave</stpnm>
+                			<pdist>12433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.465472994395</lat>
+						<lon>-80.01167452579602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.465648487235</lat>
+						<lon>-80.01169598346803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.465913766239</lat>
+						<lon>-80.011679890214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.466072933138</lat>
+						<lon>-80.01163161045201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.466244343224</lat>
+						<lon>-80.011529686509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.466434432968</lat>
+						<lon>-80.01129916666798</lon>
+
+							<typ>S</typ>
+                			<stpid>886</stpid>
+                			<stpnm>Perrysville Ave at Koerner Ave</stpnm>
+                			<pdist>13092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.466907847687</lat>
+						<lon>-80.01021555422597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.46699763286</lat>
+						<lon>-80.010000977505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.467209254512</lat>
+						<lon>-80.00991280224798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.467527581794</lat>
+						<lon>-80.009864522486</lon>
+
+							<typ>S</typ>
+                			<stpid>887</stpid>
+                			<stpnm>Perrysville Ave at Burgess St</stpnm>
+                			<pdist>13682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.468542542842</lat>
+						<lon>-80.00973776323002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.46866089312</lat>
+						<lon>-80.009641203706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.468738432844</lat>
+						<lon>-80.00949100000099</lon>
+
+							<typ>S</typ>
+                			<stpid>888</stpid>
+                			<stpnm>Perrysville Ave at McIntyre Ave</stpnm>
+                			<pdist>14182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.468811033825</lat>
+						<lon>-80.00933095635298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.469166082612</lat>
+						<lon>-80.008692590608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.469296674798</lat>
+						<lon>-80.00851556481302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.46949664359</lat>
+						<lon>-80.00834926785302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.469700692763</lat>
+						<lon>-80.00831171692698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.47021489393</lat>
+						<lon>-80.00834926785399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.470729091161</lat>
+						<lon>-80.00844582737801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.470969864701</lat>
+						<lon>-80.00854775132098</lon>
+
+							<typ>S</typ>
+                			<stpid>890</stpid>
+                			<stpnm>Perrysville Ave at N. Charles St</stpnm>
+                			<pdist>15109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.471295077055</lat>
+						<lon>-80.008697997345</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.471470554683</lat>
+						<lon>-80.00892866731999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.471670517001</lat>
+						<lon>-80.00960994841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.471809266015</lat>
+						<lon>-80.00996399999997</lon>
+
+							<typ>S</typ>
+                			<stpid>891</stpid>
+                			<stpnm>Perrysville Ave opp Ellzey St</stpnm>
+                			<pdist>15664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.471948359797</lat>
+						<lon>-80.01016310978599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.472193209791</lat>
+						<lon>-80.01028112698299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.472719634257</lat>
+						<lon>-80.010302584655</lon>
+
+							<typ>S</typ>
+                			<stpid>892</stpid>
+                			<stpnm>Perrysville Ave at Hawkins St</stpnm>
+                			<pdist>15957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.474183292182</lat>
+						<lon>-80.01037891798899</lon>
+
+							<typ>S</typ>
+                			<stpid>893</stpid>
+                			<stpnm>Perrysville Ave at Kennedy Ave</stpnm>
+                			<pdist>16585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.474340954908</lat>
+						<lon>-80.01040851256101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.47447153703</lat>
+						<lon>-80.01051580092098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.474900007834</lat>
+						<lon>-80.011127344577</lon>
+
+							<typ>S</typ>
+                			<stpid>894</stpid>
+                			<stpnm>Perrysville Ave opp Marshall Ave</stpnm>
+                			<pdist>16923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.475377470319</lat>
+						<lon>-80.01180957804002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.475679436429</lat>
+						<lon>-80.01208316335999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.475838580183</lat>
+						<lon>-80.01218508730199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.476038529495</lat>
+						<lon>-80.012265553573</lon>
+
+							<typ>S</typ>
+                			<stpid>895</stpid>
+                			<stpnm>Perrysville Ave at #3000</stpnm>
+                			<pdist>17465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.476245351742</lat>
+						<lon>-80.01232746957999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.476690133439</lat>
+						<lon>-80.01231674074398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.4782774496</lat>
+						<lon>-80.01198414682597</lon>
+
+							<typ>S</typ>
+                			<stpid>896</stpid>
+                			<stpnm>Perrysville Ave at Watson Blvd</stpnm>
+                			<pdist>18293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.479610432261</lat>
+						<lon>-80.01174933333402</lon>
+
+							<typ>S</typ>
+                			<stpid>897</stpid>
+                			<stpnm>Perrysville Ave at Delaware St</stpnm>
+                			<pdist>18774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.479700200451</lat>
+						<lon>-80.01173860449802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.479814450702</lat>
+						<lon>-80.01178151984197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.479949102533</lat>
+						<lon>-80.01194781680101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.480320413759</lat>
+						<lon>-80.01287049670202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.480434662954</lat>
+						<lon>-80.01303142924303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.480666328148</lat>
+						<lon>-80.01318795436401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.481102919988</lat>
+						<lon>-80.01338107341303</lon>
+
+							<typ>S</typ>
+                			<stpid>898</stpid>
+                			<stpnm>Perrysville Ave at #3358</stpnm>
+                			<pdist>19524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.481848601633</lat>
+						<lon>-80.01371626984701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.482077094627</lat>
+						<lon>-80.01375382077299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.482301506631</lat>
+						<lon>-80.013662625667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.483133864606</lat>
+						<lon>-80.01297598015901</lon>
+
+							<typ>S</typ>
+                			<stpid>899</stpid>
+                			<stpnm>Perrysville Ave at #3436</stpnm>
+                			<pdist>20356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.483302958612</lat>
+						<lon>-80.01286012565498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.483502885692</lat>
+						<lon>-80.01283866798303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.483682411542</lat>
+						<lon>-80.01290840541697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.483829295972</lat>
+						<lon>-80.01303715145002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.48418426535</lat>
+						<lon>-80.01355749999902</lon>
+
+							<typ>S</typ>
+                			<stpid>900</stpid>
+                			<stpnm>Perrysville Ave at Watson Blvd</stpnm>
+                			<pdist>20788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.484219904817</lat>
+						<lon>-80.01355509456198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.484297426574</lat>
+						<lon>-80.01354436572603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.484387188497</lat>
+						<lon>-80.01460652049502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.48447287022</lat>
+						<lon>-80.014923021159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.48455447176</lat>
+						<lon>-80.01510541137202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.484717674541</lat>
+						<lon>-80.01532535251101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.484884956981</lat>
+						<lon>-80.01548628505202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.485064479135</lat>
+						<lon>-80.01557211574101</lon>
+
+							<typ>S</typ>
+                			<stpid>902</stpid>
+                			<stpnm>Perrysville Ave at Cherryfield St</stpnm>
+                			<pdist>21475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.486726411541</lat>
+						<lon>-80.016178011244</lon>
+
+							<typ>S</typ>
+                			<stpid>904</stpid>
+                			<stpnm>Perrysville Ave at Richey Ave</stpnm>
+                			<pdist>22111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.486979252893</lat>
+						<lon>-80.01625955885902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.487713635753</lat>
+						<lon>-80.01619518584198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.487864591234</lat>
+						<lon>-80.01622200793298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.487925789306</lat>
+						<lon>-80.01626492327699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.48801962624</lat>
+						<lon>-80.01636684721899</lon>
+
+							<typ>S</typ>
+                			<stpid>905</stpid>
+                			<stpnm>Perrysville Ave at #3820</stpnm>
+                			<pdist>22632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.488779935202</lat>
+						<lon>-80.01748637697898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.489163436964</lat>
+						<lon>-80.01804427645402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.489338867891</lat>
+						<lon>-80.01822666666703</lon>
+
+							<typ>S</typ>
+                			<stpid>906</stpid>
+                			<stpnm>Perrysville Ave at East St</stpnm>
+                			<pdist>23307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.489485850906</lat>
+						<lon>-80.01830744841101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.490191648221</lat>
+						<lon>-80.01846301653399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.490314040064</lat>
+						<lon>-80.018516660714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.490432351967</lat>
+						<lon>-80.01872587301699</lon>
+
+							<typ>S</typ>
+                			<stpid>633</stpid>
+                			<stpnm>Perrysville Ave past Franklin Rd</stpnm>
+                			<pdist>23752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.4910442603</lat>
+						<lon>-80.01975865144902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.491121774175</lat>
+						<lon>-80.019882033064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.491252323656</lat>
+						<lon>-80.020042965605</lon>
+
+							<typ>S</typ>
+                			<stpid>19332</stpid>
+                			<stpnm>Perrysville Ave past Waldorf St</stpnm>
+                			<pdist>24307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.492340306013</lat>
+						<lon>-80.02136571692802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.492744185315</lat>
+						<lon>-80.02173586177298</lon>
+
+							<typ>S</typ>
+                			<stpid>635</stpid>
+                			<stpnm>Perrysville Ave at Vinceton St</stpnm>
+                			<pdist>24964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.493294925901</lat>
+						<lon>-80.02215428637902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.493378905931</lat>
+						<lon>-80.02218799272799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.493489053367</lat>
+						<lon>-80.02219335714597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.493599200623</lat>
+						<lon>-80.02216653505599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.493709347699</lat>
+						<lon>-80.02207533994999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.494064264822</lat>
+						<lon>-80.021576449073</lon>
+
+							<typ>S</typ>
+                			<stpid>636</stpid>
+                			<stpnm>Perry Hwy at #4146</stpnm>
+                			<pdist>25559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.494236793342</lat>
+						<lon>-80.02132415771501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.494334700931</lat>
+						<lon>-80.021141767502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.494469323634</lat>
+						<lon>-80.021013021469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.494661058533</lat>
+						<lon>-80.02086818218197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.495036367811</lat>
+						<lon>-80.020599961281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.495268895333</lat>
+						<lon>-80.02045512199402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.495411674991</lat>
+						<lon>-80.020353198051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.495653455009</lat>
+						<lon>-80.02022979365</lon>
+
+							<typ>S</typ>
+                			<stpid>637</stpid>
+                			<stpnm>Perrysville Ave opp Connie Dr</stpnm>
+                			<pdist>26496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.495819615196</lat>
+						<lon>-80.02011179924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.496072536878</lat>
+						<lon>-80.02000451087997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.496333616324</lat>
+						<lon>-80.01991868019098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.496602853438</lat>
+						<lon>-80.01986503601097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.496880248122</lat>
+						<lon>-80.01985430717502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.497149483043</lat>
+						<lon>-80.01987576484703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.497426875468</lat>
+						<lon>-80.01994013786299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.497679791091</lat>
+						<lon>-80.02001523971603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.497957181322</lat>
+						<lon>-80.020101070404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.49825904586</lat>
+						<lon>-80.02021908760099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.498560909039</lat>
+						<lon>-80.020342469215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.498830137215</lat>
+						<lon>-80.02049267292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.499058572396</lat>
+						<lon>-80.02061605453503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.499319640222</lat>
+						<lon>-80.02080917358398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.499499123763</lat>
+						<lon>-80.020991563797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.499645973576</lat>
+						<lon>-80.021131038666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.499792823067</lat>
+						<lon>-80.021281242371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.499947830515</lat>
+						<lon>-80.02147436142002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.500102096544</lat>
+						<lon>-80.021773556879</lon>
+
+							<typ>S</typ>
+                			<stpid>639</stpid>
+                			<stpnm>Perry Hwy at West View Ave</stpnm>
+                			<pdist>27925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.500229290491</lat>
+						<lon>-80.02198934555099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.500319031104</lat>
+						<lon>-80.022123456001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.500408771598</lat>
+						<lon>-80.022252202034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.500510749286</lat>
+						<lon>-80.02240777015697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.500649438693</lat>
+						<lon>-80.02258479595201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.5007922069</lat>
+						<lon>-80.02274572849302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.500894184005</lat>
+						<lon>-80.02286911010697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.501004319104</lat>
+						<lon>-80.02297639846802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.501159323752</lat>
+						<lon>-80.023131966591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.501302090875</lat>
+						<lon>-80.02325534820602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.501416304354</lat>
+						<lon>-80.02334654331202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.501534596681</lat>
+						<lon>-80.02343773841903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.501652888799</lat>
+						<lon>-80.02350747585297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.501816049999</lat>
+						<lon>-80.02359867095902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.501991447847</lat>
+						<lon>-80.02370059490198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.502240267262</lat>
+						<lon>-80.02383470535301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.502383032084</lat>
+						<lon>-80.02393126487698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.502533954565</lat>
+						<lon>-80.024054646492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.502640007997</lat>
+						<lon>-80.024151206017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.502733824356</lat>
+						<lon>-80.02424240112299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.502843956434</lat>
+						<lon>-80.02436041831999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.502954088333</lat>
+						<lon>-80.02448379993399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.503100930582</lat>
+						<lon>-80.02467155456497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.503227377817</lat>
+						<lon>-80.02482712268801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.503365535851</lat>
+						<lon>-80.02501054828303</lon>
+
+							<typ>S</typ>
+                			<stpid>641</stpid>
+                			<stpnm>Perry Hwy at Cemetery Ln</stpnm>
+                			<pdist>29459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.504309631706</lat>
+						<lon>-80.02634613228298</lon>
+
+							<typ>S</typ>
+                			<stpid>19728</stpid>
+                			<stpnm>PERRY HWY + HANWAY</stpnm>
+                			<pdist>30039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.50455301996484</lat>
+						<lon>-80.02678513526917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.5047080164129</lat>
+						<lon>-80.02707481384277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.50496906225267</lat>
+						<lon>-80.02766489982605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.505257761774</lat>
+						<lon>-80.028370915344</lon>
+
+							<typ>S</typ>
+                			<stpid>643</stpid>
+                			<stpnm>Perry Hwy at Clarwin Ave</stpnm>
+                			<pdist>30653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.50535973209</lat>
+						<lon>-80.02858012764699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.505575908648</lat>
+						<lon>-80.028880535057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.505747217878</lat>
+						<lon>-80.02906828968798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.506036811058</lat>
+						<lon>-80.02930432408101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.506248906678</lat>
+						<lon>-80.029438434533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.506497710302</lat>
+						<lon>-80.02957254498301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.506770985348</lat>
+						<lon>-80.02967446892603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.507023865742</lat>
+						<lon>-80.02972274868802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.50750923028</lat>
+						<lon>-80.02971738426999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.508035377785</lat>
+						<lon>-80.02956718056498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.508679800889</lat>
+						<lon>-80.02936333268002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.509026481643</lat>
+						<lon>-80.02930968849898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.509058367977</lat>
+						<lon>-80.02876465344298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.509123625299</lat>
+						<lon>-80.02860372090197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.50925006118</lat>
+						<lon>-80.028496432542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.509625288843</lat>
+						<lon>-80.02833013558302</lon>
+
+							<typ>S</typ>
+                			<stpid>922</stpid>
+                			<stpnm>Center Ave at Perrysville Rd</stpnm>
+                			<pdist>32659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.511290450108</lat>
+						<lon>-80.02755258465697</lon>
+
+							<typ>S</typ>
+                			<stpid>923</stpid>
+                			<stpnm>Center Ave at Park Ave</stpnm>
+                			<pdist>33271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.511653936883</lat>
+						<lon>-80.02734303474404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.511841544251</lat>
+						<lon>-80.027214288712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.512102562326</lat>
+						<lon>-80.02701044082602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.512265698106</lat>
+						<lon>-80.02686023712198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.512494087532</lat>
+						<lon>-80.026656389236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.512705862072</lat>
+						<lon>-80.02643951124298</lon>
+
+							<typ>S</typ>
+                			<stpid>924</stpid>
+                			<stpnm>Center Ave at Martsolf St Steps</stpnm>
+                			<pdist>33887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.513326478745</lat>
+						<lon>-80.02565797156103</lon>
+
+							<typ>S</typ>
+                			<stpid>925</stpid>
+                			<stpnm>Center Ave at Frankfort Ave</stpnm>
+                			<pdist>34163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.514241307082</lat>
+						<lon>-80.024351319446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.514404437659</lat>
+						<lon>-80.02402408994601</lon>
+
+							<typ>S</typ>
+                			<stpid>926</stpid>
+                			<stpnm>Center Ave at Oakwood Ave</stpnm>
+                			<pdist>34748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.514710753723</lat>
+						<lon>-80.02354247553103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.515102263701</lat>
+						<lon>-80.023038220236</lon>
+
+							<typ>S</typ>
+                			<stpid>927</stpid>
+                			<stpnm>Center Ave at Ridgewood Ave (Steps)</stpnm>
+                			<pdist>35170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.51528170501</lat>
+						<lon>-80.022866558859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.515550866073</lat>
+						<lon>-80.02262516004703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.515820026056</lat>
+						<lon>-80.02245886308901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.515987230955</lat>
+						<lon>-80.02231402380198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.516720425003</lat>
+						<lon>-80.021982940474</lon>
+
+							<typ>S</typ>
+                			<stpid>929</stpid>
+                			<stpnm>Center Ave at Hawthorne Ave</stpnm>
+                			<pdist>35833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.516902575346</lat>
+						<lon>-80.02197055686798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.517098324221</lat>
+						<lon>-80.02198128570501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.517245135502</lat>
+						<lon>-80.02205638755697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.517416414924</lat>
+						<lon>-80.022169040336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.517518366753</lat>
+						<lon>-80.02228705753203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.517652942931</lat>
+						<lon>-80.02249626983502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.517746738288</lat>
+						<lon>-80.02276449073702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.517791596891</lat>
+						<lon>-80.02313999999899</lon>
+
+							<typ>S</typ>
+                			<stpid>20179</stpid>
+                			<stpnm>Center Ave at Norwich St</stpnm>
+                			<pdist>36413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.517775495968</lat>
+						<lon>-80.02328428106802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.517742871525</lat>
+						<lon>-80.02346667128097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.517751027637</lat>
+						<lon>-80.02366515474802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.517795886237</lat>
+						<lon>-80.02387973146898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>249</seq>
+						<lat>40.517897837489</lat>
+						<lon>-80.02416941004299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>250</seq>
+						<lat>40.518024256827</lat>
+						<lon>-80.02439471560001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>251</seq>
+						<lat>40.518158831988</lat>
+						<lon>-80.02458783464897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>252</seq>
+						<lat>40.518301562925</lat>
+						<lon>-80.02472730951797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>253</seq>
+						<lat>40.518517697765</lat>
+						<lon>-80.02486678438697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>254</seq>
+						<lat>40.518758299881</lat>
+						<lon>-80.02501698809101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>255</seq>
+						<lat>40.518860249669</lat>
+						<lon>-80.02510818319797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>256</seq>
+						<lat>40.518970355267</lat>
+						<lon>-80.02527984457498</lon>
+
+							<typ>S</typ>
+                			<stpid>931</stpid>
+                			<stpnm>Center Ave at Township</stpnm>
+                			<pdist>37201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>257</seq>
+						<lat>40.518974433248</lat>
+						<lon>-80.02545150595199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>258</seq>
+						<lat>40.518424199725</lat>
+						<lon>-80.027685480157</lon>
+
+							<typ>S</typ>
+                			<stpid>650</stpid>
+                			<stpnm>Perry Hwy at #328</stpnm>
+                			<pdist>37923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>259</seq>
+						<lat>40.518036787183</lat>
+						<lon>-80.02891929630403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>260</seq>
+						<lat>40.517715430227</lat>
+						<lon>-80.030036999998</lon>
+
+							<typ>S</typ>
+                			<stpid>651</stpid>
+                			<stpnm>Perry Hwy at VFW</stpnm>
+                			<pdist>38619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>261</seq>
+						<lat>40.517699145791</lat>
+						<lon>-80.03042681877002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>262</seq>
+						<lat>40.517727692199</lat>
+						<lon>-80.030802328032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>263</seq>
+						<lat>40.517788863031</lat>
+						<lon>-80.03101690475398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>264</seq>
+						<lat>40.51747893024</lat>
+						<lon>-80.031982499999</lon>
+
+							<typ>S</typ>
+                			<stpid>617</stpid>
+                			<stpnm>West View Park Rd past Perry Hwy</stpnm>
+                			<pdist>39166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>265</seq>
+						<lat>40.516998263599</lat>
+						<lon>-80.03338616666599</lon>
+
+							<typ>S</typ>
+                			<stpid>618</stpid>
+                			<stpnm>West View Park Rd at West View Towers</stpnm>
+                			<pdist>39586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>266</seq>
+						<lat>40.516769889515</lat>
+						<lon>-80.03390115079702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>267</seq>
+						<lat>40.516627155317</lat>
+						<lon>-80.03455560979603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>268</seq>
+						<lat>40.516627155317</lat>
+						<lon>-80.03500622091099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>269</seq>
+						<lat>40.516688327153</lat>
+						<lon>-80.03529589948499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>270</seq>
+						<lat>40.516965638777</lat>
+						<lon>-80.035451467607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>271</seq>
+						<lat>40.517039044604</lat>
+						<lon>-80.03557484922203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>272</seq>
+						<lat>40.517503946303</lat>
+						<lon>-80.036948140238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>273</seq>
+						<lat>40.517565117339</lat>
+						<lon>-80.03725927648298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>274</seq>
+						<lat>40.517525571485</lat>
+						<lon>-80.03774710449699</lon>
+
+							<typ>S</typ>
+                			<stpid>16529</stpid>
+                			<stpnm>West View Plaza at Dollar Tree</stpnm>
+                			<pdist>40956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>275</seq>
+						<lat>40.517435853893</lat>
+						<lon>-80.03845520767698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>276</seq>
+						<lat>40.517358370422</lat>
+						<lon>-80.03863223347201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>277</seq>
+						<lat>40.517268652606</lat>
+						<lon>-80.03869660648797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>278</seq>
+						<lat>40.516954639307</lat>
+						<lon>-80.03867514881597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>279</seq>
+						<lat>40.516803352162</lat>
+						<lon>-80.03862674008099</lon>
+
+							<typ>S</typ>
+                			<stpid>619</stpid>
+                			<stpnm>West View Plaza at Giant Eagle</stpnm>
+                			<pdist>41408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>280</seq>
+						<lat>40.516301742318</lat>
+						<lon>-80.038551638228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>281</seq>
+						<lat>40.516224257536</lat>
+						<lon>-80.03850335846602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>282</seq>
+						<lat>40.516179397884</lat>
+						<lon>-80.03836924801499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>283</seq>
+						<lat>40.516248726424</lat>
+						<lon>-80.03758604298298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>284</seq>
+						<lat>40.516326211177</lat>
+						<lon>-80.03753239880302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>285</seq>
+						<lat>40.516513805474</lat>
+						<lon>-80.037569949729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>286</seq>
+						<lat>40.516538274256</lat>
+						<lon>-80.03701205025402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>287</seq>
+						<lat>40.516586018827</lat>
+						<lon>-80.03663127380702</lon>
+
+							<typ>S</typ>
+                			<stpid>620</stpid>
+                			<stpnm>West View Plaza at K-Mart</stpnm>
+                			<pdist>42187.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5698</pid>
+				<ln>42596.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.443314338118</lat>
+						<lon>-80.00012062434001</lon>
+
+							<typ>S</typ>
+                			<stpid>2932</stpid>
+                			<stpnm>Penn Ave at 7th St</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.44328576005</lat>
+						<lon>-80.00023327711898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.444530493611</lat>
+						<lon>-80.00080546031501</lon>
+
+							<typ>S</typ>
+                			<stpid>213</stpid>
+                			<stpnm>7th St at Ft Duquesne Blvd</stpnm>
+                			<pdist>509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.445118137596</lat>
+						<lon>-79.998922348022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.445285518688</lat>
+						<lon>-79.99901354312897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.445987698237</lat>
+						<lon>-79.99934613704698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.446497998539</lat>
+						<lon>-79.99960362911202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.44752675217</lat>
+						<lon>-80.00012934207899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.448008464727</lat>
+						<lon>-80.00036001205399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.448210189202</lat>
+						<lon>-80.00045721759398</lon>
+
+							<typ>S</typ>
+                			<stpid>15719</stpid>
+                			<stpnm>ANDERSON ST + ISABELLA ST</stpnm>
+                			<pdist>2265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.450499472008</lat>
+						<lon>-80.00120426851998</lon>
+
+							<typ>S</typ>
+                			<stpid>15720</stpid>
+                			<stpnm>Anderson St at Underpass (Stockton)</stpnm>
+                			<pdist>3203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.450747628967</lat>
+						<lon>-80.00125050544699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.450849682109</lat>
+						<lon>-80.00084280967701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.451530433769</lat>
+						<lon>-80.00105743783098</lon>
+
+							<typ>S</typ>
+                			<stpid>944</stpid>
+                			<stpnm>Cedar Ave at Pressley St</stpnm>
+                			<pdist>3625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.453171015664</lat>
+						<lon>-80.001590677911</lon>
+
+							<typ>S</typ>
+                			<stpid>19329</stpid>
+                			<stpnm>Cedar Ave at East Ohio</stpnm>
+                			<pdist>4237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.454828174494</lat>
+						<lon>-80.00212881084599</lon>
+
+							<typ>S</typ>
+                			<stpid>2596</stpid>
+                			<stpnm>Cedar Ave at Suismon St</stpnm>
+                			<pdist>4743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.456093545661</lat>
+						<lon>-80.002568693125</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.456293553761</lat>
+						<lon>-80.00264915939499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.455934318348</lat>
+						<lon>-80.00454534060401</lon>
+
+							<typ>S</typ>
+                			<stpid>18636</stpid>
+                			<stpnm>North Ave at Sandusky St</stpnm>
+                			<pdist>5973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.455527631768</lat>
+						<lon>-80.006593465805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.455783766874</lat>
+						<lon>-80.00669897156001</lon>
+
+							<typ>S</typ>
+                			<stpid>873</stpid>
+                			<stpnm>Federal St past North Ave</stpnm>
+                			<pdist>6522.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.457245678665</lat>
+						<lon>-80.007163544972</lon>
+
+							<typ>S</typ>
+                			<stpid>19577</stpid>
+                			<stpnm>Federal St at Hemlock St</stpnm>
+                			<pdist>7066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.457780383697</lat>
+						<lon>-80.00732984193098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.458861331388</lat>
+						<lon>-80.00763362698399</lon>
+
+							<typ>S</typ>
+                			<stpid>875</stpid>
+                			<stpnm>Federal St at Henderson St</stpnm>
+                			<pdist>7686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.459102147474</lat>
+						<lon>-80.00785893254101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.459212351157</lat>
+						<lon>-80.00799840741001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.459306228228</lat>
+						<lon>-80.008207619713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.459502145167</lat>
+						<lon>-80.00840610318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.460216433303</lat>
+						<lon>-80.008567833332</lon>
+
+							<typ>S</typ>
+                			<stpid>876</stpid>
+                			<stpnm>Federal St opp #1623</stpnm>
+                			<pdist>8266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.461269465867</lat>
+						<lon>-80.00870194378297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.461208540521</lat>
+						<lon>-80.00898258465799</lon>
+
+							<typ>S</typ>
+                			<stpid>877</stpid>
+                			<stpnm>Perrysville Ave at #1664</stpnm>
+                			<pdist>8735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.461151399591</lat>
+						<lon>-80.00911669510901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.460065712683</lat>
+						<lon>-80.00998036641198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.459959591968</lat>
+						<lon>-80.01011447686199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.459928032521</lat>
+						<lon>-80.01026076123702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.459977011356</lat>
+						<lon>-80.01081329629403</lon>
+
+							<typ>S</typ>
+                			<stpid>878</stpid>
+                			<stpnm>Perrysville Ave opp #1733</stpnm>
+                			<pdist>9532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.460039735127</lat>
+						<lon>-80.01145018318903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.460092795442</lat>
+						<lon>-80.01217974404102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.460300954734</lat>
+						<lon>-80.01296831349202</lon>
+
+							<typ>S</typ>
+                			<stpid>879</stpid>
+                			<stpnm>Perrysville Ave opp O'Hern St</stpnm>
+                			<pdist>10201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.460470938161</lat>
+						<lon>-80.01356929960298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.460585221131</lat>
+						<lon>-80.01370877447198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.460675014756</lat>
+						<lon>-80.01375168981599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.460760726741</lat>
+						<lon>-80.01375168981701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.46159743323</lat>
+						<lon>-80.01348883333299</lon>
+
+							<typ>S</typ>
+                			<stpid>880</stpid>
+                			<stpnm>Perrysville Ave opp #1923</stpnm>
+                			<pdist>10797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.46223396252</lat>
+						<lon>-80.01331103108498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.462474766516</lat>
+						<lon>-80.01330566666701</lon>
+
+							<typ>S</typ>
+                			<stpid>881</stpid>
+                			<stpnm>Perrysville Ave at Langley St</stpnm>
+                			<pdist>11122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.462720205419</lat>
+						<lon>-80.01349523678198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.462997740143</lat>
+						<lon>-80.013709813503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.463156913952</lat>
+						<lon>-80.01372590675703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.463316087385</lat>
+						<lon>-80.01366689815899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.463409958719</lat>
+						<lon>-80.01353278770802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.463634433118</lat>
+						<lon>-80.01239016666801</lon>
+
+							<typ>S</typ>
+                			<stpid>883</stpid>
+                			<stpnm>Perrysville Ave opp Wilson Ave</stpnm>
+                			<pdist>11806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.463765036059</lat>
+						<lon>-80.01166060581602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.463834418769</lat>
+						<lon>-80.01149967327501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.463944614689</lat>
+						<lon>-80.01134946957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.464082006361</lat>
+						<lon>-80.01127296031598</lon>
+
+							<typ>S</typ>
+                			<stpid>884</stpid>
+                			<stpnm>Perrysville Ave at Clayton Ave</stpnm>
+                			<pdist>12163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.464220771053</lat>
+						<lon>-80.01125686706098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.464803668656</lat>
+						<lon>-80.01144385582097</lon>
+
+							<typ>S</typ>
+                			<stpid>885</stpid>
+                			<stpnm>Perrysville Ave at LaFayette Ave</stpnm>
+                			<pdist>12433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.465472994395</lat>
+						<lon>-80.01167452579602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.465648487235</lat>
+						<lon>-80.01169598346803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.465913766239</lat>
+						<lon>-80.011679890214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.466072933138</lat>
+						<lon>-80.01163161045201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.466244343224</lat>
+						<lon>-80.011529686509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.466434432968</lat>
+						<lon>-80.01129916666798</lon>
+
+							<typ>S</typ>
+                			<stpid>886</stpid>
+                			<stpnm>Perrysville Ave at Koerner Ave</stpnm>
+                			<pdist>13092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.466907847687</lat>
+						<lon>-80.01021555422597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.46699763286</lat>
+						<lon>-80.010000977505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.467209254512</lat>
+						<lon>-80.00991280224798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.467527581794</lat>
+						<lon>-80.009864522486</lon>
+
+							<typ>S</typ>
+                			<stpid>887</stpid>
+                			<stpnm>Perrysville Ave at Burgess St</stpnm>
+                			<pdist>13682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.468542542842</lat>
+						<lon>-80.00973776323002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.46866089312</lat>
+						<lon>-80.009641203706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.468738432844</lat>
+						<lon>-80.00949100000099</lon>
+
+							<typ>S</typ>
+                			<stpid>888</stpid>
+                			<stpnm>Perrysville Ave at McIntyre Ave</stpnm>
+                			<pdist>14182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.468811033825</lat>
+						<lon>-80.00933095635298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.469166082612</lat>
+						<lon>-80.008692590608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.469296674798</lat>
+						<lon>-80.00851556481302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.46949664359</lat>
+						<lon>-80.00834926785302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.469700692763</lat>
+						<lon>-80.00831171692698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.47021489393</lat>
+						<lon>-80.00834926785399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.470729091161</lat>
+						<lon>-80.00844582737801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.470969864701</lat>
+						<lon>-80.00854775132098</lon>
+
+							<typ>S</typ>
+                			<stpid>890</stpid>
+                			<stpnm>Perrysville Ave at N. Charles St</stpnm>
+                			<pdist>15109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.471295077055</lat>
+						<lon>-80.008697997345</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.471470554683</lat>
+						<lon>-80.00892866731999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.471670517001</lat>
+						<lon>-80.00960994841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.471809266015</lat>
+						<lon>-80.00996399999997</lon>
+
+							<typ>S</typ>
+                			<stpid>891</stpid>
+                			<stpnm>Perrysville Ave opp Ellzey St</stpnm>
+                			<pdist>15664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.471948359797</lat>
+						<lon>-80.01016310978599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.472193209791</lat>
+						<lon>-80.01028112698299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.472719634257</lat>
+						<lon>-80.010302584655</lon>
+
+							<typ>S</typ>
+                			<stpid>892</stpid>
+                			<stpnm>Perrysville Ave at Hawkins St</stpnm>
+                			<pdist>15957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.474183292182</lat>
+						<lon>-80.01037891798899</lon>
+
+							<typ>S</typ>
+                			<stpid>893</stpid>
+                			<stpnm>Perrysville Ave at Kennedy Ave</stpnm>
+                			<pdist>16585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.474340954908</lat>
+						<lon>-80.01040851256101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.47447153703</lat>
+						<lon>-80.01051580092098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.474900007834</lat>
+						<lon>-80.011127344577</lon>
+
+							<typ>S</typ>
+                			<stpid>894</stpid>
+                			<stpnm>Perrysville Ave opp Marshall Ave</stpnm>
+                			<pdist>16923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.475377470319</lat>
+						<lon>-80.01180957804002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.475679436429</lat>
+						<lon>-80.01208316335999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.475838580183</lat>
+						<lon>-80.01218508730199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.476038529495</lat>
+						<lon>-80.012265553573</lon>
+
+							<typ>S</typ>
+                			<stpid>895</stpid>
+                			<stpnm>Perrysville Ave at #3000</stpnm>
+                			<pdist>17465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.476245351742</lat>
+						<lon>-80.01232746957999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.476690133439</lat>
+						<lon>-80.01231674074398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.4782774496</lat>
+						<lon>-80.01198414682597</lon>
+
+							<typ>S</typ>
+                			<stpid>896</stpid>
+                			<stpnm>Perrysville Ave at Watson Blvd</stpnm>
+                			<pdist>18293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.479610432261</lat>
+						<lon>-80.01174933333402</lon>
+
+							<typ>S</typ>
+                			<stpid>897</stpid>
+                			<stpnm>Perrysville Ave at Delaware St</stpnm>
+                			<pdist>18774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.479700200451</lat>
+						<lon>-80.01173860449802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.479814450702</lat>
+						<lon>-80.01178151984197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.479949102533</lat>
+						<lon>-80.01194781680101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.480320413759</lat>
+						<lon>-80.01287049670202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.480434662954</lat>
+						<lon>-80.01303142924303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.480666328148</lat>
+						<lon>-80.01318795436401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.481102919988</lat>
+						<lon>-80.01338107341303</lon>
+
+							<typ>S</typ>
+                			<stpid>898</stpid>
+                			<stpnm>Perrysville Ave at #3358</stpnm>
+                			<pdist>19524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.481848601633</lat>
+						<lon>-80.01371626984701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.482077094627</lat>
+						<lon>-80.01375382077299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.482301506631</lat>
+						<lon>-80.013662625667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.483133864606</lat>
+						<lon>-80.01297598015901</lon>
+
+							<typ>S</typ>
+                			<stpid>899</stpid>
+                			<stpnm>Perrysville Ave at #3436</stpnm>
+                			<pdist>20356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.483302958612</lat>
+						<lon>-80.01286012565498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.483502885692</lat>
+						<lon>-80.01283866798303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.483682411542</lat>
+						<lon>-80.01290840541697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.483829295972</lat>
+						<lon>-80.01303715145002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.48418426535</lat>
+						<lon>-80.01355749999902</lon>
+
+							<typ>S</typ>
+                			<stpid>900</stpid>
+                			<stpnm>Perrysville Ave at Watson Blvd</stpnm>
+                			<pdist>20788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.484219904817</lat>
+						<lon>-80.01355509456198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.484297426574</lat>
+						<lon>-80.01354436572603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.484387188497</lat>
+						<lon>-80.01460652049502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.48447287022</lat>
+						<lon>-80.014923021159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.48455447176</lat>
+						<lon>-80.01510541137202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.484717674541</lat>
+						<lon>-80.01532535251101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.484884956981</lat>
+						<lon>-80.01548628505202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.485064479135</lat>
+						<lon>-80.01557211574101</lon>
+
+							<typ>S</typ>
+                			<stpid>902</stpid>
+                			<stpnm>Perrysville Ave at Cherryfield St</stpnm>
+                			<pdist>21475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.486726411541</lat>
+						<lon>-80.016178011244</lon>
+
+							<typ>S</typ>
+                			<stpid>904</stpid>
+                			<stpnm>Perrysville Ave at Richey Ave</stpnm>
+                			<pdist>22111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.486979252893</lat>
+						<lon>-80.01625955885902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.487713635753</lat>
+						<lon>-80.01619518584198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.487864591234</lat>
+						<lon>-80.01622200793298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.487925789306</lat>
+						<lon>-80.01626492327699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.48801962624</lat>
+						<lon>-80.01636684721899</lon>
+
+							<typ>S</typ>
+                			<stpid>905</stpid>
+                			<stpnm>Perrysville Ave at #3820</stpnm>
+                			<pdist>22632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.488779935202</lat>
+						<lon>-80.01748637697898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.489163436964</lat>
+						<lon>-80.01804427645402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.489338867891</lat>
+						<lon>-80.01822666666703</lon>
+
+							<typ>S</typ>
+                			<stpid>906</stpid>
+                			<stpnm>Perrysville Ave at East St</stpnm>
+                			<pdist>23307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.489485850906</lat>
+						<lon>-80.01830744841101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.490191648221</lat>
+						<lon>-80.01846301653399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.490314040064</lat>
+						<lon>-80.018516660714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.490432351967</lat>
+						<lon>-80.01872587301699</lon>
+
+							<typ>S</typ>
+                			<stpid>633</stpid>
+                			<stpnm>Perrysville Ave past Franklin Rd</stpnm>
+                			<pdist>23752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.4910442603</lat>
+						<lon>-80.01975865144902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.491121774175</lat>
+						<lon>-80.019882033064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.491252323656</lat>
+						<lon>-80.020042965605</lon>
+
+							<typ>S</typ>
+                			<stpid>19332</stpid>
+                			<stpnm>Perrysville Ave past Waldorf St</stpnm>
+                			<pdist>24307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.492340306013</lat>
+						<lon>-80.02136571692802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.492744185315</lat>
+						<lon>-80.02173586177298</lon>
+
+							<typ>S</typ>
+                			<stpid>635</stpid>
+                			<stpnm>Perrysville Ave at Vinceton St</stpnm>
+                			<pdist>24964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.493294925901</lat>
+						<lon>-80.02215428637902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.493378905931</lat>
+						<lon>-80.02218799272799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.493489053367</lat>
+						<lon>-80.02219335714597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.493599200623</lat>
+						<lon>-80.02216653505599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.493709347699</lat>
+						<lon>-80.02207533994999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.494064264822</lat>
+						<lon>-80.021576449073</lon>
+
+							<typ>S</typ>
+                			<stpid>636</stpid>
+                			<stpnm>Perry Hwy at #4146</stpnm>
+                			<pdist>25559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.494236793342</lat>
+						<lon>-80.02132415771501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.494334700931</lat>
+						<lon>-80.021141767502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.494469323634</lat>
+						<lon>-80.021013021469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.494661058533</lat>
+						<lon>-80.02086818218197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.495036367811</lat>
+						<lon>-80.020599961281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.495268895333</lat>
+						<lon>-80.02045512199402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.495411674991</lat>
+						<lon>-80.020353198051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.495653455009</lat>
+						<lon>-80.02022979365</lon>
+
+							<typ>S</typ>
+                			<stpid>637</stpid>
+                			<stpnm>Perrysville Ave opp Connie Dr</stpnm>
+                			<pdist>26496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.495819615196</lat>
+						<lon>-80.02011179924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.496072536878</lat>
+						<lon>-80.02000451087997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.496333616324</lat>
+						<lon>-80.01991868019098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.496602853438</lat>
+						<lon>-80.01986503601097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.496880248122</lat>
+						<lon>-80.01985430717502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.497149483043</lat>
+						<lon>-80.01987576484703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.497426875468</lat>
+						<lon>-80.01994013786299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.497679791091</lat>
+						<lon>-80.02001523971603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.497957181322</lat>
+						<lon>-80.020101070404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.49825904586</lat>
+						<lon>-80.02021908760099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.498560909039</lat>
+						<lon>-80.020342469215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.498830137215</lat>
+						<lon>-80.02049267292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.499058572396</lat>
+						<lon>-80.02061605453503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.499319640222</lat>
+						<lon>-80.02080917358398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.499499123763</lat>
+						<lon>-80.020991563797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.499645973576</lat>
+						<lon>-80.021131038666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.499792823067</lat>
+						<lon>-80.021281242371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.499947830515</lat>
+						<lon>-80.02147436142002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.500102096544</lat>
+						<lon>-80.021773556879</lon>
+
+							<typ>S</typ>
+                			<stpid>639</stpid>
+                			<stpnm>Perry Hwy at West View Ave</stpnm>
+                			<pdist>27925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.500229290491</lat>
+						<lon>-80.02198934555099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.500319031104</lat>
+						<lon>-80.022123456001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.500408771598</lat>
+						<lon>-80.022252202034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.500510749286</lat>
+						<lon>-80.02240777015697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.500649438693</lat>
+						<lon>-80.02258479595201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.5007922069</lat>
+						<lon>-80.02274572849302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.500894184005</lat>
+						<lon>-80.02286911010697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.501004319104</lat>
+						<lon>-80.02297639846802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.501159323752</lat>
+						<lon>-80.023131966591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.501302090875</lat>
+						<lon>-80.02325534820602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.501416304354</lat>
+						<lon>-80.02334654331202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.501534596681</lat>
+						<lon>-80.02343773841903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.501652888799</lat>
+						<lon>-80.02350747585297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.501816049999</lat>
+						<lon>-80.02359867095902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.501991447847</lat>
+						<lon>-80.02370059490198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.502240267262</lat>
+						<lon>-80.02383470535301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.502383032084</lat>
+						<lon>-80.02393126487698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.502533954565</lat>
+						<lon>-80.024054646492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.502640007997</lat>
+						<lon>-80.024151206017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.502733824356</lat>
+						<lon>-80.02424240112299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.502843956434</lat>
+						<lon>-80.02436041831999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.502954088333</lat>
+						<lon>-80.02448379993399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.503100930582</lat>
+						<lon>-80.02467155456497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.503227377817</lat>
+						<lon>-80.02482712268801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.503365535851</lat>
+						<lon>-80.02501054828303</lon>
+
+							<typ>S</typ>
+                			<stpid>641</stpid>
+                			<stpnm>Perry Hwy at Cemetery Ln</stpnm>
+                			<pdist>29459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.504309631706</lat>
+						<lon>-80.02634613228298</lon>
+
+							<typ>S</typ>
+                			<stpid>19728</stpid>
+                			<stpnm>PERRY HWY + HANWAY</stpnm>
+                			<pdist>30039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.50455301996484</lat>
+						<lon>-80.02678513526917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.5047080164129</lat>
+						<lon>-80.02707481384277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.50496906225267</lat>
+						<lon>-80.02766489982605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.505257761774</lat>
+						<lon>-80.028370915344</lon>
+
+							<typ>S</typ>
+                			<stpid>643</stpid>
+                			<stpnm>Perry Hwy at Clarwin Ave</stpnm>
+                			<pdist>30653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.50535973209</lat>
+						<lon>-80.02858012764699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.505575908648</lat>
+						<lon>-80.028880535057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.505747217878</lat>
+						<lon>-80.02906828968798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.506036811058</lat>
+						<lon>-80.02930432408101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.506248906678</lat>
+						<lon>-80.029438434533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.506497710302</lat>
+						<lon>-80.02957254498301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.506770985348</lat>
+						<lon>-80.02967446892603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.507023865742</lat>
+						<lon>-80.02972274868802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.50750923028</lat>
+						<lon>-80.02971738426999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.508035377785</lat>
+						<lon>-80.02956718056498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.508679800889</lat>
+						<lon>-80.02936333268002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.509026481643</lat>
+						<lon>-80.02930968849898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.509058367977</lat>
+						<lon>-80.02876465344298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.509123625299</lat>
+						<lon>-80.02860372090197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.50925006118</lat>
+						<lon>-80.028496432542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.509625288843</lat>
+						<lon>-80.02833013558302</lon>
+
+							<typ>S</typ>
+                			<stpid>922</stpid>
+                			<stpnm>Center Ave at Perrysville Rd</stpnm>
+                			<pdist>32659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.511290450108</lat>
+						<lon>-80.02755258465697</lon>
+
+							<typ>S</typ>
+                			<stpid>923</stpid>
+                			<stpnm>Center Ave at Park Ave</stpnm>
+                			<pdist>33271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.511653936883</lat>
+						<lon>-80.02734303474404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.511841544251</lat>
+						<lon>-80.027214288712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.512102562326</lat>
+						<lon>-80.02701044082602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.512265698106</lat>
+						<lon>-80.02686023712198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.512494087532</lat>
+						<lon>-80.026656389236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.512705862072</lat>
+						<lon>-80.02643951124298</lon>
+
+							<typ>S</typ>
+                			<stpid>924</stpid>
+                			<stpnm>Center Ave at Martsolf St Steps</stpnm>
+                			<pdist>33887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.513326478745</lat>
+						<lon>-80.02565797156103</lon>
+
+							<typ>S</typ>
+                			<stpid>925</stpid>
+                			<stpnm>Center Ave at Frankfort Ave</stpnm>
+                			<pdist>34163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.514241307082</lat>
+						<lon>-80.024351319446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.514404437659</lat>
+						<lon>-80.02402408994601</lon>
+
+							<typ>S</typ>
+                			<stpid>926</stpid>
+                			<stpnm>Center Ave at Oakwood Ave</stpnm>
+                			<pdist>34748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.514710753723</lat>
+						<lon>-80.02354247553103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.515102263701</lat>
+						<lon>-80.023038220236</lon>
+
+							<typ>S</typ>
+                			<stpid>927</stpid>
+                			<stpnm>Center Ave at Ridgewood Ave (Steps)</stpnm>
+                			<pdist>35170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.51528170501</lat>
+						<lon>-80.022866558859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.515550866073</lat>
+						<lon>-80.02262516004703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.515820026056</lat>
+						<lon>-80.02245886308901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.515987230955</lat>
+						<lon>-80.02231402380198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.516720425003</lat>
+						<lon>-80.021982940474</lon>
+
+							<typ>S</typ>
+                			<stpid>929</stpid>
+                			<stpnm>Center Ave at Hawthorne Ave</stpnm>
+                			<pdist>35833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.516902575346</lat>
+						<lon>-80.02197055686798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.517098324221</lat>
+						<lon>-80.02198128570501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.517245135502</lat>
+						<lon>-80.02205638755697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.517416414924</lat>
+						<lon>-80.022169040336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.517518366753</lat>
+						<lon>-80.02228705753203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.517652942931</lat>
+						<lon>-80.02249626983502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.517746738288</lat>
+						<lon>-80.02276449073702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.517791596891</lat>
+						<lon>-80.02313999999899</lon>
+
+							<typ>S</typ>
+                			<stpid>20179</stpid>
+                			<stpnm>Center Ave at Norwich St</stpnm>
+                			<pdist>36413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.517775495968</lat>
+						<lon>-80.02328428106802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.517742871525</lat>
+						<lon>-80.02346667128097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.517751027637</lat>
+						<lon>-80.02366515474802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.517795886237</lat>
+						<lon>-80.02387973146898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>249</seq>
+						<lat>40.517897837489</lat>
+						<lon>-80.02416941004299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>250</seq>
+						<lat>40.518024256827</lat>
+						<lon>-80.02439471560001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>251</seq>
+						<lat>40.518158831988</lat>
+						<lon>-80.02458783464897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>252</seq>
+						<lat>40.518301562925</lat>
+						<lon>-80.02472730951797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>253</seq>
+						<lat>40.518517697765</lat>
+						<lon>-80.02486678438697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>254</seq>
+						<lat>40.518758299881</lat>
+						<lon>-80.02501698809101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>255</seq>
+						<lat>40.518860249669</lat>
+						<lon>-80.02510818319797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>256</seq>
+						<lat>40.518970355267</lat>
+						<lon>-80.02527984457498</lon>
+
+							<typ>S</typ>
+                			<stpid>931</stpid>
+                			<stpnm>Center Ave at Township</stpnm>
+                			<pdist>37201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>257</seq>
+						<lat>40.518974433248</lat>
+						<lon>-80.02545150595199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>258</seq>
+						<lat>40.518424199725</lat>
+						<lon>-80.027685480157</lon>
+
+							<typ>S</typ>
+                			<stpid>650</stpid>
+                			<stpnm>Perry Hwy at #328</stpnm>
+                			<pdist>37923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>259</seq>
+						<lat>40.518036787183</lat>
+						<lon>-80.02891929630403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>260</seq>
+						<lat>40.517715430227</lat>
+						<lon>-80.030036999998</lon>
+
+							<typ>S</typ>
+                			<stpid>651</stpid>
+                			<stpnm>Perry Hwy at VFW</stpnm>
+                			<pdist>38619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>261</seq>
+						<lat>40.517699145791</lat>
+						<lon>-80.03042681877002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>262</seq>
+						<lat>40.517727692199</lat>
+						<lon>-80.030802328032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>263</seq>
+						<lat>40.517788863031</lat>
+						<lon>-80.03101690475398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>264</seq>
+						<lat>40.51747893024</lat>
+						<lon>-80.031982499999</lon>
+
+							<typ>S</typ>
+                			<stpid>617</stpid>
+                			<stpnm>West View Park Rd past Perry Hwy</stpnm>
+                			<pdist>39166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>265</seq>
+						<lat>40.516998263599</lat>
+						<lon>-80.03338616666599</lon>
+
+							<typ>S</typ>
+                			<stpid>618</stpid>
+                			<stpnm>West View Park Rd at West View Towers</stpnm>
+                			<pdist>39586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>266</seq>
+						<lat>40.516769889515</lat>
+						<lon>-80.03390115079702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>267</seq>
+						<lat>40.516627155317</lat>
+						<lon>-80.03455560979603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>268</seq>
+						<lat>40.516627155317</lat>
+						<lon>-80.03500622091099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>269</seq>
+						<lat>40.516688327153</lat>
+						<lon>-80.03529589948499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>270</seq>
+						<lat>40.516965638777</lat>
+						<lon>-80.035451467607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>271</seq>
+						<lat>40.517039044604</lat>
+						<lon>-80.03557484922203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>272</seq>
+						<lat>40.517503946303</lat>
+						<lon>-80.036948140238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>273</seq>
+						<lat>40.517565117339</lat>
+						<lon>-80.03725927648298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>274</seq>
+						<lat>40.517525571485</lat>
+						<lon>-80.03774710449699</lon>
+
+							<typ>S</typ>
+                			<stpid>16529</stpid>
+                			<stpnm>West View Plaza at Dollar Tree</stpnm>
+                			<pdist>40956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>275</seq>
+						<lat>40.517435853893</lat>
+						<lon>-80.03845520767698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>276</seq>
+						<lat>40.517358370422</lat>
+						<lon>-80.03863223347201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>277</seq>
+						<lat>40.517268652606</lat>
+						<lon>-80.03869660648797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>278</seq>
+						<lat>40.516954639307</lat>
+						<lon>-80.03867514881597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>279</seq>
+						<lat>40.516803352162</lat>
+						<lon>-80.03862674008099</lon>
+
+							<typ>S</typ>
+                			<stpid>619</stpid>
+                			<stpnm>West View Plaza at Giant Eagle</stpnm>
+                			<pdist>41408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>280</seq>
+						<lat>40.516301742318</lat>
+						<lon>-80.038551638228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>281</seq>
+						<lat>40.516224257536</lat>
+						<lon>-80.03850335846602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>282</seq>
+						<lat>40.516179397884</lat>
+						<lon>-80.03836924801499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>283</seq>
+						<lat>40.516248726424</lat>
+						<lon>-80.03758604298298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>284</seq>
+						<lat>40.516326211177</lat>
+						<lon>-80.03753239880302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>285</seq>
+						<lat>40.516513805474</lat>
+						<lon>-80.037569949729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>286</seq>
+						<lat>40.516538274256</lat>
+						<lon>-80.03701205025402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>287</seq>
+						<lat>40.516586018827</lat>
+						<lon>-80.03663127380702</lon>
+
+							<typ>S</typ>
+                			<stpid>620</stpid>
+                			<stpnm>West View Plaza at K-Mart</stpnm>
+                			<pdist>42187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>288</seq>
+						<lat>40.516663503192</lat>
+						<lon>-80.035322355808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>289</seq>
+						<lat>40.516900033854</lat>
+						<lon>-80.035397457661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>290</seq>
+						<lat>40.517005701103</lat>
+						<lon>-80.035514875651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>291</seq>
+						<lat>40.517539930238</lat>
+						<lon>-80.03688816666698</lon>
+
+							<typ>S</typ>
+                			<stpid>3167</stpid>
+                			<stpnm>LAYOVER WEST VIEW TERMINUS</stpnm>
+                			<pdist>42596.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

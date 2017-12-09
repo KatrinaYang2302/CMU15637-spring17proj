@@ -1,0 +1,1814 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2407</pid>
+				<ln>17880.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.464607099734</lat>
+						<lon>-79.938514977514</lon>
+
+							<typ>S</typ>
+                			<stpid>9176</stpid>
+                			<stpnm>Penn Ave at Atlantic Ave</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.465743933005</lat>
+						<lon>-79.938239999999</lon>
+
+							<typ>S</typ>
+                			<stpid>9212</stpid>
+                			<stpnm>Atlantic Ave at Broad St</stpnm>
+                			<pdist>448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.466549646206</lat>
+						<lon>-79.938004731482</lon>
+
+							<typ>S</typ>
+                			<stpid>9213</stpid>
+                			<stpnm>Atlantic Ave at Kincaid St</stpnm>
+                			<pdist>738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.467332636523</lat>
+						<lon>-79.937799347219</lon>
+
+							<typ>S</typ>
+                			<stpid>9214</stpid>
+                			<stpnm>Atlantic Ave at Rosetta St</stpnm>
+                			<pdist>1013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.468144919314</lat>
+						<lon>-79.937610826717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.468222459634</lat>
+						<lon>-79.938104353176</lon>
+
+							<typ>S</typ>
+                			<stpid>9215</stpid>
+                			<stpnm>Hillcrest St at Atlantic Ave</stpnm>
+                			<pdist>1419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.468978303188</lat>
+						<lon>-79.937947896157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.469121138777</lat>
+						<lon>-79.939020779763</lon>
+
+							<typ>S</typ>
+                			<stpid>9217</stpid>
+                			<stpnm>Columbo St at Pacific Ave</stpnm>
+                			<pdist>2023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.469139816348</lat>
+						<lon>-79.939173161367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.469196950483</lat>
+						<lon>-79.939430653432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.469254084569</lat>
+						<lon>-79.939575492719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.469356109601</lat>
+						<lon>-79.939672052243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.469437729516</lat>
+						<lon>-79.939779340604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.469645859849</lat>
+						<lon>-79.939977824071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.469764208183</lat>
+						<lon>-79.94011729894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.469927446921</lat>
+						<lon>-79.940203129628</lon>
+
+							<typ>S</typ>
+                			<stpid>9218</stpid>
+                			<stpnm>Columbo St at #5149</stpnm>
+                			<pdist>2665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.470050834222</lat>
+						<lon>-79.940259986112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.470214072264</lat>
+						<lon>-79.940297537038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.470332419595</lat>
+						<lon>-79.94029217262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.470446685787</lat>
+						<lon>-79.940276079366</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.470569113634</lat>
+						<lon>-79.940217070767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.470854777741</lat>
+						<lon>-79.94004540939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.471013932931</lat>
+						<lon>-79.93999176521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.471124117072</lat>
+						<lon>-79.939975671956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.471275109861</lat>
+						<lon>-79.939986400792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.471634226481</lat>
+						<lon>-79.940093689153</lon>
+
+							<typ>S</typ>
+                			<stpid>9219</stpid>
+                			<stpnm>Columbo St at Schenley Ave</stpnm>
+                			<pdist>3166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.471917256048</lat>
+						<lon>-79.938927443119</lon>
+
+							<typ>S</typ>
+                			<stpid>9220</stpid>
+                			<stpnm>Schenley Ave opp Pacific Ave</stpnm>
+                			<pdist>3499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.472188584288</lat>
+						<lon>-79.93775045172</lon>
+
+							<typ>S</typ>
+                			<stpid>19456</stpid>
+                			<stpnm>Schenley Ave at Fern Cir</stpnm>
+                			<pdist>3862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.472635624416</lat>
+						<lon>-79.935853525796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.472594816414</lat>
+						<lon>-79.935617491403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.472505038723</lat>
+						<lon>-79.935333177247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.472256109044</lat>
+						<lon>-79.93472699801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.472141845931</lat>
+						<lon>-79.934582158723</lon>
+
+							<typ>S</typ>
+                			<stpid>19453</stpid>
+                			<stpnm>Mossfield St opp Azure St (farside)</stpnm>
+                			<pdist>4494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.471201562585</lat>
+						<lon>-79.933553525132</lon>
+
+							<typ>S</typ>
+                			<stpid>19454</stpid>
+                			<stpnm>Mossfield St at Fern St</stpnm>
+                			<pdist>5230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.470648575289</lat>
+						<lon>-79.932951457671</lon>
+
+							<typ>S</typ>
+                			<stpid>9224</stpid>
+                			<stpnm>Black St at Aiken Ave</stpnm>
+                			<pdist>5560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.469655570317</lat>
+						<lon>-79.930184725529</lon>
+
+							<typ>S</typ>
+                			<stpid>9225</stpid>
+                			<stpnm>Black St opp Chislett St</stpnm>
+                			<pdist>6347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.468788099508</lat>
+						<lon>-79.927757333332</lon>
+
+							<typ>S</typ>
+                			<stpid>9226</stpid>
+                			<stpnm>Black St at Negley Ave</stpnm>
+                			<pdist>7181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.468722802953</lat>
+						<lon>-79.927569578701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.467600508484</lat>
+						<lon>-79.928240130955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.467477202909</lat>
+						<lon>-79.927859706349</lon>
+
+							<typ>S</typ>
+                			<stpid>19457</stpid>
+                			<stpnm>East Liberty Blvd past Negley Ave </stpnm>
+                			<pdist>7789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.466607783644</lat>
+						<lon>-79.925443974206</lon>
+
+							<typ>S</typ>
+                			<stpid>9228</stpid>
+                			<stpnm>East Liberty Blvd at Euclid Ave</stpnm>
+                			<pdist>8486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.465980651076</lat>
+						<lon>-79.92356005358</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.465850052443</lat>
+						<lon>-79.922894865744</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.465768428168</lat>
+						<lon>-79.92239061044899</lon>
+
+							<typ>S</typ>
+                			<stpid>20101</stpid>
+                			<stpnm>East Liberty Blvd past Highland Ave</stpnm>
+                			<pdist>9456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.465631540066</lat>
+						<lon>-79.92180367329297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.465333610014</lat>
+						<lon>-79.92094536640798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.464994866021</lat>
+						<lon>-79.92000122883502</lon>
+
+							<typ>S</typ>
+                			<stpid>20100</stpid>
+                			<stpnm>East Liberty Blvd at Centre Ave</stpnm>
+                			<pdist>10128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.464670368736</lat>
+						<lon>-79.919114650143</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.464458141688</lat>
+						<lon>-79.9186854967</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.464041848223</lat>
+						<lon>-79.91818124140502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.463405159109</lat>
+						<lon>-79.91754824007802</lon>
+
+							<typ>S</typ>
+                			<stpid>18966</stpid>
+                			<stpnm>East Liberty Blvd at Larimer Ave</stpnm>
+                			<pdist>11074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.462749376534</lat>
+						<lon>-79.916871982148</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.462337153903</lat>
+						<lon>-79.91654475264801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.461884114233</lat>
+						<lon>-79.916271167329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.461349441863</lat>
+						<lon>-79.91607268386201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.46083517282</lat>
+						<lon>-79.91592784457498</lon>
+
+							<typ>S</typ>
+                			<stpid>9342</stpid>
+                			<stpnm>East Liberty Blvd at Broad St</stpnm>
+                			<pdist>12091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.460263241702</lat>
+						<lon>-79.91579969775199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.460018348213</lat>
+						<lon>-79.91577287566201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.459883656413</lat>
+						<lon>-79.915810426588</lon>
+
+							<typ>S</typ>
+                			<stpid>8878</stpid>
+                			<stpnm>East Liberty Blvd opp Hamilton Ave</stpnm>
+                			<pdist>12454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.458429846842</lat>
+						<lon>-79.91662032473698</lon>
+
+							<typ>S</typ>
+                			<stpid>8879</stpid>
+                			<stpnm>EAST LIBERTY BLVD + DAHLEM PL</stpnm>
+                			<pdist>13040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.458266489521094</lat>
+						<lon>-79.91668045520782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.45820118273695</lat>
+						<lon>-79.91670727729797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.45811954916749</lat>
+						<lon>-79.91673946380615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.45807056897821</lat>
+						<lon>-79.91679847240448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.457544655242</lat>
+						<lon>-79.91740493254099</lon>
+
+							<typ>S</typ>
+                			<stpid>8880</stpid>
+                			<stpnm>East Liberty Blvd at Penn Ave</stpnm>
+                			<pdist>13393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.457789557748</lat>
+						<lon>-79.917828721565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.458190021715</lat>
+						<lon>-79.91837086441899</lon>
+
+							<typ>S</typ>
+                			<stpid>8233</stpid>
+                			<stpnm>Penn Ave at Village of Eastside Shpg Ctr</stpnm>
+                			<pdist>13807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.459063494845</lat>
+						<lon>-79.91967978241803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.45921568281</lat>
+						<lon>-79.91981071692999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.459493232013</lat>
+						<lon>-79.92021841270002</lon>
+
+							<typ>S</typ>
+                			<stpid>8234</stpid>
+                			<stpnm>Penn Ave opp Shady Ave (nearside)</stpnm>
+                			<pdist>14462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.459827922173</lat>
+						<lon>-79.92062610847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.460195263114</lat>
+						<lon>-79.92122155887103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.460350125013</lat>
+						<lon>-79.921578570767</lon>
+
+							<typ>S</typ>
+                			<stpid>19573</stpid>
+                			<stpnm>Penn Ave opp Eastside III Dr (Target)</stpnm>
+                			<pdist>14991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.460386858912</lat>
+						<lon>-79.92178778306999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.460676647854</lat>
+						<lon>-79.92269436971799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.461008500156</lat>
+						<lon>-79.92356959325502</lon>
+
+							<typ>S</typ>
+                			<stpid>8881</stpid>
+                			<stpnm>Penn Ave at Sheridan Ave</stpnm>
+                			<pdist>15592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.46138158881</lat>
+						<lon>-79.92460004232998</lon>
+
+							<typ>S</typ>
+                			<stpid>8882</stpid>
+                			<stpnm>Penn Ave at Highland Ave</stpnm>
+                			<pdist>15922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.461793817305</lat>
+						<lon>-79.925764121042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.461565255284</lat>
+						<lon>-79.92588213823899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.46129179613</lat>
+						<lon>-79.92604307078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.461055069396</lat>
+						<lon>-79.926182545649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.460867320014</lat>
+						<lon>-79.926322020518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.460686262996</lat>
+						<lon>-79.92642155092699</lon>
+
+							<typ>S</typ>
+                			<stpid>18967</stpid>
+                			<stpnm>Whitfield St at Baum Blvd</stpnm>
+                			<pdist>16669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.46057606173</lat>
+						<lon>-79.92648592394403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.460180419095</lat>
+						<lon>-79.92784623677102</lon>
+
+							<typ>S</typ>
+                			<stpid>19572</stpid>
+                			<stpnm>Baum Blvd at Beatty St</stpnm>
+                			<pdist>17251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.46016409287</lat>
+						<lon>-79.927894516533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.460208989979</lat>
+						<lon>-79.927915974205</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.460266131711</lat>
+						<lon>-79.92793206745898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.461593103623</lat>
+						<lon>-79.92713273743499</lon>
+
+							<typ>S</typ>
+                			<stpid>11092</stpid>
+                			<stpnm>Beatty St at Penn Ave (nearside)</stpnm>
+                			<pdist>17880.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4803</pid>
+				<ln>18123.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.461593103623</lat>
+						<lon>-79.92713273743499</lon>
+
+							<typ>S</typ>
+                			<stpid>11092</stpid>
+                			<stpnm>Beatty St at Penn Ave (nearside)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.462086959667</lat>
+						<lon>-79.92680550793602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.461761433221</lat>
+						<lon>-79.92592004232898</lon>
+
+							<typ>S</typ>
+                			<stpid>9129</stpid>
+                			<stpnm>Penn Ave at Whitfield St</stpnm>
+                			<pdist>459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.461429599904</lat>
+						<lon>-79.92496483333503</lon>
+
+							<typ>S</typ>
+                			<stpid>3133</stpid>
+                			<stpnm>Penn Ave at Highland Ave</stpnm>
+                			<pdist>768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.461080255601</lat>
+						<lon>-79.92396013558101</lon>
+
+							<typ>S</typ>
+                			<stpid>18975</stpid>
+                			<stpnm>Penn Ave at Sheridan Sq</stpnm>
+                			<pdist>1085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.460351862483</lat>
+						<lon>-79.92193846296101</lon>
+
+							<typ>S</typ>
+                			<stpid>19574</stpid>
+                			<stpnm>Penn Ave at Eastside III Dr</stpnm>
+                			<pdist>1861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.46021750042</lat>
+						<lon>-79.92164254188503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.460046074954</lat>
+						<lon>-79.92128849029501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.459984851468</lat>
+						<lon>-79.92114901542698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.4598828122</lat>
+						<lon>-79.92098808288597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.459707304296</lat>
+						<lon>-79.92075741291</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.459421592774</lat>
+						<lon>-79.92039263248398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.459199365493</lat>
+						<lon>-79.92009733333299</lon>
+
+							<typ>S</typ>
+                			<stpid>8276</stpid>
+                			<stpnm>Penn Ave past Shady Ave</stpnm>
+                			<pdist>2325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.459080998544</lat>
+						<lon>-79.91996322288202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.459015692551</lat>
+						<lon>-79.91975401057903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.458219989936</lat>
+						<lon>-79.91857272552699</lon>
+
+							<typ>S</typ>
+                			<stpid>8277</stpid>
+                			<stpnm>Penn Ave opp Village of Eastside Shpg Ctr</stpnm>
+                			<pdist>2798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.457428140349</lat>
+						<lon>-79.91744619774101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.458194600078</lat>
+						<lon>-79.91662600000097</lon>
+
+							<typ>S</typ>
+                			<stpid>8541</stpid>
+                			<stpnm>East Liberty Blvd at Dahlem Pl</stpnm>
+                			<pdist>3558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.458437919527</lat>
+						<lon>-79.91651415824902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.458572614226</lat>
+						<lon>-79.916460514069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.458715471944</lat>
+						<lon>-79.91636395454401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.458917052915</lat>
+						<lon>-79.916250490739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.459735742181</lat>
+						<lon>-79.91577716930999</lon>
+
+							<typ>S</typ>
+                			<stpid>8542</stpid>
+                			<stpnm>East Liberty Blvd at Hamilton Ave</stpnm>
+                			<pdist>4201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.460029615497</lat>
+						<lon>-79.91559477909698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.46018879634</lat>
+						<lon>-79.91556795700603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.460796520328</lat>
+						<lon>-79.915675395503</lon>
+
+							<typ>S</typ>
+                			<stpid>8543</stpid>
+                			<stpnm>East Liberty Blvd at Frankstown Ave</stpnm>
+                			<pdist>4568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.461633226371</lat>
+						<lon>-79.915932887568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.461963824423</lat>
+						<lon>-79.916083091273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.462347479382</lat>
+						<lon>-79.916313761249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.46273113215</lat>
+						<lon>-79.916598075404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.463135189611</lat>
+						<lon>-79.916973584666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.463466599795</lat>
+						<lon>-79.917307296295</lon>
+
+							<typ>S</typ>
+                			<stpid>20096</stpid>
+                			<stpnm>East Liberty Blvd at Larimer Ave</stpnm>
+                			<pdist>5744.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.464143253768</lat>
+						<lon>-79.91798972221</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.464445270397</lat>
+						<lon>-79.9183437738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.46461260335</lat>
+						<lon>-79.918569079357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.464735041831</lat>
+						<lon>-79.91877829166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.464922780404</lat>
+						<lon>-79.919228902775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.465110518451</lat>
+						<lon>-79.919700971561</lon>
+
+							<typ>S</typ>
+                			<stpid>20097</stpid>
+                			<stpnm>East Liberty Blvd at Negley Run Blvd</stpnm>
+                			<pdist>6636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.465867317353</lat>
+						<lon>-79.921886365737</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.465928535479</lat>
+						<lon>-79.922170679893</lon>
+
+							<typ>S</typ>
+                			<stpid>9233</stpid>
+                			<stpnm>East Liberty Blvd at Highland Ave</stpnm>
+                			<pdist>7458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.466040034028</lat>
+						<lon>-79.922670565456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.46606860242</lat>
+						<lon>-79.922992430538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.466186957057</lat>
+						<lon>-79.923550330013</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.466774645959</lat>
+						<lon>-79.925207935184</lon>
+
+							<typ>S</typ>
+                			<stpid>9234</stpid>
+                			<stpnm>East Liberty Blvd at Euclid Ave</stpnm>
+                			<pdist>8239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.467779662755</lat>
+						<lon>-79.928016361774</lon>
+
+							<typ>S</typ>
+                			<stpid>9235</stpid>
+                			<stpnm>East Liberty Blvd at Negley Ave</stpnm>
+                			<pdist>9115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.468754309629</lat>
+						<lon>-79.927443289677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.468978766167</lat>
+						<lon>-79.928054833332</lon>
+
+							<typ>S</typ>
+                			<stpid>9236</stpid>
+                			<stpnm>Black St past Negley Ave</stpnm>
+                			<pdist>9700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.469675990246</lat>
+						<lon>-79.930021791007</lon>
+
+							<typ>S</typ>
+                			<stpid>9237</stpid>
+                			<stpnm>Black St at Chislett St</stpnm>
+                			<pdist>10289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.470641226004</lat>
+						<lon>-79.932727125648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.470726925272</lat>
+						<lon>-79.932930973533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.471204390619</lat>
+						<lon>-79.933435228828</lon>
+
+							<typ>S</typ>
+                			<stpid>19461</stpid>
+                			<stpnm>Mossfield St opp Fern St</stpnm>
+                			<pdist>11944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.472195629181</lat>
+						<lon>-79.934489909379</lon>
+
+							<typ>S</typ>
+                			<stpid>19466</stpid>
+                			<stpnm>Mossfield St at Azure St</stpnm>
+                			<pdist>12308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.472302540737</lat>
+						<lon>-79.934655358433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.472453530876</lat>
+						<lon>-79.934998681187</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.472563712655</lat>
+						<lon>-79.935277630924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.472653490267</lat>
+						<lon>-79.93553512299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.472714702207</lat>
+						<lon>-79.935787250637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.472004640277</lat>
+						<lon>-79.938871791004</lon>
+
+							<typ>S</typ>
+                			<stpid>9242</stpid>
+                			<stpnm>Schenley Ave at Pacific Ave</stpnm>
+                			<pdist>13158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.471712493727</lat>
+						<lon>-79.94009584722</lon>
+
+							<typ>S</typ>
+                			<stpid>20098</stpid>
+                			<stpnm>Schenley Ave opp Columbo St</stpnm>
+                			<pdist>13553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.471679846879</lat>
+						<lon>-79.940219228835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.471279921702</lat>
+						<lon>-79.940074389548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.471186061367</lat>
+						<lon>-79.940063660712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.47105955375</lat>
+						<lon>-79.94006902513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.47092488409</lat>
+						<lon>-79.94009584722</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.47079021416</lat>
+						<lon>-79.940165584655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.47052087349</lat>
+						<lon>-79.940321152778</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.47042293116</lat>
+						<lon>-79.940380161376</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.470306018489</lat>
+						<lon>-79.94038537566</lon>
+
+							<typ>S</typ>
+                			<stpid>9244</stpid>
+                			<stpnm>Columbo St at #5134</stpnm>
+                			<pdist>14061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.470153826111</lat>
+						<lon>-79.940376756623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.46996610216</lat>
+						<lon>-79.940317748025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.469749810871</lat>
+						<lon>-79.940205095246</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.469578409733</lat>
+						<lon>-79.940022705033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.469407008156</lat>
+						<lon>-79.93986713691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.469333550204</lat>
+						<lon>-79.939765212968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.469211120105</lat>
+						<lon>-79.939641831353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.469149904972</lat>
+						<lon>-79.939491627648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.469068284707</lat>
+						<lon>-79.939153669313</lon>
+
+							<typ>S</typ>
+                			<stpid>9246</stpid>
+                			<stpnm>Columbo St at Pacific Ave</stpnm>
+                			<pdist>14681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.468925217493</lat>
+						<lon>-79.938059757277</lon>
+
+							<typ>S</typ>
+                			<stpid>19465</stpid>
+                			<stpnm>Columbo St at Atlantic Ave</stpnm>
+                			<pdist>15064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.468236154014</lat>
+						<lon>-79.938209500001</lon>
+
+							<typ>S</typ>
+                			<stpid>9248</stpid>
+                			<stpnm>Atlantic Ave at Hillcrest St</stpnm>
+                			<pdist>15372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.468170856922</lat>
+						<lon>-79.938220228837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.467945131067</lat>
+						<lon>-79.936583124339</lon>
+
+							<typ>S</typ>
+                			<stpid>9249</stpid>
+                			<stpnm>Hillcrest St opp Fannell St</stpnm>
+                			<pdist>15856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.467824932895</lat>
+						<lon>-79.935715</lon>
+
+							<typ>S</typ>
+                			<stpid>22312</stpid>
+                			<stpnm>Hillcrest St opp Wicklow St</stpnm>
+                			<pdist>16086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.467663986544</lat>
+						<lon>-79.934691878307</lon>
+
+							<typ>S</typ>
+                			<stpid>9251</stpid>
+                			<stpnm>Hillcrest St at Aiken Ave</stpnm>
+                			<pdist>16342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.46704504482</lat>
+						<lon>-79.935053446429</lon>
+
+							<typ>S</typ>
+                			<stpid>9252</stpid>
+                			<stpnm>Aiken Ave at Rosetta St</stpnm>
+                			<pdist>16618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.466358099641</lat>
+						<lon>-79.935478166666</lon>
+
+							<typ>S</typ>
+                			<stpid>9253</stpid>
+                			<stpnm>Aiken Ave at Kincaid St</stpnm>
+                			<pdist>16911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.465622954107</lat>
+						<lon>-79.935931706349</lon>
+
+							<typ>S</typ>
+                			<stpid>9254</stpid>
+                			<stpnm>Aiken Ave at Broad St</stpnm>
+                			<pdist>17192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.464718238585</lat>
+						<lon>-79.936471381616</lon>
+
+							<typ>S</typ>
+                			<stpid>9255</stpid>
+                			<stpnm>Aiken Ave at Penn Ave</stpnm>
+                			<pdist>17530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.464607099734</lat>
+						<lon>-79.938514977514</lon>
+
+							<typ>S</typ>
+                			<stpid>9176</stpid>
+                			<stpnm>Penn Ave at Atlantic Ave</stpnm>
+                			<pdist>18123.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

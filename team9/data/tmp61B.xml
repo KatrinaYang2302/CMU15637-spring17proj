@@ -1,0 +1,3533 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5720</pid>
+				<ln>52796.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.402486674348</lat>
+						<lon>-79.86843729100599</lon>
+
+							<typ>S</typ>
+                			<stpid>20936</stpid>
+                			<stpnm>Braddock Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.401996465491</lat>
+						<lon>-79.86780428967899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.402344248968</lat>
+						<lon>-79.86736912433702</lon>
+
+							<typ>S</typ>
+                			<stpid>20937</stpid>
+                			<stpnm>7th St at Braddock Ave</stpnm>
+                			<pdist>392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.402409610017</lat>
+						<lon>-79.867315480157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.403236316862</lat>
+						<lon>-79.868438050924</lon>
+
+							<typ>S</typ>
+                			<stpid>20938</stpid>
+                			<stpnm>Braddock Ave at 6th St</stpnm>
+                			<pdist>811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.403851465961</lat>
+						<lon>-79.869270644182</lon>
+
+							<typ>S</typ>
+                			<stpid>7469</stpid>
+                			<stpnm>Braddock Ave at Corey Ave</stpnm>
+                			<pdist>1130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.404266269658</lat>
+						<lon>-79.87000266666803</lon>
+
+							<typ>S</typ>
+                			<stpid>7470</stpid>
+                			<stpnm>Braddock Ave at 5th St</stpnm>
+                			<pdist>1422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.404910181556</lat>
+						<lon>-79.87117705092498</lon>
+
+							<typ>S</typ>
+                			<stpid>7471</stpid>
+                			<stpnm>Braddock Ave at 4th St</stpnm>
+                			<pdist>1832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.405548102923</lat>
+						<lon>-79.87232966666699</lon>
+
+							<typ>S</typ>
+                			<stpid>7472</stpid>
+                			<stpnm>Braddock Ave opp 3rd St</stpnm>
+                			<pdist>2267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.406140190738</lat>
+						<lon>-79.87337637566202</lon>
+
+							<typ>S</typ>
+                			<stpid>7473</stpid>
+                			<stpnm>Braddock Ave at 2nd St</stpnm>
+                			<pdist>2634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.407114009395</lat>
+						<lon>-79.875080155423</lon>
+
+							<typ>S</typ>
+                			<stpid>19499</stpid>
+                			<stpnm>Braddock Ave at Line Ave</stpnm>
+                			<pdist>3214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.407213963509</lat>
+						<lon>-79.87523496150999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.407320167499</lat>
+						<lon>-79.87544417381298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.407385523716</lat>
+						<lon>-79.87553536891903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.407446795113</lat>
+						<lon>-79.87561047077202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.407716388595</lat>
+						<lon>-79.875889420509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.408112607359</lat>
+						<lon>-79.87629175186203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.408504739097</lat>
+						<lon>-79.87673699855799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.408774328341</lat>
+						<lon>-79.87702131271402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.40926040319</lat>
+						<lon>-79.87750947475399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.409333926811</lat>
+						<lon>-79.877568483353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.409436042818</lat>
+						<lon>-79.87759530544298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.409521820144</lat>
+						<lon>-79.87758457660698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.409623935866</lat>
+						<lon>-79.87754166126297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.409819997617</lat>
+						<lon>-79.87743973732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.409982528252</lat>
+						<lon>-79.87741436706199</lon>
+
+							<typ>S</typ>
+                			<stpid>20188</stpid>
+                			<stpnm>Kenmawr Ave Ramp at Rankin Blvd</stpnm>
+                			<pdist>4500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.410064220283</lat>
+						<lon>-79.87739827380801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.410360846426</lat>
+						<lon>-79.87800675992099</lon>
+
+							<typ>S</typ>
+                			<stpid>18994</stpid>
+                			<stpnm>Rankin Blvd past Kenmawr Ave</stpnm>
+                			<pdist>4741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.411932011182</lat>
+						<lon>-79.88097627976299</lon>
+
+							<typ>S</typ>
+                			<stpid>18995</stpid>
+                			<stpnm>Rankin Blvd at Hawkins Ave</stpnm>
+                			<pdist>5763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.412990085136</lat>
+						<lon>-79.88298800000098</lon>
+
+							<typ>S</typ>
+                			<stpid>7211</stpid>
+                			<stpnm>Rankin Blvd at Bldg #5</stpnm>
+                			<pdist>6545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.413398526043</lat>
+						<lon>-79.883733654107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.413476129535</lat>
+						<lon>-79.88379802712302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.413565986099</lat>
+						<lon>-79.88383557805003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.413918857631</lat>
+						<lon>-79.88367481084799</lon>
+
+							<typ>S</typ>
+                			<stpid>7212</stpid>
+                			<stpnm>Harriet St at Bldg #2</stpnm>
+                			<pdist>6965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.414694863276</lat>
+						<lon>-79.88327339550403</lon>
+
+							<typ>S</typ>
+                			<stpid>7213</stpid>
+                			<stpnm>Harriet St at 5th Ave</stpnm>
+                			<pdist>7256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.41547904776</lat>
+						<lon>-79.882897886242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.415936484489</lat>
+						<lon>-79.88449111839702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.41603319383</lat>
+						<lon>-79.8852005</lon>
+
+							<typ>S</typ>
+                			<stpid>7215</stpid>
+                			<stpnm>Miller Ave at Gas St</stpnm>
+                			<pdist>8190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.416098541586</lat>
+						<lon>-79.885592102516</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.416294584475</lat>
+						<lon>-79.88627874802398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.416429363629</lat>
+						<lon>-79.88662743519603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.416604984545</lat>
+						<lon>-79.88693857144199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.416854120409</lat>
+						<lon>-79.887244343269</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.417282592371</lat>
+						<lon>-79.88751952844098</lon>
+
+							<typ>S</typ>
+                			<stpid>16500</stpid>
+                			<stpnm>Monongahela Ave at  #2129</stpnm>
+                			<pdist>9027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.418211370045</lat>
+						<lon>-79.88808663558001</lon>
+
+							<typ>S</typ>
+                			<stpid>7217</stpid>
+                			<stpnm>Monongahela Ave at Duquesne Ave</stpnm>
+                			<pdist>9384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.418743904981</lat>
+						<lon>-79.88842431480998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.419981367478</lat>
+						<lon>-79.88915387566203</lon>
+
+							<typ>S</typ>
+                			<stpid>7218</stpid>
+                			<stpnm>Monongahela Ave at Washington St</stpnm>
+                			<pdist>10098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.420688602101</lat>
+						<lon>-79.88962167790902</lon>
+
+							<typ>S</typ>
+                			<stpid>7219</stpid>
+                			<stpnm>Monongahela Ave at Irvine St</stpnm>
+                			<pdist>10416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.421716272069</lat>
+						<lon>-79.89024411574002</lon>
+
+							<typ>S</typ>
+                			<stpid>7220</stpid>
+                			<stpnm>Monongahela Ave at Church St</stpnm>
+                			<pdist>10821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.42289846064</lat>
+						<lon>-79.89097876190203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.423600874011</lat>
+						<lon>-79.89140255092701</lon>
+
+							<typ>S</typ>
+                			<stpid>7222</stpid>
+                			<stpnm>Monongahela Ave at Schoyer Ave</stpnm>
+                			<pdist>11501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.423604589939</lat>
+						<lon>-79.89140225661197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.423804694721</lat>
+						<lon>-79.890898001317</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.425503519497</lat>
+						<lon>-79.89157928240701</lon>
+
+							<typ>S</typ>
+                			<stpid>7223</stpid>
+                			<stpnm>Monongahela Ave opp Whipple St</stpnm>
+                			<pdist>12374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.42581387708</lat>
+						<lon>-79.89169193518603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.425907800804</lat>
+						<lon>-79.89169193518603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.42603847707</lat>
+						<lon>-79.89166511309497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.426152818595</lat>
+						<lon>-79.89160074007901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.426497907706</lat>
+						<lon>-79.89130232407001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.426877681569</lat>
+						<lon>-79.891098476185</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.427326873694</lat>
+						<lon>-79.89088389946403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.427445296572</lat>
+						<lon>-79.89100728107803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.427731144041</lat>
+						<lon>-79.89119503570902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.427923069516</lat>
+						<lon>-79.89129695965198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.42846617481</lat>
+						<lon>-79.89157590938902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.428805102958</lat>
+						<lon>-79.891731477512</lon>
+
+							<typ>S</typ>
+                			<stpid>7225</stpid>
+                			<stpnm>Braddock Ave past Greendale Ave</stpnm>
+                			<pdist>13659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.43068535195</lat>
+						<lon>-79.89250045767301</lon>
+
+							<typ>S</typ>
+                			<stpid>7226</stpid>
+                			<stpnm>Braddock Ave opp Charleston Ave</stpnm>
+                			<pdist>14361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.430854438461</lat>
+						<lon>-79.89259243385902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.431058604998</lat>
+						<lon>-79.892721179891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.43172826689</lat>
+						<lon>-79.89318788425999</lon>
+
+							<typ>S</typ>
+                			<stpid>7227</stpid>
+                			<stpnm>Braddock Ave at Sanders St</stpnm>
+                			<pdist>14780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.43284092904</lat>
+						<lon>-79.89398627711603</lon>
+
+							<typ>S</typ>
+                			<stpid>7228</stpid>
+                			<stpnm>Braddock Ave at Hutchinson St</stpnm>
+                			<pdist>15197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.434087183753</lat>
+						<lon>-79.89492325132198</lon>
+
+							<typ>S</typ>
+                			<stpid>7229</stpid>
+                			<stpnm>Braddock Ave at Overton St</stpnm>
+                			<pdist>15820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.434880236305</lat>
+						<lon>-79.895496804228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.43522729827</lat>
+						<lon>-79.89567383002299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.43578259369</lat>
+						<lon>-79.89593668650599</lon>
+
+							<typ>S</typ>
+                			<stpid>7230</stpid>
+                			<stpnm>Braddock Ave at Henrietta St</stpnm>
+                			<pdist>16482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.436622601241</lat>
+						<lon>-79.896293666666</lon>
+
+							<typ>S</typ>
+                			<stpid>7231</stpid>
+                			<stpnm>Braddock Ave at Biddle Ave</stpnm>
+                			<pdist>16855.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.438141934491</lat>
+						<lon>-79.89693199999897</lon>
+
+							<typ>S</typ>
+                			<stpid>22549</stpid>
+                			<stpnm>BRADDOCK AVE AT GUTHRIE ST</stpnm>
+                			<pdist>17439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.439120720552765</lat>
+						<lon>-79.89736318588257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.439700480619585</lat>
+						<lon>-79.89759922027588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.439646678596</lat>
+						<lon>-79.89839565542201</lon>
+
+							<typ>S</typ>
+                			<stpid>7233</stpid>
+                			<stpnm>Forbes Ave past Braddock Ave</stpnm>
+                			<pdist>18232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.439581353716</lat>
+						<lon>-79.89940953043003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.439532360014</lat>
+						<lon>-79.90018200662598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.439467035022</lat>
+						<lon>-79.90144800928101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.439418041237</lat>
+						<lon>-79.901796696453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.439332302027</lat>
+						<lon>-79.90211856153502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.438246262569</lat>
+						<lon>-79.90477931287802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.438164604758</lat>
+						<lon>-79.905036804943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.43807886395</lat>
+						<lon>-79.90555178907402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.438058449455</lat>
+						<lon>-79.907488343983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.438044513084</lat>
+						<lon>-79.90911632007999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.438036347283</lat>
+						<lon>-79.91078465408702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.438064927583</lat>
+						<lon>-79.91288214153701</lon>
+
+							<typ>S</typ>
+                			<stpid>7093</stpid>
+                			<stpnm>Forbes Ave at Dallas Ave</stpnm>
+                			<pdist>22397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.438071845535</lat>
+						<lon>-79.91605566402097</lon>
+
+							<typ>S</typ>
+                			<stpid>7094</stpid>
+                			<stpnm>Forbes Ave at Beechwood Blvd</stpnm>
+                			<pdist>23305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.43806076783</lat>
+						<lon>-79.918411333334</lon>
+
+							<typ>S</typ>
+                			<stpid>7095</stpid>
+                			<stpnm>Forbes Ave Btwn Denniston St &amp; Shady Ave</stpnm>
+                			<pdist>24016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.43809510116</lat>
+						<lon>-79.92352300000198</lon>
+
+							<typ>S</typ>
+                			<stpid>7096</stpid>
+                			<stpnm>Forbes Ave past Murray Ave</stpnm>
+                			<pdist>25460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.438080938858</lat>
+						<lon>-79.92750550000102</lon>
+
+							<typ>S</typ>
+                			<stpid>7097</stpid>
+                			<stpnm>Forbes Ave at Wightman St</stpnm>
+                			<pdist>26564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.437874689169</lat>
+						<lon>-79.93054966666898</lon>
+
+							<typ>S</typ>
+                			<stpid>7098</stpid>
+                			<stpnm>Forbes Ave at Murdoch St</stpnm>
+                			<pdist>27409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.437735870064</lat>
+						<lon>-79.93266861179097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.437768533408</lat>
+						<lon>-79.93298511245501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.437923684079</lat>
+						<lon>-79.93318896033998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.438726354453</lat>
+						<lon>-79.933883977515</lon>
+
+							<typ>S</typ>
+                			<stpid>7100</stpid>
+                			<stpnm>Forbes Ave past Northhumberland St</stpnm>
+                			<pdist>28504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.440352768852</lat>
+						<lon>-79.93542958200999</lon>
+
+							<typ>S</typ>
+                			<stpid>7101</stpid>
+                			<stpnm>Forbes Ave at Planfield St</stpnm>
+                			<pdist>29230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.442554683548</lat>
+						<lon>-79.93743425132402</lon>
+
+							<typ>S</typ>
+                			<stpid>7102</stpid>
+                			<stpnm>Forbes Ave opp Margaret Morrison St</stpnm>
+                			<pdist>30220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.442946088407</lat>
+						<lon>-79.937816837296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.443374760318</lat>
+						<lon>-79.93817088888602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.443783016740255</lat>
+						<lon>-79.9385732202378</lon>
+
+							<typ>S</typ>
+                			<stpid>7103</stpid>
+                			<stpnm>Forbes Ave at Beeler St</stpnm>
+                			<pdist>30772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.44390155030869</lat>
+						<lon>-79.93870139122009</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.44394237574253</lat>
+						<lon>-79.93884086608887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.443999531308215</lat>
+						<lon>-79.93907690048218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.44425264822928</lat>
+						<lon>-79.9405574798584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.44450168168914</lat>
+						<lon>-79.9419629573822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.4446364043238</lat>
+						<lon>-79.94272470474243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.44467314681368</lat>
+						<lon>-79.94303584098816</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.444677229311324</lat>
+						<lon>-79.943186044693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.444671114203</lat>
+						<lon>-79.94356058465502</lon>
+
+							<typ>S</typ>
+                			<stpid>4407</stpid>
+                			<stpnm>FORBES AVE + MOREWOOD AVE FS (CARNEGIE MELLON)</stpnm>
+                			<pdist>32206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.444579863286</lat>
+						<lon>-79.94590656878597</lon>
+
+							<typ>S</typ>
+                			<stpid>4408</stpid>
+                			<stpnm>Forbes Ave opp Hamburg Hall</stpnm>
+                			<pdist>32710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.444475201495</lat>
+						<lon>-79.948612632937</lon>
+
+							<typ>S</typ>
+                			<stpid>4409</stpid>
+                			<stpnm>Forbes Ave at Craig St</stpnm>
+                			<pdist>33574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.444124438987</lat>
+						<lon>-79.950063819445</lon>
+
+							<typ>S</typ>
+                			<stpid>2638</stpid>
+                			<stpnm>Forbes Ave at Dithridge St</stpnm>
+                			<pdist>33998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.443989715326</lat>
+						<lon>-79.95054125265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.443936642295</lat>
+						<lon>-79.95079874471503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.446516759629</lat>
+						<lon>-79.95193063691897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.445674281789</lat>
+						<lon>-79.95312898875602</lon>
+
+							<typ>S</typ>
+                			<stpid>33</stpid>
+                			<stpnm>Fifth Ave at Tennyson Ave</stpnm>
+                			<pdist>35669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.444567437463</lat>
+						<lon>-79.954665240081</lon>
+
+							<typ>S</typ>
+                			<stpid>34</stpid>
+                			<stpnm>Fifth Ave at Bigelow Blvd</stpnm>
+                			<pdist>36301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.443287941739</lat>
+						<lon>-79.95642605357102</lon>
+
+							<typ>S</typ>
+                			<stpid>35</stpid>
+                			<stpnm>Fifth Ave at Thackeray Ave</stpnm>
+                			<pdist>36981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.441797374239</lat>
+						<lon>-79.95850473743599</lon>
+
+							<typ>S</typ>
+                			<stpid>36</stpid>
+                			<stpnm>Fifth Ave opp Atwood St</stpnm>
+                			<pdist>37726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.439498767751</lat>
+						<lon>-79.96163183333397</lon>
+
+							<typ>S</typ>
+                			<stpid>38</stpid>
+                			<stpnm>Fifth Ave at Chesterfield Rd</stpnm>
+                			<pdist>38979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.438439620008</lat>
+						<lon>-79.96303767327402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.438194646982</lat>
+						<lon>-79.96332735184797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.43796192178</lat>
+						<lon>-79.96372968319997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.43786393198</lat>
+						<lon>-79.96400863293701</lon>
+
+							<typ>S</typ>
+                			<stpid>2639</stpid>
+                			<stpnm>Fifth Ave opp Craft Ave</stpnm>
+                			<pdist>39871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.437761859121</lat>
+						<lon>-79.964722100536</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.437786356621</lat>
+						<lon>-79.96504396561699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.437783509968</lat>
+						<lon>-79.965337675265</lon>
+
+							<typ>S</typ>
+                			<stpid>2640</stpid>
+                			<stpnm>Fifth Ave at Robinson St</stpnm>
+                			<pdist>40248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.437501788161</lat>
+						<lon>-79.96555225198597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.437269060561</lat>
+						<lon>-79.96561662500301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.437056746959</lat>
+						<lon>-79.96576682870699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.436913843196</lat>
+						<lon>-79.96587411706798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.436762773174</lat>
+						<lon>-79.966045778445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.436615785799</lat>
+						<lon>-79.96626035516601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.43652187703</lat>
+						<lon>-79.96656076257602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.436472881098</lat>
+						<lon>-79.96698991601801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.436465920651</lat>
+						<lon>-79.96843088161597</lon>
+
+							<typ>S</typ>
+                			<stpid>18165</stpid>
+                			<stpnm>Fifth Ave past Brenham St</stpnm>
+                			<pdist>41380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.436457754658</lat>
+						<lon>-79.96866155159103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.436484215649</lat>
+						<lon>-79.968868819433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.436925177673</lat>
+						<lon>-79.97015627975998</lon>
+
+							<typ>S</typ>
+                			<stpid>2643</stpid>
+                			<stpnm>5th Ave opp #2410</stpnm>
+                			<pdist>41838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.437194762564</lat>
+						<lon>-79.970976146824</lon>
+
+							<typ>S</typ>
+                			<stpid>2644</stpid>
+                			<stpnm>5th Ave opp #2358</stpnm>
+                			<pdist>42119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.437822924516</lat>
+						<lon>-79.97300916402202</lon>
+
+							<typ>S</typ>
+                			<stpid>18164</stpid>
+                			<stpnm>Fifth Ave past Kirkpatrick St</stpnm>
+                			<pdist>42688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.437953577631</lat>
+						<lon>-79.97340076653899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.438046432767</lat>
+						<lon>-79.97446494907399</lon>
+
+							<typ>S</typ>
+                			<stpid>3147</stpid>
+                			<stpnm>5th Ave past Moultrie</stpnm>
+                			<pdist>43148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.438166929226</lat>
+						<lon>-79.97577360449901</lon>
+
+							<typ>S</typ>
+                			<stpid>3148</stpid>
+                			<stpnm>Fifth Ave opp Seneca St</stpnm>
+                			<pdist>43504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.438247594947</lat>
+						<lon>-79.97739431084597</lon>
+
+							<typ>S</typ>
+                			<stpid>3149</stpid>
+                			<stpnm>Fifth Ave at Wyandotte St</stpnm>
+                			<pdist>43940.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.438339593968</lat>
+						<lon>-79.97944159061001</lon>
+
+							<typ>S</typ>
+                			<stpid>3150</stpid>
+                			<stpnm>Fifth Ave opp Gist St</stpnm>
+                			<pdist>44496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.438395013737</lat>
+						<lon>-79.98056906481497</lon>
+
+							<typ>S</typ>
+                			<stpid>3151</stpid>
+                			<stpnm>Fifth Ave at Dinwiddie St</stpnm>
+                			<pdist>44857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.438484094732</lat>
+						<lon>-79.982623861111</lon>
+
+							<typ>S</typ>
+                			<stpid>3152</stpid>
+                			<stpnm>Fifth Ave opp Van Braam St</stpnm>
+                			<pdist>45473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.438582096493</lat>
+						<lon>-79.98490301984299</lon>
+
+							<typ>S</typ>
+                			<stpid>3154</stpid>
+                			<stpnm>Fifth Ave at Pride St</stpnm>
+                			<pdist>46036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.438632511731</lat>
+						<lon>-79.986305788361</lon>
+
+							<typ>S</typ>
+                			<stpid>3155</stpid>
+                			<stpnm>Fifth Ave at Stevenson St</stpnm>
+                			<pdist>46404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.438710016375</lat>
+						<lon>-79.98809724007901</lon>
+
+							<typ>S</typ>
+                			<stpid>3156</stpid>
+                			<stpnm>Fifth Ave at Magee St</stpnm>
+                			<pdist>46934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.43883051923</lat>
+						<lon>-79.99066396891499</lon>
+
+							<typ>S</typ>
+                			<stpid>3157</stpid>
+                			<stpnm>Fifth Ave at Washington Pl</stpnm>
+                			<pdist>47645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.43891805561953</lat>
+						<lon>-79.99259354100002</lon>
+
+							<typ>S</typ>
+                			<stpid>18161</stpid>
+                			<stpnm>5TH AVE + DIAMOND ST</stpnm>
+                			<pdist>48215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.43895888408</lat>
+						<lon>-79.99469102845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.439742785712</lat>
+						<lon>-79.99420286640901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.439906541484</lat>
+						<lon>-79.99416489219402</lon>
+
+							<typ>S</typ>
+                			<stpid>20292</stpid>
+                			<stpnm>Sixth Ave at Center Ave</stpnm>
+                			<pdist>49225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.44002494221</lat>
+						<lon>-79.994191714284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.440151508273</lat>
+						<lon>-79.99426681613699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.440265825802</lat>
+						<lon>-79.99437946891499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.440377273463</lat>
+						<lon>-79.99463113558102</lon>
+
+							<typ>S</typ>
+                			<stpid>1509</stpid>
+                			<stpnm>Sixth Ave at Bigelow Blvd</stpnm>
+                			<pdist>49596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.440657024606</lat>
+						<lon>-79.99556861175597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.441420492964</lat>
+						<lon>-79.99761245502498</lon>
+
+							<typ>S</typ>
+                			<stpid>3158</stpid>
+                			<stpnm>6th Ave at Smithfield St</stpnm>
+                			<pdist>50447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.442103148627</lat>
+						<lon>-79.99935869510801</lon>
+
+							<typ>S</typ>
+                			<stpid>3159</stpid>
+                			<stpnm>6th Ave at Wood St</stpnm>
+                			<pdist>50985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.442264429979</lat>
+						<lon>-79.99975383281702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.442337917532</lat>
+						<lon>-79.99984502792398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.442468561872</lat>
+						<lon>-79.999898672104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.4419837987926</lat>
+						<lon>-80.00176593253985</lon>
+
+							<typ>S</typ>
+                			<stpid>22256</stpid>
+                			<stpnm>Liberty Ave at 6th St (nearside)</stpnm>
+                			<pdist>51680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.441721436127</lat>
+						<lon>-80.00277400016802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.441635699855</lat>
+						<lon>-80.00273644924198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.441509136586</lat>
+						<lon>-80.00253796577499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.441349911491</lat>
+						<lon>-80.00216782093003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.44088273536</lat>
+						<lon>-80.00084666204202</lon>
+
+							<typ>S</typ>
+                			<stpid>20690</stpid>
+                			<stpnm>Fifth Ave at Wood St</stpnm>
+                			<pdist>52796.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5056</pid>
+				<ln>48968.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.44088273536</lat>
+						<lon>-80.00084666204202</lon>
+
+							<typ>S</typ>
+                			<stpid>20690</stpid>
+                			<stpnm>Fifth Ave at Wood St</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.440076181611</lat>
+						<lon>-79.99872384193202</lon>
+
+							<typ>S</typ>
+                			<stpid>20691</stpid>
+                			<stpnm>5TH AVE + SMITHFIELD ST</stpnm>
+                			<pdist>518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.439031583534</lat>
+						<lon>-79.99599604232901</lon>
+
+							<typ>S</typ>
+                			<stpid>20293</stpid>
+                			<stpnm>5TH AVE + ROSS ST</stpnm>
+                			<pdist>1427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.438936992727776</lat>
+						<lon>-79.99568223953247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.438928827035014</lat>
+						<lon>-79.99553203582764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.43891657849401</lat>
+						<lon>-79.99521553516388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.43890841279878</lat>
+						<lon>-79.99480247497559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.43879817581588</lat>
+						<lon>-79.99481320381165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.438340894549505</lat>
+						<lon>-79.99454498291016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.43798159994397</lat>
+						<lon>-79.99434113502502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.437999108078</lat>
+						<lon>-79.99344112962899</lon>
+
+							<typ>S</typ>
+                			<stpid>3241</stpid>
+                			<stpnm>Forbes Ave at Boyd St</stpnm>
+                			<pdist>2263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.437917437913</lat>
+						<lon>-79.99134648611101</lon>
+
+							<typ>S</typ>
+                			<stpid>3242</stpid>
+                			<stpnm>Forbes Ave at McAnulty Dr</stpnm>
+                			<pdist>2923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.437810426188</lat>
+						<lon>-79.98874681680002</lon>
+
+							<typ>S</typ>
+                			<stpid>3243</stpid>
+                			<stpnm>Forbes Ave at Magee St</stpnm>
+                			<pdist>3682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.437725178342</lat>
+						<lon>-79.98679457076702</lon>
+
+							<typ>S</typ>
+                			<stpid>3244</stpid>
+                			<stpnm>Forbes Ave at Stevenson St</stpnm>
+                			<pdist>4199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.437646432071</lat>
+						<lon>-79.98534843783</lon>
+
+							<typ>S</typ>
+                			<stpid>3245</stpid>
+                			<stpnm>Forbes Ave at Pride St</stpnm>
+                			<pdist>4571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.437541934523</lat>
+						<lon>-79.98294066666699</lon>
+
+							<typ>S</typ>
+                			<stpid>3246</stpid>
+                			<stpnm>Forbes Ave at Van Braam St</stpnm>
+                			<pdist>5252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.437488434527</lat>
+						<lon>-79.98175816666702</lon>
+
+							<typ>S</typ>
+                			<stpid>3247</stpid>
+                			<stpnm>Forbes Ave at Miltenberger St</stpnm>
+                			<pdist>5569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.43739501512</lat>
+						<lon>-79.979675333334</lon>
+
+							<typ>S</typ>
+                			<stpid>3248</stpid>
+                			<stpnm>Forbes Ave at Gist St</stpnm>
+                			<pdist>6150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.437332101202</lat>
+						<lon>-79.97799683333301</lon>
+
+							<typ>S</typ>
+                			<stpid>7112</stpid>
+                			<stpnm>Forbes Ave at Jumonville St</stpnm>
+                			<pdist>6646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.437240601206</lat>
+						<lon>-79.97613533333401</lon>
+
+							<typ>S</typ>
+                			<stpid>7113</stpid>
+                			<stpnm>Forbes Ave at Seneca St</stpnm>
+                			<pdist>7166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.437187600449</lat>
+						<lon>-79.97487096891399</lon>
+
+							<typ>S</typ>
+                			<stpid>7114</stpid>
+                			<stpnm>Forbes Ave at Moulrtie St</stpnm>
+                			<pdist>7516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.437118190223</lat>
+						<lon>-79.97314899072603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.437105941352</lat>
+						<lon>-79.97284321889902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.437048779926</lat>
+						<lon>-79.97248380289102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.436914042084</lat>
+						<lon>-79.97192590341598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.436787469926</lat>
+						<lon>-79.97157185182601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.436599652737</lat>
+						<lon>-79.97108905420299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.436464913995</lat>
+						<lon>-79.970751095867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.436260763872</lat>
+						<lon>-79.970000077343</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.436048447087</lat>
+						<lon>-79.969238329983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.435913707241</lat>
+						<lon>-79.96861605749098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.435860627833</lat>
+						<lon>-79.96820299730302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.435795299274</lat>
+						<lon>-79.966867257214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.435775804972</lat>
+						<lon>-79.96517299075799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.435853382651</lat>
+						<lon>-79.964824303586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.435996288668</lat>
+						<lon>-79.96457217593797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.436412755899</lat>
+						<lon>-79.96403036971799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.43725384852</lat>
+						<lon>-79.96288774867702</lon>
+
+							<typ>S</typ>
+                			<stpid>26</stpid>
+                			<stpnm>Forbes Ave past Craft Ave</stpnm>
+                			<pdist>11076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.438222848055</lat>
+						<lon>-79.961515957671</lon>
+
+							<typ>S</typ>
+                			<stpid>27</stpid>
+                			<stpnm>Forbes Ave at Halket St</stpnm>
+                			<pdist>11606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.439063750319</lat>
+						<lon>-79.96033756945099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.439627179662</lat>
+						<lon>-79.95960264418102</lon>
+
+							<typ>S</typ>
+                			<stpid>28</stpid>
+                			<stpnm>Forbes Ave at McKee Pl</stpnm>
+                			<pdist>12337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.440936177663</lat>
+						<lon>-79.95778849735399</lon>
+
+							<typ>S</typ>
+                			<stpid>29</stpid>
+                			<stpnm>Forbes Ave at Atwood St</stpnm>
+                			<pdist>13042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.44180892901</lat>
+						<lon>-79.95657687301701</lon>
+
+							<typ>S</typ>
+                			<stpid>30</stpid>
+                			<stpnm>Forbes Ave past Bouquet St</stpnm>
+                			<pdist>13692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.442494814359</lat>
+						<lon>-79.955632735444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.442596880033</lat>
+						<lon>-79.95546107406699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.442686697698</lat>
+						<lon>-79.95524649734602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.442768350017</lat>
+						<lon>-79.95496218318999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.443087499159</lat>
+						<lon>-79.95374069774999</lon>
+
+							<typ>S</typ>
+                			<stpid>31</stpid>
+                			<stpnm>Forbes Ave at Bigelow Blvd </stpnm>
+                			<pdist>14433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.443678343895</lat>
+						<lon>-79.95152988425798</lon>
+
+							<typ>S</typ>
+                			<stpid>2568</stpid>
+                			<stpnm>Forbes Ave opp Bellefield (nearside)</stpnm>
+                			<pdist>15103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.444311011804</lat>
+						<lon>-79.94906785317602</lon>
+
+							<typ>S</typ>
+                			<stpid>7115</stpid>
+                			<stpnm>Forbes Ave opp Craig St</stpnm>
+                			<pdist>15826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.44441377405</lat>
+						<lon>-79.9486887315</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.444434186615</lat>
+						<lon>-79.94804500133603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.444503589288</lat>
+						<lon>-79.94604407341103</lon>
+
+							<typ>S</typ>
+                			<stpid>7116</stpid>
+                			<stpnm>Forbes Ave at Hamburg Hall</stpnm>
+                			<pdist>16674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.444554754274414</lat>
+						<lon>-79.94492411613464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.44459149680891</lat>
+						<lon>-79.94400680065155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.44460374431596</lat>
+						<lon>-79.9436205625534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.44460782681781</lat>
+						<lon>-79.94333624839783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.44460374431596</lat>
+						<lon>-79.94308948516846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.444583331803</lat>
+						<lon>-79.94290173053741</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.444540996874</lat>
+						<lon>-79.942623011244</lon>
+
+							<typ>S</typ>
+                			<stpid>7117</stpid>
+                			<stpnm>FORBES AVE + MOREWOOD (CARNEGIE MELLON)</stpnm>
+                			<pdist>17717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.444000588162</lat>
+						<lon>-79.93945454233</lon>
+
+							<typ>S</typ>
+                			<stpid>7119</stpid>
+                			<stpnm>Forbes Ave opp Beeler St</stpnm>
+                			<pdist>18518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.443880494404</lat>
+						<lon>-79.93884893188698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.443341596184936</lat>
+						<lon>-79.93828566799328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.442700628284</lat>
+						<lon>-79.93766875992003</lon>
+
+							<typ>S</typ>
+                			<stpid>18173</stpid>
+                			<stpnm>Forbes Ave at Margaret Morrison St (nearside)</stpnm>
+                			<pdist>19193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.440627684949</lat>
+						<lon>-79.93577260449797</lon>
+
+							<typ>S</typ>
+                			<stpid>7121</stpid>
+                			<stpnm>Forbes Ave opp Planfield St</stpnm>
+                			<pdist>20159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.438976524163</lat>
+						<lon>-79.934210291005</lon>
+
+							<typ>S</typ>
+                			<stpid>20103</stpid>
+                			<stpnm>Forbes Ave at Northhumberland St</stpnm>
+                			<pdist>20893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.437932777267</lat>
+						<lon>-79.93327976851901</lon>
+
+							<typ>S</typ>
+                			<stpid>15659</stpid>
+                			<stpnm>Forbes Ave at Schenley Dr</stpnm>
+                			<pdist>21348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.437775772022</lat>
+						<lon>-79.93310850464798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.437722694085</lat>
+						<lon>-79.93299585187003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.437690030718</lat>
+						<lon>-79.93284564816497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.43769411364</lat>
+						<lon>-79.932491596575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.437796186602</lat>
+						<lon>-79.93087690674798</lon>
+
+							<typ>S</typ>
+                			<stpid>7124</stpid>
+                			<stpnm>Forbes Ave at Murdoch St</stpnm>
+                			<pdist>22047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.437976767834</lat>
+						<lon>-79.92810066666601</lon>
+
+							<typ>S</typ>
+                			<stpid>7125</stpid>
+                			<stpnm>Forbes Ave at Wightman St</stpnm>
+                			<pdist>22827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.43802576267</lat>
+						<lon>-79.92727454628903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.438042094273</lat>
+						<lon>-79.92601927247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.438030594286</lat>
+						<lon>-79.92322533333498</lon>
+
+							<typ>S</typ>
+                			<stpid>7126</stpid>
+                			<stpnm>Forbes Ave at Murray Ave </stpnm>
+                			<pdist>24187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.438005098588</lat>
+						<lon>-79.91961590674401</lon>
+
+							<typ>S</typ>
+                			<stpid>7127</stpid>
+                			<stpnm>Forbes Ave at Shady Ave</stpnm>
+                			<pdist>25186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.437999601165</lat>
+						<lon>-79.918144166665</lon>
+
+							<typ>S</typ>
+                			<stpid>7128</stpid>
+                			<stpnm>Forbes Ave at Denniston St</stpnm>
+                			<pdist>25607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.438002263543</lat>
+						<lon>-79.91639393783203</lon>
+
+							<typ>S</typ>
+                			<stpid>7129</stpid>
+                			<stpnm>Forbes Ave at Beechwood Blvd</stpnm>
+                			<pdist>26100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.438014934499</lat>
+						<lon>-79.913238500001</lon>
+
+							<typ>S</typ>
+                			<stpid>7130</stpid>
+                			<stpnm>Forbes Ave at Dallas Ave</stpnm>
+                			<pdist>27006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.43797818837</lat>
+						<lon>-79.91136095369097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.43799379606</lat>
+						<lon>-79.908090877049</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.438022376378</lat>
+						<lon>-79.90558032941101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.438079536977</lat>
+						<lon>-79.90522091340301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.438140780423</lat>
+						<lon>-79.90491514157497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.438230604041</lat>
+						<lon>-79.904668378346</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.439165579128</lat>
+						<lon>-79.90238313626503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.439288063984</lat>
+						<lon>-79.90207736443699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.439361554791</lat>
+						<lon>-79.90179841470001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.439410548617</lat>
+						<lon>-79.901519464962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.439455459593</lat>
+						<lon>-79.900628971569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.439533033027</lat>
+						<lon>-79.89933078240597</lon>
+
+							<typ>S</typ>
+                			<stpid>7132</stpid>
+                			<stpnm>Forbes Ave opp Briarcliff Rd</stpnm>
+                			<pdist>31000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.439643261404</lat>
+						<lon>-79.897666394837</lon>
+
+							<typ>S</typ>
+                			<stpid>7234</stpid>
+                			<stpnm>Forbes Ave at Braddock Ave</stpnm>
+                			<pdist>31413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.438445934476</lat>
+						<lon>-79.897155833334</lon>
+
+							<typ>S</typ>
+                			<stpid>7235</stpid>
+                			<stpnm>Braddock Ave opp Guthrie St</stpnm>
+                			<pdist>31948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.436767434566</lat>
+						<lon>-79.896415666668</lon>
+
+							<typ>S</typ>
+                			<stpid>7236</stpid>
+                			<stpnm>Braddock Ave at Biddle Ave</stpnm>
+                			<pdist>32600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.435868200897</lat>
+						<lon>-79.896035253965</lon>
+
+							<typ>S</typ>
+                			<stpid>7237</stpid>
+                			<stpnm>Braddock Ave at Henrietta St</stpnm>
+                			<pdist>32867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.435276158579</lat>
+						<lon>-79.895783126318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.434851518119</lat>
+						<lon>-79.895557820761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.434356601362</lat>
+						<lon>-79.895195000001</lon>
+
+							<typ>S</typ>
+                			<stpid>7238</stpid>
+                			<stpnm>Braddock Ave at Overton St</stpnm>
+                			<pdist>33574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.432869106639</lat>
+						<lon>-79.894110140871</lon>
+
+							<typ>S</typ>
+                			<stpid>7239</stpid>
+                			<stpnm>Braddock Ave at Hutchinson St</stpnm>
+                			<pdist>34110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.431757687507</lat>
+						<lon>-79.89329962102897</lon>
+
+							<typ>S</typ>
+                			<stpid>7240</stpid>
+                			<stpnm>Braddock Ave at Sanders St</stpnm>
+                			<pdist>34572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.430938935223</lat>
+						<lon>-79.892719632938</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.430800101798</lat>
+						<lon>-79.892639166668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.430698018215</lat>
+						<lon>-79.89260161574202</lon>
+
+							<typ>S</typ>
+                			<stpid>7241</stpid>
+                			<stpnm>Braddock Ave at Charleston Ave</stpnm>
+                			<pdist>35106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.428762352587</lat>
+						<lon>-79.891807499999</lon>
+
+							<typ>S</typ>
+                			<stpid>7242</stpid>
+                			<stpnm>Braddock Ave opp Greendale Ave</stpnm>
+                			<pdist>35869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.428108687947</lat>
+						<lon>-79.891485319446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.427438990012</lat>
+						<lon>-79.891077623676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.427308316467</lat>
+						<lon>-79.890954242061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.426867291377</lat>
+						<lon>-79.891163454364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.426536520662</lat>
+						<lon>-79.891351208995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.426160828494</lat>
+						<lon>-79.891651616405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.426017901575</lat>
+						<lon>-79.891737447093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.425858639793</lat>
+						<lon>-79.891748175929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.425658541122</lat>
+						<lon>-79.891715989421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.425470692848</lat>
+						<lon>-79.891635523151</lon>
+
+							<typ>S</typ>
+                			<stpid>19006</stpid>
+                			<stpnm>Monongahela Ave past Whipple St</stpnm>
+                			<pdist>37194.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.423826599637</lat>
+						<lon>-79.890953465607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.423646913797</lat>
+						<lon>-79.891479178574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.423095601973</lat>
+						<lon>-79.8911895</lon>
+
+							<typ>S</typ>
+                			<stpid>7245</stpid>
+                			<stpnm>Monongahela Ave at McClure Ave</stpnm>
+                			<pdist>38126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.421999265453</lat>
+						<lon>-79.89049533333201</lon>
+
+							<typ>S</typ>
+                			<stpid>7246</stpid>
+                			<stpnm>Monongahela Ave at Church St</stpnm>
+                			<pdist>38568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.42077843174</lat>
+						<lon>-79.88974306216903</lon>
+
+							<typ>S</typ>
+                			<stpid>7247</stpid>
+                			<stpnm>Monongahela Ave at Schley Ave</stpnm>
+                			<pdist>39080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.420130850169</lat>
+						<lon>-79.88935712433897</lon>
+
+							<typ>S</typ>
+                			<stpid>7248</stpid>
+                			<stpnm>Monongahela Ave opp Washington St</stpnm>
+                			<pdist>39348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.41832166956</lat>
+						<lon>-79.88821371163897</lon>
+
+							<typ>S</typ>
+                			<stpid>7249</stpid>
+                			<stpnm>Monongahela Ave opp Duquesne Ave</stpnm>
+                			<pdist>40079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.417442018128</lat>
+						<lon>-79.887685980159</lon>
+
+							<typ>S</typ>
+                			<stpid>7250</stpid>
+                			<stpnm>Monongahela Ave at #2130</stpnm>
+                			<pdist>40469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.417029517589</lat>
+						<lon>-79.88743921692901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.416817140088</lat>
+						<lon>-79.887272919971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.416641519724</lat>
+						<lon>-79.88706907208501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.416482235743</lat>
+						<lon>-79.88683840211002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.41633520404</lat>
+						<lon>-79.88654335911798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.416171835105</lat>
+						<lon>-79.88601764615203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.416000519928</lat>
+						<lon>-79.885322044975</lon>
+
+							<typ>S</typ>
+                			<stpid>7252</stpid>
+                			<stpnm>Miller Ave at Gas St</stpnm>
+                			<pdist>41324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.415937617756</lat>
+						<lon>-79.88489957408899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.415884522582</lat>
+						<lon>-79.88448651390001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.415447506865</lat>
+						<lon>-79.88297911243399</lon>
+
+							<typ>S</typ>
+                			<stpid>7253</stpid>
+                			<stpnm>Miller Ave at Harriet St</stpnm>
+                			<pdist>41954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.414801431841</lat>
+						<lon>-79.883291480158</lon>
+
+							<typ>S</typ>
+                			<stpid>7254</stpid>
+                			<stpnm>Harriet St at 5th Ave</stpnm>
+                			<pdist>42258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.413931849374</lat>
+						<lon>-79.88373858465599</lon>
+
+							<typ>S</typ>
+                			<stpid>7255</stpid>
+                			<stpnm>Harriet St opp Bldg #2</stpnm>
+                			<pdist>42604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.413580593127</lat>
+						<lon>-79.88387269510702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.413494820974</lat>
+						<lon>-79.88388342394302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.413417217504</lat>
+						<lon>-79.88383514418103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.413327360742</lat>
+						<lon>-79.88371712698398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.413021353605</lat>
+						<lon>-79.88315490674597</lon>
+
+							<typ>S</typ>
+                			<stpid>7256</stpid>
+                			<stpnm>Rankin Blvd opp Bldg #5</stpnm>
+                			<pdist>43038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.412056689338</lat>
+						<lon>-79.88130781349201</lon>
+
+							<typ>S</typ>
+                			<stpid>7257</stpid>
+                			<stpnm>Rankin Blvd opp Hawkins Ave</stpnm>
+                			<pdist>43659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.411423271639</lat>
+						<lon>-79.88011228240902</lon>
+
+							<typ>S</typ>
+                			<stpid>7258</stpid>
+                			<stpnm>Rankin Blvd at #211</stpnm>
+                			<pdist>44061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.410166831293</lat>
+						<lon>-79.87773823412499</lon>
+
+							<typ>S</typ>
+                			<stpid>7259</stpid>
+                			<stpnm>Rankin Blvd at Kenmawr Ave</stpnm>
+                			<pdist>44820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.410028312603</lat>
+						<lon>-79.877504110336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.409938451315</lat>
+						<lon>-79.877509474754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.409660697488</lat>
+						<lon>-79.877643585205</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.409509566247</lat>
+						<lon>-79.877686500549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.409374773232</lat>
+						<lon>-79.877681136131</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.409248149245</lat>
+						<lon>-79.877627491951</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.408733481556</lat>
+						<lon>-79.87708568573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.408394452277</lat>
+						<lon>-79.876747727394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.407687795398</lat>
+						<lon>-79.87596988678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.40737326943</lat>
+						<lon>-79.875664114952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.407250726448</lat>
+						<lon>-79.875465631485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.407061178937</lat>
+						<lon>-79.875129666666</lon>
+
+							<typ>S</typ>
+                			<stpid>7391</stpid>
+                			<stpnm>Braddock Ave opp Line Ave</stpnm>
+                			<pdist>46289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.406116506019</lat>
+						<lon>-79.873491248677</lon>
+
+							<typ>S</typ>
+                			<stpid>21614</stpid>
+                			<stpnm>Braddock Ave at 2nd St</stpnm>
+                			<pdist>46869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.405596575292</lat>
+						<lon>-79.872541502645</lon>
+
+							<typ>S</typ>
+                			<stpid>7393</stpid>
+                			<stpnm>Braddock Ave at 3rd St</stpnm>
+                			<pdist>47161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.405075332575</lat>
+						<lon>-79.87158124008</lon>
+
+							<typ>S</typ>
+                			<stpid>7394</stpid>
+                			<stpnm>Braddock Ave at 4th St</stpnm>
+                			<pdist>47517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.404600678324</lat>
+						<lon>-79.870768728835</lon>
+
+							<typ>S</typ>
+                			<stpid>7395</stpid>
+                			<stpnm>Braddock Ave at 5th St</stpnm>
+                			<pdist>47819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.403821063613</lat>
+						<lon>-79.86937516931</lon>
+
+							<typ>S</typ>
+                			<stpid>7396</stpid>
+                			<stpnm>Braddock Ave opp Corey Ave</stpnm>
+                			<pdist>48275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.403301749611</lat>
+						<lon>-79.86869294642798</lon>
+
+							<typ>S</typ>
+                			<stpid>20939</stpid>
+                			<stpnm>Braddock Ave at 6th St</stpnm>
+                			<pdist>48579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.403273154539</lat>
+						<lon>-79.868644666666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.402958607942</lat>
+						<lon>-79.869073820108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.402486674348</lat>
+						<lon>-79.86843729100599</lon>
+
+							<typ>S</typ>
+                			<stpid>20936</stpid>
+                			<stpnm>Braddock Terminal</stpnm>
+                			<pdist>48968.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

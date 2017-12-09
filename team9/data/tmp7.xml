@@ -1,0 +1,3263 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2208</pid>
+				<ln>27759.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.486224591274</lat>
+						<lon>-80.00503165542398</lon>
+
+							<typ>S</typ>
+                			<stpid>1768</stpid>
+                			<stpnm>Colby St at Faber St</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.487731818902</lat>
+						<lon>-80.00562837962502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.488001090531</lat>
+						<lon>-80.00576785449402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.488572269199</lat>
+						<lon>-80.00612190608399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.489192400533</lat>
+						<lon>-80.00655105952603</lon>
+
+							<typ>S</typ>
+                			<stpid>2858</stpid>
+                			<stpnm>Colby St at Chapin St</stpnm>
+                			<pdist>1150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.48938610930306</lat>
+						<lon>-80.00611066818237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.48951666216126</lat>
+						<lon>-80.00576734542847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.48966353382314</lat>
+						<lon>-80.00540792942047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.489720650493744</lat>
+						<lon>-80.00518262386322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.48982486628108</lat>
+						<lon>-80.00484865542421</lon>
+
+							<typ>S</typ>
+                			<stpid>2859</stpid>
+                			<stpnm>Chapin St at #354</stpnm>
+                			<pdist>1811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.49022052635</lat>
+						<lon>-80.00368238227884</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.49020012769619</lat>
+						<lon>-80.0034570767209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.49009405459879</lat>
+						<lon>-80.00310838954897</lon>
+
+							<typ>S</typ>
+                			<stpid>2860</stpid>
+                			<stpnm>Ramage Rd at Charlemma Dr</stpnm>
+                			<pdist>2308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.490057336949</lat>
+						<lon>-80.00285626190202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.49008997486138</lat>
+						<lon>-80.00256121890982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.490138931698624</lat>
+						<lon>-80.002341277771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.49030620062638</lat>
+						<lon>-80.00178337829607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.49042859226074</lat>
+						<lon>-80.00142396228819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.49052242569534</lat>
+						<lon>-80.00102163093607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.49056437371718</lat>
+						<lon>-80.00018224007817</lon>
+
+							<typ>S</typ>
+                			<stpid>2861</stpid>
+                			<stpnm>Ramage Rd opp Cherrywood Dr</stpnm>
+                			<pdist>3193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.490665162430275</lat>
+						<lon>-79.9999258690741</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.49184010661672</lat>
+						<lon>-79.99786056813224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.49206448597959</lat>
+						<lon>-79.99768890675529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.49226846656799</lat>
+						<lon>-79.9975816183952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.492480605721</lat>
+						<lon>-79.99755479630414</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.49283960891463</lat>
+						<lon>-79.99757625397717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.49293343897855</lat>
+						<lon>-79.99753333863202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.492994632427276</lat>
+						<lon>-79.99740995701774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.49292120028149</lat>
+						<lon>-79.997147100534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.49269682378366</lat>
+						<lon>-79.99649800595284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.492472446535</lat>
+						<lon>-79.99632098015798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.492374536228</lat>
+						<lon>-79.99617077645303</lon>
+
+							<typ>S</typ>
+                			<stpid>2862</stpid>
+                			<stpnm>Ramage Rd at Spring Garden Rd</stpnm>
+                			<pdist>4838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.492170555963</lat>
+						<lon>-79.99617077645303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.491982893571</lat>
+						<lon>-79.99616004761697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.491003776928</lat>
+						<lon>-79.995945470896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.490530532096</lat>
+						<lon>-79.99582745369901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.490244951703</lat>
+						<lon>-79.995805996027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.489902253628</lat>
+						<lon>-79.99582745369901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.489657468217</lat>
+						<lon>-79.99589182671502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.489494277447</lat>
+						<lon>-79.995945470896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.489282128852</lat>
+						<lon>-79.99614931878102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.489021021969</lat>
+						<lon>-79.996428268518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.488645679045</lat>
+						<lon>-79.996835964289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.488482485815</lat>
+						<lon>-79.99699689683001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.488311132496</lat>
+						<lon>-79.99708272751798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.487667639891</lat>
+						<lon>-79.99729641534401</lon>
+
+							<typ>S</typ>
+                			<stpid>2863</stpid>
+                			<stpnm>Spring Garden Rd opp #3851</stpnm>
+                			<pdist>6727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.487434165479</lat>
+						<lon>-79.997351724873</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.487262809484</lat>
+						<lon>-79.99734099603597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.487115932568</lat>
+						<lon>-79.99731953836397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.485679785787</lat>
+						<lon>-79.99662216401998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.485500265279</lat>
+						<lon>-79.99658997751203</lon>
+
+							<typ>S</typ>
+                			<stpid>2864</stpid>
+                			<stpnm>Spring Garden Rd opp #3681</stpnm>
+                			<pdist>7597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.485149999562</lat>
+						<lon>-79.996599009264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.484684873584</lat>
+						<lon>-79.99664192460801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.484048380181</lat>
+						<lon>-79.99663119577201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.483558765764</lat>
+						<lon>-79.996577551592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.48294674272</lat>
+						<lon>-79.99653463624799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.482073580184</lat>
+						<lon>-79.99642734788699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.481306493445</lat>
+						<lon>-79.996298601854</lon>
+
+							<typ>S</typ>
+                			<stpid>2865</stpid>
+                			<stpnm>Spring Garden Rd at Beech St</stpnm>
+                			<pdist>9102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.480425904166</lat>
+						<lon>-79.99597596031902</lon>
+
+							<typ>S</typ>
+                			<stpid>2866</stpid>
+                			<stpnm>Spring Garden Rd at #3364</stpnm>
+                			<pdist>9381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.479462748966</lat>
+						<lon>-79.99566173016296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.478467127889</lat>
+						<lon>-79.995050186507</lon>
+
+							<typ>S</typ>
+                			<stpid>2867</stpid>
+                			<stpnm>Spring Garden Ave at Luke's Road House (#3254)</stpnm>
+                			<pdist>10202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.477574590451</lat>
+						<lon>-79.99450127646298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.47720326403834</lat>
+						<lon>-79.99340157076699</lon>
+
+							<typ>S</typ>
+                			<stpid>19319</stpid>
+                			<stpnm>Spring Garden Ave at Williams Rd</stpnm>
+                			<pdist>10886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.477026342842</lat>
+						<lon>-79.993005724895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.47663461062</lat>
+						<lon>-79.99228689287901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.476512193832</lat>
+						<lon>-79.99126765345397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.476512193832</lat>
+						<lon>-79.99031278704501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.476406099102</lat>
+						<lon>-79.989572497356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.476234714953</lat>
+						<lon>-79.98935792063503</lon>
+
+							<typ>S</typ>
+                			<stpid>2869</stpid>
+                			<stpnm>Spring Garden Ave opp Reekes Way</stpnm>
+                			<pdist>12040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.475731931616</lat>
+						<lon>-79.98947117857301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.475454449512</lat>
+						<lon>-79.98950336508102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.47515248239</lat>
+						<lon>-79.98942826322798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.474891320541</lat>
+						<lon>-79.98933170370401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.47463831903</lat>
+						<lon>-79.989138584655</lon>
+
+							<typ>S</typ>
+                			<stpid>2870</stpid>
+                			<stpnm>Spring Garden Ave at Giddy Way</stpnm>
+                			<pdist>12718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.473983068593</lat>
+						<lon>-79.98844668254503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.47350970375</lat>
+						<lon>-79.98810335979101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.472856781248</lat>
+						<lon>-79.98764201984</lon>
+
+							<typ>S</typ>
+                			<stpid>2871</stpid>
+                			<stpnm>Spring Garden Ave at Reppel Way</stpnm>
+                			<pdist>13514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.472520745681</lat>
+						<lon>-79.98741668254502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.472202442066</lat>
+						<lon>-79.98720210582303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.471606638938</lat>
+						<lon>-79.98655837566002</lon>
+
+							<typ>S</typ>
+                			<stpid>2872</stpid>
+                			<stpnm>Spring Garden Ave opp Mauch St</stpnm>
+                			<pdist>14050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.471377966929</lat>
+						<lon>-79.98633381481801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.47090458372</lat>
+						<lon>-79.98619433994998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.470431197175</lat>
+						<lon>-79.98607632275298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.469451766141</lat>
+						<lon>-79.98573299999902</lon>
+
+							<typ>S</typ>
+                			<stpid>2873</stpid>
+                			<stpnm>Spring Garden Ave at Tracy's Deli</stpnm>
+                			<pdist>14918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.46875495584</lat>
+						<lon>-79.98547212433999</lon>
+
+							<typ>S</typ>
+                			<stpid>2874</stpid>
+                			<stpnm>Spring Garden Ave at Borough St</stpnm>
+                			<pdist>15185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.46833071685</lat>
+						<lon>-79.985365601853</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.467922609558</lat>
+						<lon>-79.98531195767299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.467432877534</lat>
+						<lon>-79.98524758465703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.466918655065</lat>
+						<lon>-79.98524758465703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.466396266304</lat>
+						<lon>-79.98529050000099</lon>
+
+							<typ>S</typ>
+                			<stpid>2875</stpid>
+                			<stpnm>Spring Garden Ave at Spring Garden Loop</stpnm>
+                			<pdist>16077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.466122113916</lat>
+						<lon>-79.98528147883002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.465779292684</lat>
+						<lon>-79.98547459787903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.465485444521</lat>
+						<lon>-79.98562480158398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.464742655933</lat>
+						<lon>-79.98575354761698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.464187599757</lat>
+						<lon>-79.985946666666</lon>
+
+							<typ>S</typ>
+                			<stpid>2876</stpid>
+                			<stpnm>Spring Garden Ave at Lager St</stpnm>
+                			<pdist>16926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.463971497407</lat>
+						<lon>-79.98601580951998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.463130739112</lat>
+						<lon>-79.98671318386403</lon>
+
+							<typ>S</typ>
+                			<stpid>16180</stpid>
+                			<stpnm>Spring Garden Ave opp #1435 Waltmire Pharmacy</stpnm>
+                			<pdist>17397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.462818296778</lat>
+						<lon>-79.98686984391298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.462173433198</lat>
+						<lon>-79.987213166667</lon>
+
+							<typ>S</typ>
+                			<stpid>2877</stpid>
+                			<stpnm>Spring Garden Ave at Old Honesty St</stpnm>
+                			<pdist>17782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.461658894443</lat>
+						<lon>-79.98751544708301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.460891574469</lat>
+						<lon>-79.98798751586901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.460752802899</lat>
+						<lon>-79.98851322883598</lon>
+
+							<typ>S</typ>
+                			<stpid>2878</stpid>
+                			<stpnm>Spring Garden Ave at Tell St</stpnm>
+                			<pdist>18465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.460382114285</lat>
+						<lon>-79.99040983333401</lon>
+
+							<typ>S</typ>
+                			<stpid>2879</stpid>
+                			<stpnm>Spring Garden Ave opp Basin St</stpnm>
+                			<pdist>19023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.460171287978</lat>
+						<lon>-79.99152535317603</lon>
+
+							<typ>S</typ>
+                			<stpid>2880</stpid>
+                			<stpnm>Spring Garden Ave at Arcola Way</stpnm>
+                			<pdist>19333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.459871363112</lat>
+						<lon>-79.99316186904201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.459789731572</lat>
+						<lon>-79.9933871746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.459650957727</lat>
+						<lon>-79.99349446296003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.459316266684</lat>
+						<lon>-79.993709039681</lon>
+
+							<typ>S</typ>
+                			<stpid>2881</stpid>
+                			<stpnm>Spring Garden Ave at #1036</stpnm>
+                			<pdist>20064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.458312484207</lat>
+						<lon>-79.99437777645403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.458051256868</lat>
+						<lon>-79.994613810847</lon>
+
+							<typ>S</typ>
+                			<stpid>2882</stpid>
+                			<stpnm>Spring Garden Ave opp Constance St</stpnm>
+                			<pdist>20616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.457936969588</lat>
+						<lon>-79.99483911640499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.457749211492</lat>
+						<lon>-79.99547211773199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.457088704155</lat>
+						<lon>-79.99525112698302</lon>
+
+							<typ>S</typ>
+                			<stpid>2825</stpid>
+                			<stpnm>Chestnut St at Tripoli St</stpnm>
+                			<pdist>21138.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.456285527638</lat>
+						<lon>-79.99499822883598</lon>
+
+							<typ>S</typ>
+                			<stpid>2826</stpid>
+                			<stpnm>Chestnut St at Suismon St</stpnm>
+                			<pdist>21463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.455501433556</lat>
+						<lon>-79.99472816666702</lon>
+
+							<typ>S</typ>
+                			<stpid>2827</stpid>
+                			<stpnm>Chestnut St at Phineas St (East Ohio)</stpnm>
+                			<pdist>21775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.455342241607</lat>
+						<lon>-79.99467988690503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.455170803702</lat>
+						<lon>-79.99463160714197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.455085084585</lat>
+						<lon>-79.99470670899501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.454815680935</lat>
+						<lon>-79.994776446429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.454615668436</lat>
+						<lon>-79.995168048945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.454535251299</lat>
+						<lon>-79.995406550925</lon>
+
+							<typ>S</typ>
+                			<stpid>18354</stpid>
+                			<stpnm>East Ohio St past Chestnut St</stpnm>
+                			<pdist>22260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.454220944363</lat>
+						<lon>-79.996677917998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.454180125173</lat>
+						<lon>-79.99695150331797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.454065831308</lat>
+						<lon>-79.997949285071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.45393520951</lat>
+						<lon>-79.998367709678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.453815433648</lat>
+						<lon>-79.998990226192</lon>
+
+							<typ>S</typ>
+                			<stpid>1997</stpid>
+                			<stpnm>East Ohio St at Middle St</stpnm>
+                			<pdist>23369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.45354700463591</lat>
+						<lon>-80.00056357936614</lon>
+
+							<typ>S</typ>
+                			<stpid>1998</stpid>
+                			<stpnm>East Ohio St at James St</stpnm>
+                			<pdist>23813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.453412299862705</lat>
+						<lon>-80.00124486045598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.453330660474485</lat>
+						<lon>-80.0017383869149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.451615446349</lat>
+						<lon>-80.00119645767398</lon>
+
+							<typ>S</typ>
+                			<stpid>175</stpid>
+                			<stpnm>Cedar Ave opp Pressley St</stpnm>
+                			<pdist>24754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.450896997119</lat>
+						<lon>-80.00096042328101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.4508031083</lat>
+						<lon>-80.001368119051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.449924251054</lat>
+						<lon>-80.001107853176</lon>
+
+							<typ>S</typ>
+                			<stpid>176</stpid>
+                			<stpnm>Anderson St at Lacock St</stpnm>
+                			<pdist>25456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.449032031562</lat>
+						<lon>-80.00080484457897</lon>
+
+							<typ>S</typ>
+                			<stpid>177</stpid>
+                			<stpnm>Anderson St at General Robinson St</stpnm>
+                			<pdist>25749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.448328522567</lat>
+						<lon>-80.000581064816</lon>
+
+							<typ>S</typ>
+                			<stpid>178</stpid>
+                			<stpnm>Anderson St at Isabella St</stpnm>
+                			<pdist>26023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.448050927244</lat>
+						<lon>-80.00048450529101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.447593708918</lat>
+						<lon>-80.00025383531602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.446797651732</lat>
+						<lon>-79.99984077512698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.445564765072</lat>
+						<lon>-79.99923459589002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.443821443608</lat>
+						<lon>-79.99844733862403</lon>
+
+							<typ>S</typ>
+                			<stpid>179</stpid>
+                			<stpnm>9th St at Penn Ave</stpnm>
+                			<pdist>27759.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5732</pid>
+				<ln>31966.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.443821443608</lat>
+						<lon>-79.99844733862403</lon>
+
+							<typ>S</typ>
+                			<stpid>179</stpid>
+                			<stpnm>9th St at Penn Ave</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.442950310681</lat>
+						<lon>-79.99806940555601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.442710259004</lat>
+						<lon>-79.99891114153701</lon>
+
+							<typ>S</typ>
+                			<stpid>15266</stpid>
+                			<stpnm>Liberty Ave at Tito Way</stpnm>
+                			<pdist>609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.442061778475</lat>
+						<lon>-80.00139616666502</lon>
+
+							<typ>S</typ>
+                			<stpid>1410</stpid>
+                			<stpnm>Liberty Ave at 6th St </stpnm>
+                			<pdist>1461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.441980125298</lat>
+						<lon>-80.00175021825498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.443959740726</lat>
+						<lon>-80.002675386904</lon>
+
+							<typ>S</typ>
+                			<stpid>1411</stpid>
+                			<stpnm>6th St at Ft Duquesne Blvd</stpnm>
+                			<pdist>2226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.447439933991</lat>
+						<lon>-80.00394166666501</lon>
+
+							<typ>S</typ>
+                			<stpid>22449</stpid>
+                			<stpnm>Federal St at Isabella St</stpnm>
+                			<pdist>3586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.447902324969</lat>
+						<lon>-80.00411510467501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.448310553891</lat>
+						<lon>-80.00424385070801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.448906563665</lat>
+						<lon>-80.004431605339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.449425006224</lat>
+						<lon>-80.004581809044</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.44967402052</lat>
+						<lon>-80.00465691089602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.449871769496</lat>
+						<lon>-80.00470551984301</lon>
+
+							<typ>S</typ>
+                			<stpid>22450</stpid>
+                			<stpnm>Federal St at South Commons</stpnm>
+                			<pdist>4500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.450033252632</lat>
+						<lon>-80.004742741585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.450155717686</lat>
+						<lon>-80.00472128391198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.450278182516</lat>
+						<lon>-80.00463008880598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.450343497002</lat>
+						<lon>-80.00445842742897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.45064557567</lat>
+						<lon>-80.00283837318398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.452792744371</lat>
+						<lon>-80.00354647636402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.452866220413</lat>
+						<lon>-80.00351428985601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.452956024355</lat>
+						<lon>-80.00336408615101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.453050010306</lat>
+						<lon>-80.00289150000003</lon>
+
+							<typ>S</typ>
+                			<stpid>216</stpid>
+                			<stpnm>East Ohio St opp Union Pl</stpnm>
+                			<pdist>6221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.453247348988</lat>
+						<lon>-80.00178518319797</lon>
+
+							<typ>S</typ>
+                			<stpid>1796</stpid>
+                			<stpnm>East Ohio St at Cedar Ave</stpnm>
+                			<pdist>6478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.453357562275</lat>
+						<lon>-80.00114681745197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.453443775214</lat>
+						<lon>-80.00062060714197</lon>
+
+							<typ>S</typ>
+                			<stpid>2088</stpid>
+                			<stpnm>East Ohio St opp James St</stpnm>
+                			<pdist>6838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.453706693349</lat>
+						<lon>-79.999201912037</lon>
+
+							<typ>S</typ>
+                			<stpid>2089</stpid>
+                			<stpnm>East Ohio St at Middle St</stpnm>
+                			<pdist>7220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.453836360064</lat>
+						<lon>-79.99845608201201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.453848605887</lat>
+						<lon>-79.99808593716801</lon>
+
+							<typ>S</typ>
+                			<stpid>2090</stpid>
+                			<stpnm>East Ohio St past Nash St</stpnm>
+                			<pdist>7492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.453848605886</lat>
+						<lon>-79.998161039021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.45388534334</lat>
+						<lon>-79.99778016534003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.453938408515</lat>
+						<lon>-79.997501215603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.454007801374</lat>
+						<lon>-79.99710424866902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.454069030307</lat>
+						<lon>-79.99681457009501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.454085358013</lat>
+						<lon>-79.99657853570199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.454101685716</lat>
+						<lon>-79.99646588292302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.454281290177</lat>
+						<lon>-79.99569877114499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.454534368377</lat>
+						<lon>-79.99489947285798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.454856837605</lat>
+						<lon>-79.99437375989203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.455073176853</lat>
+						<lon>-79.99452396359601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.455301760961</lat>
+						<lon>-79.99460442986697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.455444625634</lat>
+						<lon>-79.994631251957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.456147967293</lat>
+						<lon>-79.99487285582097</lon>
+
+							<typ>S</typ>
+                			<stpid>2839</stpid>
+                			<stpnm>Chestnut St at Suismon St</stpnm>
+                			<pdist>9172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.457010420805</lat>
+						<lon>-79.99514889814799</lon>
+
+							<typ>S</typ>
+                			<stpid>18640</stpid>
+                			<stpnm>Chestnut St at Zona Way</stpnm>
+                			<pdist>9453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.45771137983233</lat>
+						<lon>-79.99537646770477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.45782158579722</lat>
+						<lon>-79.9949312210083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.45790321972873</lat>
+						<lon>-79.99468982219696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.457966926856</lat>
+						<lon>-79.99455971759403</lon>
+
+							<typ>S</typ>
+                			<stpid>2898</stpid>
+                			<stpnm>SPRING GARDEN AVE + MONETA</stpnm>
+                			<pdist>9916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.459169858608</lat>
+						<lon>-79.99369954232799</lon>
+
+							<typ>S</typ>
+                			<stpid>2899</stpid>
+                			<stpnm>Spring Garden Ave at #1043</stpnm>
+                			<pdist>10489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.459587158258</lat>
+						<lon>-79.993436622368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.459693279561</lat>
+						<lon>-79.99336152051501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.459754503313</lat>
+						<lon>-79.99325959657301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.459787155958</lat>
+						<lon>-79.99310402845003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.460056539674</lat>
+						<lon>-79.99162344907398</lon>
+
+							<typ>S</typ>
+                			<stpid>2900</stpid>
+                			<stpnm>Spring Garden Ave at Arcola Way</stpnm>
+                			<pdist>11208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.46028195472</lat>
+						<lon>-79.99053874008001</lon>
+
+							<typ>S</typ>
+                			<stpid>2901</stpid>
+                			<stpnm>Spring Garden Ave at Basin St</stpnm>
+                			<pdist>11531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.460689433277</lat>
+						<lon>-79.98851783333299</lon>
+
+							<typ>S</typ>
+                			<stpid>2902</stpid>
+                			<stpnm>Spring Garden Ave past Tell St </stpnm>
+                			<pdist>12104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.460792996997</lat>
+						<lon>-79.98801648616791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.46081340458654</lat>
+						<lon>-79.98793601989746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.460850138232075</lat>
+						<lon>-79.98789310455322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.461103191688835</lat>
+						<lon>-79.98773217201233</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.461699087999136</lat>
+						<lon>-79.9873834848404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.462201533643</lat>
+						<lon>-79.98711599140097</lon>
+
+							<typ>S</typ>
+                			<stpid>2903</stpid>
+                			<stpnm>SPRING GARDEN AVE + OLD HONESTY ST</stpnm>
+                			<pdist>12730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.462805855642</lat>
+						<lon>-79.98677341798901</lon>
+
+							<typ>S</typ>
+                			<stpid>16271</stpid>
+                			<stpnm>Spring Garden Ave at #1435 Waltmire Pharmacy</stpnm>
+                			<pdist>13070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.463014415879</lat>
+						<lon>-79.98666457804899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.463308274852</lat>
+						<lon>-79.98644463690903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.463973534167</lat>
+						<lon>-79.98591892394302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.464046997982</lat>
+						<lon>-79.98587064418001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.464671437165</lat>
+						<lon>-79.98568288954903</lon>
+
+							<typ>S</typ>
+                			<stpid>2904</stpid>
+                			<stpnm>Spring Garden Ave at Lager St</stpnm>
+                			<pdist>13497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.465084799064</lat>
+						<lon>-79.98560731151201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.46537864898</lat>
+						<lon>-79.985553667332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.465521492225</lat>
+						<lon>-79.98550002315199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.465688822497</lat>
+						<lon>-79.985414192463</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.46603980659</lat>
+						<lon>-79.98523716666801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.466121430535</lat>
+						<lon>-79.98521034457798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.466586685128</lat>
+						<lon>-79.98515670039797</lon>
+
+							<typ>S</typ>
+                			<stpid>2905</stpid>
+                			<stpnm>Spring Garden Ave opp Spring Garden Loop</stpnm>
+                			<pdist>14519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.466864931463</lat>
+						<lon>-79.985141688488</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.467350586508</lat>
+						<lon>-79.98514705290597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.467807670402</lat>
+						<lon>-79.98518996824998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.46810558948</lat>
+						<lon>-79.98522215475799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.468648370155</lat>
+						<lon>-79.98532407870101</lon>
+
+							<typ>S</typ>
+                			<stpid>2906</stpid>
+                			<stpnm>Spring Garden Ave opp Borough St</stpnm>
+                			<pdist>15275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.46944933777283</lat>
+						<lon>-79.98564486706357</lon>
+
+							<typ>S</typ>
+                			<stpid>16894</stpid>
+                			<stpnm>SPRING GARDEN AVE OPP #2200</stpnm>
+                			<pdist>15535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.47041652826318</lat>
+						<lon>-79.9859619140625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.47135513647133</lat>
+						<lon>-79.98621940612793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.47143267308449</lat>
+						<lon>-79.98624622821808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.47147756266174</lat>
+						<lon>-79.98628377914429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.471609706771</lat>
+						<lon>-79.98643760119</lon>
+
+							<typ>S</typ>
+                			<stpid>2907</stpid>
+                			<stpnm>Spring Garden Ave at Mauch St</stpnm>
+                			<pdist>16394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.472026221141</lat>
+						<lon>-79.98690802578301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.472213939332</lat>
+						<lon>-79.98709041599602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.472393495372</lat>
+						<lon>-79.987235255283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.473087230106</lat>
+						<lon>-79.98770732407002</lon>
+
+							<typ>S</typ>
+                			<stpid>2908</stpid>
+                			<stpnm>Spring Garden Ave opp Reppel Way</stpnm>
+                			<pdist>17073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.473529280649</lat>
+						<lon>-79.988008683852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.473982241773</lat>
+						<lon>-79.98829836242601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.474614749941</lat>
+						<lon>-79.98897964351602</lon>
+
+							<typ>S</typ>
+                			<stpid>19322</stpid>
+                			<stpnm>Spring Garden Ave opp Giddy Way</stpnm>
+                			<pdist>17735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.474826656081</lat>
+						<lon>-79.989236680553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.475467317549</lat>
+						<lon>-79.98941370634799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.476275276799</lat>
+						<lon>-79.98926350264401</lon>
+
+							<typ>S</typ>
+                			<stpid>2910</stpid>
+                			<stpnm>Spring Garden Ave at Reekes Way</stpnm>
+                			<pdist>18445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.47638166018</lat>
+						<lon>-79.98936712627801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.476483674383</lat>
+						<lon>-79.98957097416303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.476573446755</lat>
+						<lon>-79.99009132271203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.476585688432</lat>
+						<lon>-79.99034881477701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.476573446755</lat>
+						<lon>-79.99075114612998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.476581607873</lat>
+						<lon>-79.99101400261299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.47659384955</lat>
+						<lon>-79.99135196094903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.476638735676</lat>
+						<lon>-79.99167382603099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.476671380114</lat>
+						<lon>-79.991968869022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.476695863431</lat>
+						<lon>-79.99218344574297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.476993743078</lat>
+						<lon>-79.99278962498101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.477238574675</lat>
+						<lon>-79.99328851585801</lon>
+
+							<typ>S</typ>
+                			<stpid>19321</stpid>
+                			<stpnm>Spring Garden Ave opp Williams Rd</stpnm>
+                			<pdist>19572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.477439448020796</lat>
+						<lon>-79.99389052391052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.47755778261852</lat>
+						<lon>-79.99426603317261</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.47759042660878</lat>
+						<lon>-79.99436259269714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.47763531206945</lat>
+						<lon>-79.99441087245941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.4777087609404</lat>
+						<lon>-79.99445915222168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.477900543724594</lat>
+						<lon>-79.9945718050003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.478348259901</lat>
+						<lon>-79.99485384457802</lon>
+
+							<typ>S</typ>
+                			<stpid>2912</stpid>
+                			<stpnm>SPRING GARDEN RD + #3253</stpnm>
+                			<pdist>20240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.479222605884374</lat>
+						<lon>-79.99541938304901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.479483750886075</lat>
+						<lon>-79.9955803155899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.4795531173564</lat>
+						<lon>-79.99560177326202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.479720412666424</lat>
+						<lon>-79.99566614627838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.47993667183964</lat>
+						<lon>-79.99573051929474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.48034849454</lat>
+						<lon>-79.99587142923303</lon>
+
+							<typ>S</typ>
+                			<stpid>2913</stpid>
+                			<stpnm>Spring Garden Rd at Fire House (#3367)</stpnm>
+                			<pdist>20976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.481211852819</lat>
+						<lon>-79.99615988690499</lon>
+
+							<typ>S</typ>
+                			<stpid>2914</stpid>
+                			<stpnm>Spring Garden Rd opp Beech St</stpnm>
+                			<pdist>21271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.481865506524</lat>
+						<lon>-79.996288027775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.482595865144</lat>
+						<lon>-79.99641677380703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.48334661656</lat>
+						<lon>-79.99646505356998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.48407287896</lat>
+						<lon>-79.996529426586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.484305444473</lat>
+						<lon>-79.996540155422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.484831773972</lat>
+						<lon>-79.99651333333202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.485207138226</lat>
+						<lon>-79.99649724007799</lon>
+
+							<typ>S</typ>
+                			<stpid>2915</stpid>
+                			<stpnm>Spring Garden Rd at #3681</stpnm>
+                			<pdist>22797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.485432565204</lat>
+						<lon>-79.99646813690003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.485538645669</lat>
+						<lon>-79.99648423015401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.485677366025</lat>
+						<lon>-79.99652178107999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.485946645896</lat>
+						<lon>-79.99662906944098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.486260804381</lat>
+						<lon>-79.996800730818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.48695439583</lat>
+						<lon>-79.99713868915399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.487162471866</lat>
+						<lon>-79.99722988425998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.487325668307</lat>
+						<lon>-79.99726743518602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.487705098496</lat>
+						<lon>-79.99717624007997</lon>
+
+							<typ>S</typ>
+                			<stpid>2916</stpid>
+                			<stpnm>Spring Garden Rd at #3851</stpnm>
+                			<pdist>23731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.488433579547</lat>
+						<lon>-79.996934310163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.48853965527</lat>
+						<lon>-79.99682165738398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.489114909151</lat>
+						<lon>-79.99619938489201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.48926586148</lat>
+						<lon>-79.99604381677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.489449451693</lat>
+						<lon>-79.99586142655698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.489588163966</lat>
+						<lon>-79.995807782376</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.490151169658</lat>
+						<lon>-79.99571658727001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.490334757449</lat>
+						<lon>-79.99571658727001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.490534663584</lat>
+						<lon>-79.99573804494202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.491036466156</lat>
+						<lon>-79.99585606213901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.491562742871</lat>
+						<lon>-79.99598480817099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.492109413538</lat>
+						<lon>-79.996076003278</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.492358269606</lat>
+						<lon>-79.996076003278</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.492464339124</lat>
+						<lon>-79.99621547814701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.492656079752</lat>
+						<lon>-79.99639250394199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.4927621488</lat>
+						<lon>-79.99654270764597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.492884535954</lat>
+						<lon>-79.99690212365397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.492998763764</lat>
+						<lon>-79.99728299733397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.493019161567</lat>
+						<lon>-79.997427836621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.492978365955</lat>
+						<lon>-79.99755121823603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.492872297249</lat>
+						<lon>-79.99764777776102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.492700955139</lat>
+						<lon>-79.99766387101499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.49253369218</lat>
+						<lon>-79.99762632008799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.492333792001</lat>
+						<lon>-79.99763168450602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.492170607739</lat>
+						<lon>-79.997685328687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.49200742308</lat>
+						<lon>-79.997776523793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.491872795438</lat>
+						<lon>-79.99787844773601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.49074272852</lat>
+						<lon>-79.99989010449701</lon>
+
+							<typ>S</typ>
+                			<stpid>2917</stpid>
+                			<stpnm>Ramage Rd past Cherrywood Dr</stpnm>
+                			<pdist>27184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.490645802537</lat>
+						<lon>-80.00006062960699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.490600925776</lat>
+						<lon>-80.00028057074599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.490600925776</lat>
+						<lon>-80.00053269839401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.490588686654</lat>
+						<lon>-80.00079019045899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.490556048985</lat>
+						<lon>-80.001101326705</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.490413258995</lat>
+						<lon>-80.00169677710602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.490254149791</lat>
+						<lon>-80.00208837962202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.490139917309</lat>
+						<lon>-80.00247461772102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.490111359158</lat>
+						<lon>-80.002732109786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.490123598367</lat>
+						<lon>-80.00291449999901</lon>
+
+							<typ>S</typ>
+                			<stpid>2918</stpid>
+                			<stpnm>Ramage Rd at Charlemma Dr</stpnm>
+                			<pdist>28064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.490136362454</lat>
+						<lon>-80.003064492698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.490234276027</lat>
+						<lon>-80.003423908706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.490262834125</lat>
+						<lon>-80.00355265473797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.490250594942</lat>
+						<lon>-80.00370822286101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.489691669846</lat>
+						<lon>-80.00541410779499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.489267373235</lat>
+						<lon>-80.006588915343</lon>
+
+							<typ>S</typ>
+                			<stpid>2919</stpid>
+                			<stpnm>Chapin St at Colby St</stpnm>
+                			<pdist>29159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.489222495552</lat>
+						<lon>-80.00672302579403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.488459570348</lat>
+						<lon>-80.00617049073702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.488006706901</lat>
+						<lon>-80.00587544774498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.487598719196</lat>
+						<lon>-80.00568232869603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.486309461749</lat>
+						<lon>-80.005167344565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.486204649278</lat>
+						<lon>-80.005607355819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.486143449637</lat>
+						<lon>-80.00569318650702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.485706890581</lat>
+						<lon>-80.00590239881001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.485572250299</lat>
+						<lon>-80.00591312764601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.48493168526</lat>
+						<lon>-80.00565563558098</lon>
+
+							<typ>S</typ>
+                			<stpid>1769</stpid>
+                			<stpnm>Sirius St at Colby St</stpnm>
+                			<pdist>30952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.484389036207</lat>
+						<lon>-80.00541423676998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.484682801652</lat>
+						<lon>-80.00435208199997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.486224591274</lat>
+						<lon>-80.00503165542398</lon>
+
+							<typ>S</typ>
+                			<stpid>1768</stpid>
+                			<stpnm>Colby St at Faber St</stpnm>
+                			<pdist>31966.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

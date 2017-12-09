@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="/static/js/map.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzW1e8jOwnZQfyAQc8Ke4U5drWiDTDe-M&callback=initMap"
+    async defer></script>
+  <title> Pitt Bus </title>
+
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+        #map {
+          position: absolute;
+          top: 55px;
+          bottom:10px;
+          left: 520px;
+          right:10px;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+          height: 100%;
+          margin: 0;
+          padding: 0;
+        }
+
+        #city-panel {
+          position: absolute;
+          top: 100px;
+          left: 520px;
+          z-index: 5;
+          background-color: #fff;
+          padding: 5px;
+          border: 1px solid #999;
+          text-align: center;
+          font-family: 'Roboto','sans-serif';
+          line-height: 30px;
+          padding-left: 10px;
+        }
+
+        #search-panel {
+          position: absolute;
+          top: 70px;
+          left: 20px;
+          z-index: 5;
+          background-color: #fff;
+          padding: 5px;
+          border: 1px solid #999;
+          text-align: center;
+          font-family: 'Roboto','sans-serif';
+          line-height: 30px;
+          padding-left: 10px;
+        }
+
+        #result-panel {
+          position: absolute;
+          top: 305px;
+          left: 20px;
+          width: 480px;
+          height: 280px;
+          overflow: auto;
+          box-sizing: border-box;
+        }
+
+        #error-panel {
+          position: absolute;
+          top: 130px;
+          left: 20px;
+          width: 450px;
+          height: 450px;
+          overflow: auto;
+          box-sizing: border-box;
+        }
+    </style>
+    </head>
+    <body>
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Pitt Bus</a>
+        </div>
+
+        <div class="navbar-right">
+          <ul class="nav navbar-nav">
+          {% if loggedin == 1 %}
+                    <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Logged in as {{user}}
+                      <span class="caret"></span></a>
+                       <ul class="dropdown-menu">
+                    <li>
+                        <a href="{% url 'edit-overview' %}">Edit Profile</a></li>
+                    <li>
+                        <a href="{% url 'logout' %}">Logout</a></li>
+                    </li>
+                        </ul>
+
+          {% else %}                      
+              <li><a href="{% url 'register' %}"><span class="glyphicon glyphicon-user"></span> Register</a>
+              <li><a href="{% url 'login' %}""><span class="glyphicon glyphicon-user"></span> Log in</a>
+              </li>
+          {% endif %}
+          
+        </div>  
+      </div>
+  </nav>
+
+    <div id="city-panel">
+        <input id="address" type="textbox" value="">
+        <input id="submit" type="button" value="City" onclick="setCity()"">
+    </div>
+
+    <div id="map"></div>
+
+    <div id="result-panel">
+      <form action = "{% url 'sendRouteText' %}" method = "post">
+      <table>
+      <tr><td>
+      <textarea rows = "12" cols = "71" id = "routeresult" name = "routeresult" value="" readonly></textarea>
+      </td></tr>
+      <tr><td>
+      <button type = "submit">SendMeText</button>
+      </td></tr>
+      </table>
+      {% csrf_token %}
+      </form>
+    </div>
+
+
+    <div id="search-panel">
+    <div class="span9">  
+<!-- three tabs -->
+            <ul id="myTab" class="nav nav-tabs">
+                <li class="active">
+                    <a href="#search" data-toggle="tab" style="font-size:15px">Search</a>
+                </li>
+                <li><a href="#fav-route" data-toggle="tab" style="font-size:15px">Favorate Route</a>
+                </li>
+                <li><a href="#fav-place" data-toggle="tab" style="font-size:15px">Favorate Place</a>
+                </li>
+            </ul>
+
+<!-- tab contents for "search" -->
+            <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="search">
+<!-- search panel -->
+                    <div class=" panel panel-default" style="width:460px"> 
+                        <div class="panel-body">
+                        <table>
+                        <tr>
+                            <td><label class="col-sm-0 col-md-0 control-label" style="margin:0px">Origin:</label></td>
+                            <td><input id="start" type="text" value=""></td>
+                            <td><input id="submitCurrStart" type="button" value="UseCurrent" onclick="getLocation(0)"></td>
+                        </tr>
+                        <tr>
+                            <td><label class="col-sm-0 col-md-0 control-label" style="margin:0px">Destination:</label></td>
+                            <td><input id="end" type="text" value=""></td>
+                            <td><input id="submitCurrEnd" type="button" value="UseCurrent" onclick="getLocation(1)"></td>
+                        </tr>
+                        </table>
+                        </div>
+
+                        <div class="panel-footer">
+                          <input id="computeRoute" type="button" value="computeRoute" onclick="calculateAndDisplayRoute()" class="btn btn-primary btn-sm">
+                        </div>
+                    </div>
+              </div>
+
+<!-- contents for "favorite route" -->
+              <div class="tab-pane fade" id="fav-route">
+                  <ul class="span4">
+                      <!--
+                      {% for route in fav_rt %}
+                          <li>{{route.rt_no}}</li>
+                      {% endfor %}
+                      -->
+                  </ul>
+              </div>
+<!-- contents for "favorite place" -->
+              <div class="tab-pane fade" id="fav-place">
+                  <div class="span4"> 
+                  </div>   
+              </div>
+            </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

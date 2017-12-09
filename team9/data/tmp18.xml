@@ -1,0 +1,1301 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4866</pid>
+				<ln>13255.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.461912692629</lat>
+						<lon>-80.032505771165</lon>
+
+							<typ>S</typ>
+                			<stpid>1702</stpid>
+                			<stpnm>Island Ave at Beaver Ave</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.461960301154</lat>
+						<lon>-80.032203197479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.461576643983</lat>
+						<lon>-80.031827688217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.460988909601</lat>
+						<lon>-80.031645298004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.459430848279</lat>
+						<lon>-80.031092584657</lon>
+
+							<typ>S</typ>
+                			<stpid>1704</stpid>
+                			<stpnm>Beaver Ave at Branchport St</stpnm>
+                			<pdist>1077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.458731798521</lat>
+						<lon>-80.030835270882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.457870566168</lat>
+						<lon>-80.030502676964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.456711354481</lat>
+						<lon>-80.030164718628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.456580737826</lat>
+						<lon>-80.030003786087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.456478693388</lat>
+						<lon>-80.029875040054</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.456437875569</lat>
+						<lon>-80.029767751694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.456441957352</lat>
+						<lon>-80.029579997063</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.456474611607</lat>
+						<lon>-80.029456615448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.456539920069</lat>
+						<lon>-80.02937078476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.456613392014</lat>
+						<lon>-80.029317140579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.456735845076</lat>
+						<lon>-80.029284954071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.456931769511</lat>
+						<lon>-80.029290318489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.457311371478</lat>
+						<lon>-80.029386878014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.457341991395</lat>
+						<lon>-80.029176054234</lon>
+
+							<typ>S</typ>
+                			<stpid>1705</stpid>
+                			<stpnm>Columbus Ave past Chateau St</stpnm>
+                			<pdist>2830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.457635635869</lat>
+						<lon>-80.027589991402</lon>
+
+							<typ>S</typ>
+                			<stpid>1706</stpid>
+                			<stpnm>Columbus Ave at Manhattan St</stpnm>
+                			<pdist>3189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.457643799289</lat>
+						<lon>-80.027547076057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.456894452432</lat>
+						<lon>-80.027297999998</lon>
+
+							<typ>S</typ>
+                			<stpid>1707</stpid>
+                			<stpnm>Manhattan St at Juniata St</stpnm>
+                			<pdist>3505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.455972925061</lat>
+						<lon>-80.02700493783</lon>
+
+							<typ>S</typ>
+                			<stpid>1708</stpid>
+                			<stpnm>Manhattan St at N Franklin St</stpnm>
+                			<pdist>3812.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.455104311093</lat>
+						<lon>-80.026733333335</lon>
+
+							<typ>S</typ>
+                			<stpid>1709</stpid>
+                			<stpnm>Manhattan St at Liverpool St</stpnm>
+                			<pdist>4163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.454158103119</lat>
+						<lon>-80.026411457673</lon>
+
+							<typ>S</typ>
+                			<stpid>1710</stpid>
+                			<stpnm>Manhattan St at Pennsylvania Ave</stpnm>
+                			<pdist>4566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.453994826056</lat>
+						<lon>-80.026368542329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.454275462045</lat>
+						<lon>-80.024838271165</lon>
+
+							<typ>S</typ>
+                			<stpid>1719</stpid>
+                			<stpnm>Pennsylvania Ave at Fulton St</stpnm>
+                			<pdist>5012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.454618360353</lat>
+						<lon>-80.022957138228</lon>
+
+							<typ>S</typ>
+                			<stpid>1720</stpid>
+                			<stpnm>Pennsylvania Ave at Fontella St</stpnm>
+                			<pdist>5543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.45512420271</lat>
+						<lon>-80.020206960318</lon>
+
+							<typ>S</typ>
+                			<stpid>1721</stpid>
+                			<stpnm>Pennsylvania Ave at Allegheny Ave</stpnm>
+                			<pdist>6341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.455132366435</lat>
+						<lon>-80.020137222883</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.454270696399</lat>
+						<lon>-80.019844926586</lon>
+
+							<typ>S</typ>
+                			<stpid>1722</stpid>
+                			<stpnm>Allegheny Ave at Sheffield St</stpnm>
+                			<pdist>6683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.453227933678</lat>
+						<lon>-80.019514624339</lon>
+
+							<typ>S</typ>
+                			<stpid>1723</stpid>
+                			<stpnm>Allegheny Ave at North Ave</stpnm>
+                			<pdist>7088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.45145633182</lat>
+						<lon>-80.01894063161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.451537886857</lat>
+						<lon>-80.018509599208</lon>
+
+							<typ>S</typ>
+                			<stpid>18275</stpid>
+                			<stpnm>Western Ave past Allegheny Ave</stpnm>
+                			<pdist>7907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.451887690123</lat>
+						<lon>-80.016644576058</lon>
+
+							<typ>S</typ>
+                			<stpid>5</stpid>
+                			<stpnm>Western Ave at Galveston Ave</stpnm>
+                			<pdist>8362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.452354433725</lat>
+						<lon>-80.014205999999</lon>
+
+							<typ>S</typ>
+                			<stpid>6</stpid>
+                			<stpnm>Western Ave at Brighton Rd</stpnm>
+                			<pdist>9088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.452374843878</lat>
+						<lon>-80.014034338622</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.450724006332</lat>
+						<lon>-80.013511666668</lon>
+
+							<typ>S</typ>
+                			<stpid>7</stpid>
+                			<stpnm>Brighton Rd at Ridge Ave</stpnm>
+                			<pdist>9761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.450634199407</lat>
+						<lon>-80.013463386906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.450438256609</lat>
+						<lon>-80.014316329373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.450184016006</lat>
+						<lon>-80.015683847884</lon>
+
+							<typ>S</typ>
+                			<stpid>8</stpid>
+                			<stpnm>Ridge Ave at Galveston Ave</stpnm>
+                			<pdist>10355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.449996236245</lat>
+						<lon>-80.016719180564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.44969823685</lat>
+						<lon>-80.018360692481</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.448547128172</lat>
+						<lon>-80.018014381616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.447893963005</lat>
+						<lon>-80.017869542329</lon>
+
+							<typ>S</typ>
+                			<stpid>20381</stpid>
+                			<stpnm>Allegheny Ave past Reedsdale St</stpnm>
+                			<pdist>11909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.446816226602</lat>
+						<lon>-80.017542312829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.446644766944</lat>
+						<lon>-80.019371579377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.446644766944</lat>
+						<lon>-80.019570062844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.446681508336</lat>
+						<lon>-80.019757817476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.44686929736</lat>
+						<lon>-80.019854377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.447171391644</lat>
+						<lon>-80.019961665361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.447534719458</lat>
+						<lon>-80.020085046975</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.447640859796</lat>
+						<lon>-80.018690298287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.447788595773</lat>
+						<lon>-80.018699232797</lon>
+
+							<typ>S</typ>
+                			<stpid>19884</stpid>
+                			<stpnm>Allegheny Station Bay 2</stpnm>
+                			<pdist>13255.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4867</pid>
+				<ln>18147.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.447788595773</lat>
+						<lon>-80.018699232797</lon>
+
+							<typ>S</typ>
+                			<stpid>19884</stpid>
+                			<stpnm>Allegheny Station Bay 2</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.447882488803</lat>
+						<lon>-80.019101564149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.447837583457</lat>
+						<lon>-80.01964337037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.447803878416</lat>
+						<lon>-80.020041279098</lon>
+
+							<typ>S</typ>
+                			<stpid>18289</stpid>
+                			<stpnm>Reedsdale St at Boyce St</stpnm>
+                			<pdist>358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.447783466875</lat>
+						<lon>-80.020191482803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.447852866089</lat>
+						<lon>-80.020507983467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.447963088224</lat>
+						<lon>-80.020781568786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.44810188621</lat>
+						<lon>-80.020942501327</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.448248848471</lat>
+						<lon>-80.021033696433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.448408057225</lat>
+						<lon>-80.02107124736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.448628499492</lat>
+						<lon>-80.021065882942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.449053052933</lat>
+						<lon>-80.021001509925</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.449093875237</lat>
+						<lon>-80.020969323417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.449179601997</lat>
+						<lon>-80.02085130622</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.449228588667</lat>
+						<lon>-80.020626000663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.449269410866</lat>
+						<lon>-80.020325593254</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.449302068606</lat>
+						<lon>-80.020019821426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.449609446183</lat>
+						<lon>-80.018349121693</lon>
+
+							<typ>S</typ>
+                			<stpid>20390</stpid>
+                			<stpnm>Ridge Ave at Allegheny Ave</stpnm>
+                			<pdist>1771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.450045687336</lat>
+						<lon>-80.016028573414</lon>
+
+							<typ>S</typ>
+                			<stpid>56</stpid>
+                			<stpnm>Ridge Ave opp Galveston Ave</stpnm>
+                			<pdist>2488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.450343685189</lat>
+						<lon>-80.014408519169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.450515600491</lat>
+						<lon>-80.013618500001</lon>
+
+							<typ>S</typ>
+                			<stpid>57</stpid>
+                			<stpnm>Ridge Ave opp Brighton Rd</stpnm>
+                			<pdist>3177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.450568668328</lat>
+						<lon>-80.013344914682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.451470815137</lat>
+						<lon>-80.013672144181</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.452462754437</lat>
+						<lon>-80.013967187173</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.452344592591</lat>
+						<lon>-80.014596686507</lon>
+
+							<typ>S</typ>
+                			<stpid>18276</stpid>
+                			<stpnm>Western Ave past Brighton Rd</stpnm>
+                			<pdist>3965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.452013505558</lat>
+						<lon>-80.01639474008</lon>
+
+							<typ>S</typ>
+                			<stpid>59</stpid>
+                			<stpnm>Western Ave at Galveston Ave</stpnm>
+                			<pdist>4478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.451616672463</lat>
+						<lon>-80.018555737436</lon>
+
+							<typ>S</typ>
+                			<stpid>60</stpid>
+                			<stpnm>Western Ave at Allegheny Ave</stpnm>
+                			<pdist>5086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.451567687533</lat>
+						<lon>-80.018861509264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.45295710036</lat>
+						<lon>-80.01931</lon>
+
+							<typ>S</typ>
+                			<stpid>1725</stpid>
+                			<stpnm>Allegheny Ave at North Ave</stpnm>
+                			<pdist>5722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.454145091837</lat>
+						<lon>-80.019710960317</lon>
+
+							<typ>S</typ>
+                			<stpid>1726</stpid>
+                			<stpnm>Allegheny Ave opp Sheffield St</stpnm>
+                			<pdist>6168.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.454708394768</lat>
+						<lon>-80.01992017262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.455239038137</lat>
+						<lon>-80.020059647489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.455193137987</lat>
+						<lon>-80.020348742062</lon>
+
+							<typ>S</typ>
+                			<stpid>1727</stpid>
+                			<stpnm>Pennsylvania Ave past Allegheny Ave</stpnm>
+                			<pdist>6750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.454750617651</lat>
+						<lon>-80.022694266539</lon>
+
+							<typ>S</typ>
+                			<stpid>1728</stpid>
+                			<stpnm>Pennsylvania Ave past Sedgewick St</stpnm>
+                			<pdist>7177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.454387600284</lat>
+						<lon>-80.024604833332</lon>
+
+							<typ>S</typ>
+                			<stpid>1729</stpid>
+                			<stpnm>Pennsylvania Ave at Fulton St</stpnm>
+                			<pdist>7872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.454086266966</lat>
+						<lon>-80.026237499999</lon>
+
+							<typ>S</typ>
+                			<stpid>1730</stpid>
+                			<stpnm>Pennsylvania Ave at Manhattan St</stpnm>
+                			<pdist>8339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.453753501744</lat>
+						<lon>-80.028128124339</lon>
+
+							<typ>S</typ>
+                			<stpid>1731</stpid>
+                			<stpnm>Pennsylvania Ave at Chateau St</stpnm>
+                			<pdist>8894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.453729010063</lat>
+						<lon>-80.028230048282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.454505933609</lat>
+						<lon>-80.028488166666</lon>
+
+							<typ>S</typ>
+                			<stpid>1417</stpid>
+                			<stpnm>Chateau St at Liverpool St</stpnm>
+                			<pdist>9206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.455491818937</lat>
+						<lon>-80.0287760086</lon>
+
+							<typ>S</typ>
+                			<stpid>16086</stpid>
+                			<stpnm>Chateau St at N. Franklin St</stpnm>
+                			<pdist>9541.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.456399402606</lat>
+						<lon>-80.029057271165</lon>
+
+							<typ>S</typ>
+                			<stpid>1418</stpid>
+                			<stpnm>Chateau St at Juniata St</stpnm>
+                			<pdist>9885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.457229600131</lat>
+						<lon>-80.029380833334</lon>
+
+							<typ>S</typ>
+                			<stpid>1732</stpid>
+                			<stpnm>Chateau St at Columbus Ave</stpnm>
+                			<pdist>10247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.457984716866</lat>
+						<lon>-80.029616867727</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.458070432284</lat>
+						<lon>-80.029600774473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.458158586854</lat>
+						<lon>-80.02962561574</lon>
+
+							<typ>S</typ>
+                			<stpid>1733</stpid>
+                			<stpnm>Chateau St at Adams St</stpnm>
+                			<pdist>10596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.459076181654</lat>
+						<lon>-80.029929855819</lon>
+
+							<typ>S</typ>
+                			<stpid>1734</stpid>
+                			<stpnm>Chateau St at Nixon St</stpnm>
+                			<pdist>10965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.460953701921</lat>
+						<lon>-80.030562857146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.461047576557</lat>
+						<lon>-80.030627230163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.461243488418</lat>
+						<lon>-80.0309061799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.461443481187</lat>
+						<lon>-80.031169036384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.461557762502</lat>
+						<lon>-80.031383613105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.461537355139</lat>
+						<lon>-80.031539181228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.461480066527</lat>
+						<lon>-80.03160406217</lon>
+
+							<typ>S</typ>
+                			<stpid>1735</stpid>
+                			<stpnm>Chateau St Turnaround at Beaver Ave</stpnm>
+                			<pdist>12042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.459430848279</lat>
+						<lon>-80.031092584657</lon>
+
+							<typ>S</typ>
+                			<stpid>1704</stpid>
+                			<stpnm>Beaver Ave at Branchport St</stpnm>
+                			<pdist>12781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.457294455913</lat>
+						<lon>-80.030353960319</lon>
+
+							<typ>S</typ>
+                			<stpid>1736</stpid>
+                			<stpnm>Beaver Ave past Columbus Ave</stpnm>
+                			<pdist>13566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.456571985628</lat>
+						<lon>-80.030139383598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.455404587844</lat>
+						<lon>-80.0297531455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.455147431061</lat>
+						<lon>-80.03114252977</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.455711552605</lat>
+						<lon>-80.031330760584</lon>
+
+							<typ>S</typ>
+                			<stpid>1737</stpid>
+                			<stpnm>Metropolitan St at Citizen's Bank Drvwy</stpnm>
+                			<pdist>14692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.45684256557</lat>
+						<lon>-80.031685449074</lon>
+
+							<typ>S</typ>
+                			<stpid>1738</stpid>
+                			<stpnm>Metropolitan St at Columbus Ave</stpnm>
+                			<pdist>15375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.458685358487</lat>
+						<lon>-80.03228061574</lon>
+
+							<typ>S</typ>
+                			<stpid>1739</stpid>
+                			<stpnm>Metropolitan St at Branchport St</stpnm>
+                			<pdist>16125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.459036379176</lat>
+						<lon>-80.032398632936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.458869032332</lat>
+						<lon>-80.033332041674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.458816681683</lat>
+						<lon>-80.033494997354</lon>
+
+							<typ>S</typ>
+                			<stpid>1740</stpid>
+                			<stpnm>Branchport St at Preble Ave</stpnm>
+                			<pdist>16494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.459621590967</lat>
+						<lon>-80.033785700798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.459735875381</lat>
+						<lon>-80.033914446831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.459797099095</lat>
+						<lon>-80.033951997757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.460629736058</lat>
+						<lon>-80.034230947495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.461405855463</lat>
+						<lon>-80.034488511244</lon>
+
+							<typ>S</typ>
+                			<stpid>1742</stpid>
+                			<stpnm>Preble Ave at Island Ave</stpnm>
+                			<pdist>17523.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.461536462738</lat>
+						<lon>-80.03452606217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.461912692629</lat>
+						<lon>-80.032505771165</lon>
+
+							<typ>S</typ>
+                			<stpid>1702</stpid>
+                			<stpnm>Island Ave at Beaver Ave</stpnm>
+                			<pdist>18147.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

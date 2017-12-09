@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Find a Bus PGH - Edit Profile</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="/static/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="/static/css/creative.min.css" rel="stylesheet">
+    <link href="/static/css/profile.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzW1e8jOwnZQfyAQc8Ke4U5drWiDTDe-M&libraries=places"></script>
+
+    {% load addcss %}
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+<!-- top nav bar -->
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style="background-color: grey">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Find a Bus PGH</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li>
+                        <a  href="{% url 'home' %}">Home</a>
+                    </li>
+
+                    <li class="dropdown">
+                        <a  class="dropdown-toggle" data-toggle="dropdown" href="#">Logged in as {{user}}
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="{% url 'logout' %}">Logout</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+<!-- side nav bar -->
+    <div class="container-fluid"> 
+        <div class="row-fluid"> 
+            <div class="span3"> 
+                <div class="col-md-3"> 
+                    <ul class="nav nav-pills nav-stacked" id="sidebar"> 
+                        <br>
+                        <li id="sidebarfocus" class="active"> 
+                            <a style="color:white">Edit Profile</a></li>
+                        <li> 
+                            <a href="#">overview</a></li>
+                        <li> 
+                            <a href="#name_email">username & email</a></li>
+                        <li> 
+                            <a href="#social_auth">social auth connections</a></li> 
+                        <li> 
+                            <a href="#password">my password</a></li> 
+                        <li> 
+                            <a href="#phone">my phone number
+                            <span class="badge" >hot</span>
+                            </a></li> 
+                        <li id="sidebarfocus" class="active"> 
+                            <a style="color:white">My Favorites</a></li> 
+                        <li> 
+                            <a href="#favorites">my favorite locations</a></li> 
+                        <li> 
+                            <a href="#favorites">my favorite routes</a></li> 
+                    </ul> 
+                </div>
+            </div>
+
+<!-- contents -->
+            <div class="span9"> 
+            <div class="col-md-8 col-lg-offset-1"> 
+<!-- two tabs -->
+            <ul id="myTab" class="nav nav-tabs">
+                <li class="active">
+                    <a href="#profile" data-toggle="tab" style="font-size:18px">Edit Profile</a>
+                </li>
+                <li><a href="#favorites" data-toggle="tab" style="font-size:18px">My Favorites</a>
+                </li>
+            </ul>
+
+            <br>
+            <br>
+
+<!-- tab contents for "profile" -->
+            <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="profile">
+<!-- name panel -->
+                    <div class="span4 panel panel-default" style="width:520px" id="name_email"> 
+                        <div class="panel-heading">
+                        <h3 class="panel-title">Username & Email</h3> 
+                        </div>
+
+                        <form enctype="multipart/form-data" method="post" action="{% url 'edit-name' %}">
+                        <div class="panel-body">
+                        <table>
+                        <tr>
+                            <td><label class="col-sm-2 col-md-12 control-label" style="margin:10px">Username:</label></td>
+                            <td><input type="text" name="username" value="{{user.username}}"></td>
+                        </tr>
+                        <tr>
+                            <td><label class="col-sm-2 col-md-12 control-label" style="margin:10px">Email Address:</label></td>
+                            <td><input type="text" name="email" value="{{user.email}}" autofocus></td>
+                        </tr>
+                        </table>
+                        </div>
+
+                        <div class="panel-footer">
+                        <input type="submit" value="save" class="btn btn-primary btn-sm">
+                        </div>
+                        {% csrf_token %}
+                        </form>
+
+                    </div>
+
+<!-- authorization panel -->
+                    <div class="span4 panel panel-default" style="width:520px" id="social_auth">
+                        <div class="panel-heading">
+                        <h3 class="panel-title">Social Auth Connections</h3> 
+                        </div>
+
+                        <div class="panel-body">
+                        <h4>GitHub</h4>
+                        {% if github_login %}
+                            <p>Connected as <a href="https://github.com/{{ github_login.extra_data.login }}/" target="_blank">{{ github_login.extra_data.login }}</a></p>
+                            {% if can_disconnect %}
+                            <form method="post" action="{% url 'social:disconnect' 'github' %}">
+                                {% csrf_token %}
+                                <button type="submit"  class="btn btn-primary btn-sm">Disconnect from GitHub</button>
+                            </form>
+                            {% else %}
+                                <button type="button"  class="btn btn-primary btn-sm" disabled>Disconnect from GitHub</button>
+                                <h6 style="color: red">You must define a password for your account before disconnecting from Github.</h6>
+                            {% endif %}
+                        {% else %}
+                            <a href="{% url 'social:begin' 'github' %}">Connect to GitHub</a>
+                        {% endif %}
+                        <br>
+                        <h4>Google</h4>
+                        {% if google_login %}
+                            <p>Connected as <a href="https://myaccount.google.com/" target="_blank">
+                            {{ email}}</a></p>
+                            {% if can_disconnect %}
+                            <form method="post" action="{% url 'social:disconnect' 'google-oauth2' %}">
+                                {% csrf_token %}
+                                <button type="submit"  class="btn btn-primary btn-sm">Disconnect from Google</button>
+                            </form>
+                            {% else %}
+                                <button type="button"  class="btn btn-primary btn-sm" disabled>Disconnect from Google</button>
+                                <h6 style="color: red">You must define a password for your account before disconnecting from Google.</h6>
+                            {% endif %}
+                        {% else %}
+                            <a href="{% url 'social:begin' 'google-oauth2' %}">Connect to Google</a>
+                        {% endif %}
+                        </div>
+
+                        <div class="panel-footer">
+                        </div>
+                    </div>
+
+<!-- password panel -->
+                    <div class="span4 panel panel-default" style="width:520px" id="password"> 
+                        <div class="panel-heading">
+                        <h3 class="panel-title">Change password</h3>
+                        </div>
+
+                        <form class="ProfilePswForm" method="post" action="{% url 'change-password' %}">
+                        <div class="panel-body">
+                        {% if message %}
+                        <div style="color:green"> {{message}}</div>
+                        {% endif %}
+                        {% for error in errors %}
+                        <div style="color:red">{{error}}</div>
+                        {% endfor %}
+                        <br>
+                            {% for field in form.visible_fields %}
+                                <div class="form-group">
+                                    <div class="row">
+                                        <label class="col-md-3">{{ field.label }}</label>
+                                        <div class="col-md-8">
+                                        {{ field|addcss:"form-control" }}
+                                        </div>
+
+                                        <div class="col-md-3">
+                                            <span class="help-inline">
+                                                {% for error in field.errors %}
+                                                    {{ error }}
+                                                {% endfor %}
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
+
+                        <div class="panel-footer">
+                            <input type="submit" value="Confirm" id="btn-change" class="btn btn-primary btn-sm">
+                        </div>
+
+                        {% csrf_token %}
+                        </form>
+                    </div> 
+
+                    <!-- <br> -->
+<!-- phone number panel -->
+                     <div class="span4 panel panel-default" style="width:520px" id="phone">
+                        <div class="panel-heading">
+                        <h3 class="panel-title">Change Phone Number</h3> 
+                        </div>
+
+                        <div class="panel-body">
+                        {% if message %}
+                            <div style="color:green"> {{message}}</div>
+                        {% endif %}
+                        {% for error in errors %}
+                            <div style="color:red">{{error}}</div>
+                        {% endfor %}
+
+                        <table>
+                        <tr>
+                            <td><label class="col-sm-2 col-md-12 control-label" style="margin:20px">Phone number:</label></td>
+                            <td><input type="text" name="phoneNum" id = "phoneNum" value=""></td>
+                        </tr>
+                        <tr id="verification_code">
+                        </tr>
+                        </table>
+
+                        <div id="veri_buttons">
+                        <button id="button1" class="btn btn-primary btn-sm" onclick="getVerified(0)">Get verification code</button>
+                        </div>
+
+                        </div>
+
+                        <div class="panel-footer" id="verification_footer">
+                        </div>
+
+                    </div>
+                </div>
+
+<!-- contents for "favorites" -->
+                <div class="tab-pane fade" id="favorites">
+                    <div class="span4"> 
+                        <div class="row">
+                        <div class="col-md-5">
+                            <dl>
+                            <dt> My favorite routes</dt>
+                            {% for route in routes %}
+                            <dd>{{route}}</dd>
+                            {% endfor %}
+                            </dl>
+                            <input type="text" name="addFavRo" id = "addFavRo" value="" class="form-control">
+                            <br>
+                            <button class="btn btn-primary btn-sm" onclick="">Add</button>
+                        </div>
+                        <div class="col-md-5">
+                            <dl>
+                            <dt> My favorite locations</dt>
+                            {% for location in locations %}
+                            <dd>{{location}}</dd>
+                            {% endfor %}
+                            </dl>
+                            <input type="text" name="addFavLo" id = "addFavLo" value="" class="form-control" placeholder="Enter the address">
+                            <br>
+                            <button class="btn btn-primary btn-sm" onclick="sendLocation()">Add</button>
+                            <label id="addFavLoRst"></label>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+                <br>
+                <br>
+
+                <div class="span12"> 
+                <div class="col-md-12"> 
+                    <div>
+                        <hr> 
+                            <footer style="text-align:center;"> 
+                            <p>&copy; CMU 15-637 Team9 2017</p> </footer> 
+                    <div>
+                </div>
+            </div>
+
+            </div>
+        </div>
+            
+
+    
+    <!-- jQuery -->
+    <script src="/static/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="/static/scrollreveal/scrollreveal.min.js"></script>
+    <script src="/static/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="/static/js/creative.min.js"></script>
+    <script src="/static/js/profile.js"></script>
+
+    <!-- google map -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+</body>
+
+</html>

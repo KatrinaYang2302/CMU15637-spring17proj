@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% load addcss %}
+
+{% block title %}
+	Find a bus PGH - Home
+{% endblock %}
+
+{% block content %}
+	
+	<link href="/static/css/LoginRegister.css" rel="stylesheet">
+	<div class="col-md-5 col-md-offset-7">
+		<form class="registerForm" method="post" action="{% url 'register' %}">
+		<h2 style="text-align: left; color: #92a8d1">Register</h1>
+        {% for field in form.visible_fields %}
+            <div class="form-group">
+            	<div class="row">
+                <label class="col-md-3">{{ field.label }}</label> 
+                <div class="col-md-8">
+                    {{ field|addcss:"form-control" }}
+                </div>
+
+                <div class="col-md-3">
+                    <span class="help-inline">
+                        {% for error in field.errors %}
+                            {{ error }}
+                        {% endfor %}
+                    </span>
+                </div>
+                </div>
+            </div>
+        {% endfor %}
+                    
+			<input type="submit" value="Register" id="btn-register" class="btn btn-primary"/>
+			<a href="{% url 'login' %}">Login</a>
+			{% csrf_token %}
+        </form>
+    </div>
+{% endblock %}
+

@@ -1,0 +1,10030 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4613</pid>
+				<ln>42844.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.442368607898</lat>
+						<lon>-80.004215643519</lon>
+
+							<typ>S</typ>
+                			<stpid>1502</stpid>
+                			<stpnm>Stanwix St at Penn Ave (Gateway #2)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.442301173766</lat>
+						<lon>-80.00418484211</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.442207272938</lat>
+						<lon>-80.004168748856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.442121537286</lat>
+						<lon>-80.004233121872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.442003140252</lat>
+						<lon>-80.004345774651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.441921487004</lat>
+						<lon>-80.004447698593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.441782676255</lat>
+						<lon>-80.004694461823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.441709188095</lat>
+						<lon>-80.004898309708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.441619369124</lat>
+						<lon>-80.005107522011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.441385188774</lat>
+						<lon>-80.00587771825701</lon>
+
+							<typ>S</typ>
+                			<stpid>4126</stpid>
+                			<stpnm>Liberty Ave at Wyndham Grand Hotel</stpnm>
+                			<pdist>653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.441125362638</lat>
+						<lon>-80.006657838821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.440925309392</lat>
+						<lon>-80.007167458534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.440733421025</lat>
+						<lon>-80.007709264755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.440561945851</lat>
+						<lon>-80.00813305378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.44030473227</lat>
+						<lon>-80.008680224419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.440092428255</lat>
+						<lon>-80.009082555771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.43969639782</lat>
+						<lon>-80.009855031967</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.439406518394</lat>
+						<lon>-80.010434389114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.438806341525</lat>
+						<lon>-80.011512637138</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.438422552147</lat>
+						<lon>-80.012231469154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.4381530817</lat>
+						<lon>-80.012767910957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.438030594776</lat>
+						<lon>-80.013191699982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.438006097364</lat>
+						<lon>-80.013454556465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.438034677677</lat>
+						<lon>-80.013610124588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.438120418542</lat>
+						<lon>-80.013792514801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.438430717901</lat>
+						<lon>-80.014328956604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.43862261284</lat>
+						<lon>-80.01466691494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.438949241265</lat>
+						<lon>-80.015230178833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.439275868103</lat>
+						<lon>-80.015900731087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.439382021483</lat>
+						<lon>-80.016244053841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.439439180927</lat>
+						<lon>-80.016367435455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.43976988818</lat>
+						<lon>-80.017016530037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.43999235603</lat>
+						<lon>-80.017460748676</lon>
+
+							<typ>S</typ>
+                			<stpid>2309</stpid>
+                			<stpnm>W. Carson St opp Duquesne Incline</stpnm>
+                			<pdist>4508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.440296566743</lat>
+						<lon>-80.01801431179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.440639518008</lat>
+						<lon>-80.018663406372</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.440851820295</lat>
+						<lon>-80.019097924232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.441064121912</lat>
+						<lon>-80.019607543945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.441370324986</lat>
+						<lon>-80.020487308502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.44166986869</lat>
+						<lon>-80.02138455092597</lon>
+
+							<typ>S</typ>
+                			<stpid>2310</stpid>
+                			<stpnm>W. Carson St at Gateway View Plaza</stpnm>
+                			<pdist>5842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.442109289326</lat>
+						<lon>-80.022659897804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.442823749888</lat>
+						<lon>-80.024719834328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.443097284207</lat>
+						<lon>-80.025368928909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.443358569681</lat>
+						<lon>-80.026168227196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.443632101824</lat>
+						<lon>-80.027090907097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.443734165771</lat>
+						<lon>-80.027348399162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.443946458285</lat>
+						<lon>-80.027761459351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.444464939106</lat>
+						<lon>-80.028614401817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.444477186636</lat>
+						<lon>-80.028748512268</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.444411866449</lat>
+						<lon>-80.028979182243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.44403219161</lat>
+						<lon>-80.029773116112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.443562698251</lat>
+						<lon>-80.030727982521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.443060540855</lat>
+						<lon>-80.031752586365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.442897236829</lat>
+						<lon>-80.032112002373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.442672693145</lat>
+						<lon>-80.0327450037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.442401767596</lat>
+						<lon>-80.033485333334</lon>
+
+							<typ>S</typ>
+                			<stpid>4129</stpid>
+                			<stpnm>Steuben St opp Sanctus St</stpnm>
+                			<pdist>9691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.441696100968</lat>
+						<lon>-80.035377500002</lon>
+
+							<typ>S</typ>
+                			<stpid>4131</stpid>
+                			<stpnm>Steuben St at Planet St  (Wabash St)</stpnm>
+                			<pdist>10276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.441496888515</lat>
+						<lon>-80.035995841026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.441309084482</lat>
+						<lon>-80.036510825157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.44130500178</lat>
+						<lon>-80.036607384682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.441317249886</lat>
+						<lon>-80.037095546722</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.44131701198</lat>
+						<lon>-80.037513977513</lon>
+
+							<typ>S</typ>
+                			<stpid>4132</stpid>
+                			<stpnm>Steuben St at Linhart St</stpnm>
+                			<pdist>10884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.441300681172</lat>
+						<lon>-80.037648087964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.441239440605</lat>
+						<lon>-80.037878757939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.441182282693</lat>
+						<lon>-80.038136250005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.441141455583</lat>
+						<lon>-80.038345462308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.441133290158</lat>
+						<lon>-80.038602954373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.441170034562</lat>
+						<lon>-80.038962370381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.441210861655</lat>
+						<lon>-80.039343244061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.441219027071</lat>
+						<lon>-80.039568549619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.441202696239</lat>
+						<lon>-80.039874321446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.441206778947</lat>
+						<lon>-80.040078169332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.441263936839</lat>
+						<lon>-80.040233737454</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.441414996747</lat>
+						<lon>-80.04046440743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.441734267632</lat>
+						<lon>-80.040924000001</lon>
+
+							<typ>S</typ>
+                			<stpid>4249</stpid>
+                			<stpnm>Steuben St opp Elbon St</stpnm>
+                			<pdist>11958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.442762657799</lat>
+						<lon>-80.042332587963</lon>
+
+							<typ>S</typ>
+                			<stpid>4250</stpid>
+                			<stpnm>Steuben St at Lorenz Ave</stpnm>
+                			<pdist>12425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.443048440157</lat>
+						<lon>-80.042718826061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.443134174628</lat>
+						<lon>-80.042890487438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.443203578643</lat>
+						<lon>-80.043046055561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.443232156746</lat>
+						<lon>-80.043190894848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.443236239331</lat>
+						<lon>-80.043373285061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.443215826403</lat>
+						<lon>-80.043603955036</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.44314233981</lat>
+						<lon>-80.043968735462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.443073516822</lat>
+						<lon>-80.0441340086</lon>
+
+							<typ>S</typ>
+                			<stpid>4251</stpid>
+                			<stpnm>Steuben St opp Harker St</stpnm>
+                			<pdist>13063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.442951038863</lat>
+						<lon>-80.044284212305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.442730577975</lat>
+						<lon>-80.044504153444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.44215152376</lat>
+						<lon>-80.045095957672</lon>
+
+							<typ>S</typ>
+                			<stpid>4252</stpid>
+                			<stpnm>Steuben St opp Herschel St</stpnm>
+                			<pdist>13496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.441569528672</lat>
+						<lon>-80.045799477515</lon>
+
+							<typ>S</typ>
+                			<stpid>19616</stpid>
+                			<stpnm>Steuben St at Elliott Heights Senior Ctr</stpnm>
+                			<pdist>13768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.441340897853</lat>
+						<lon>-80.046099884925</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.441279657323</lat>
+						<lon>-80.046201808868</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.441218416737</lat>
+						<lon>-80.0463305549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.441165341518</lat>
+						<lon>-80.046491487441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.441120431684</lat>
+						<lon>-80.046673877654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.441104100828</lat>
+						<lon>-80.046866996703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.441114854099</lat>
+						<lon>-80.047063531085</lon>
+
+							<typ>S</typ>
+                			<stpid>4253</stpid>
+                			<stpnm>Steuben St at #1260</stpnm>
+                			<pdist>14216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.441151598514</lat>
+						<lon>-80.047224463626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.441208756452</lat>
+						<lon>-80.047396125003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.441372064581</lat>
+						<lon>-80.047728718921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.441510876178</lat>
+						<lon>-80.04797548215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.441670100892</lat>
+						<lon>-80.04824906747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.441772167818</lat>
+						<lon>-80.048447550937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.441861986585</lat>
+						<lon>-80.048667492076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.441943639905</lat>
+						<lon>-80.048935712978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.442037541101</lat>
+						<lon>-80.049300493404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.442135524818</lat>
+						<lon>-80.049697460338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.442213095159</lat>
+						<lon>-80.050083698436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.442379682176</lat>
+						<lon>-80.050718031085</lon>
+
+							<typ>S</typ>
+                			<stpid>4255</stpid>
+                			<stpnm>Steuben St past Ringgold St</stpnm>
+                			<pdist>15337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.442604226839</lat>
+						<lon>-80.051420769847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.442796109866</lat>
+						<lon>-80.052085957683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.443069434226</lat>
+						<lon>-80.052787833332</lon>
+
+							<typ>S</typ>
+                			<stpid>4256</stpid>
+                			<stpnm>Steuben St opp Obey St</stpnm>
+                			<pdist>15987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.443473767537</lat>
+						<lon>-80.0538025</lon>
+
+							<typ>S</typ>
+                			<stpid>4257</stpid>
+                			<stpnm>Steuben St at Woodlow (nearside)</stpnm>
+                			<pdist>16314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.44359216198</lat>
+						<lon>-80.054059992065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.443922848803</lat>
+						<lon>-80.055207977524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.444164040933</lat>
+						<lon>-80.05603201984</lon>
+
+							<typ>S</typ>
+                			<stpid>19212</stpid>
+                			<stpnm>Middletown Rd past Martera Pl</stpnm>
+                			<pdist>16992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.444294681723</lat>
+						<lon>-80.056520181881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.444360002024</lat>
+						<lon>-80.056788402782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.444380414604</lat>
+						<lon>-80.057051259266</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.444413074721</lat>
+						<lon>-80.057582336651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.444449817333</lat>
+						<lon>-80.057957845913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.444502889959</lat>
+						<lon>-80.058204609142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.444602435806</lat>
+						<lon>-80.058453126985</lon>
+
+							<typ>S</typ>
+                			<stpid>4259</stpid>
+                			<stpnm>Middletown Rd opp Stratmore St</stpnm>
+                			<pdist>17720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.445582229158</lat>
+						<lon>-80.059863968926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.445777767412</lat>
+						<lon>-80.060051000002</lon>
+
+							<typ>S</typ>
+                			<stpid>4260</stpid>
+                			<stpnm>Middletown Rd past Hodgson Ave</stpnm>
+                			<pdist>18321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.446647600701</lat>
+						<lon>-80.060821500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4261</stpid>
+                			<stpnm>Middletown Rd at Justine St</stpnm>
+                			<pdist>18716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.446647600701</lat>
+						<lon>-80.060821500001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.447597433981</lat>
+						<lon>-80.061645500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4262</stpid>
+                			<stpnm>Middletown Rd past Straka St</stpnm>
+                			<pdist>19130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.447936265699</lat>
+						<lon>-80.061962000665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.448070981449</lat>
+						<lon>-80.062101475534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.4484576914</lat>
+						<lon>-80.062657104499</lon>
+
+							<typ>S</typ>
+                			<stpid>4263</stpid>
+                			<stpnm>Middletown Rd at Berry St</stpnm>
+                			<pdist>19563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.449504767213</lat>
+						<lon>-80.064117500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4264</stpid>
+                			<stpnm>Middletown Rd at Tyndall St</stpnm>
+                			<pdist>20107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.450293687368</lat>
+						<lon>-80.065397791006</lon>
+
+							<typ>S</typ>
+                			<stpid>4265</stpid>
+                			<stpnm>Middletown Rd at Mutual St</stpnm>
+                			<pdist>20569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.450461055571</lat>
+						<lon>-80.065784029104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.450567191288</lat>
+						<lon>-80.066025427916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.450693737501</lat>
+						<lon>-80.066438488104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.450863431384</lat>
+						<lon>-80.066937886904</lon>
+
+							<typ>S</typ>
+                			<stpid>4266</stpid>
+                			<stpnm>Middletown Rd at #3206</stpnm>
+                			<pdist>21082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.451134513444</lat>
+						<lon>-80.067901666667</lon>
+
+							<typ>S</typ>
+                			<stpid>4267</stpid>
+                			<stpnm>Middletown Rd at Wynette St</stpnm>
+                			<pdist>21359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.451538100438</lat>
+						<lon>-80.069274833333</lon>
+
+							<typ>S</typ>
+                			<stpid>4268</stpid>
+                			<stpnm>Middletown Rd at Ladoga St</stpnm>
+                			<pdist>21787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.451570757076</lat>
+						<lon>-80.069371392858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.452191230188</lat>
+						<lon>-80.068958332669</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.451825528527</lat>
+						<lon>-80.067733833332</lon>
+
+							<typ>S</typ>
+                			<stpid>4089</stpid>
+                			<stpnm>Faronia St at Wynette St</stpnm>
+                			<pdist>22407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.451384664243</lat>
+						<lon>-80.0662961693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.452018600411</lat>
+						<lon>-80.065963666666</lon>
+
+							<typ>S</typ>
+                			<stpid>4091</stpid>
+                			<stpnm>Jeffers St at Fadette St</stpnm>
+                			<pdist>23019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.452918933696</lat>
+						<lon>-80.065506</lon>
+
+							<typ>S</typ>
+                			<stpid>4092</stpid>
+                			<stpnm>Jeffers St at #1331</stpnm>
+                			<pdist>23382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.453902687746</lat>
+						<lon>-80.065007109123</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.453943507105</lat>
+						<lon>-80.06545235582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.453963916775</lat>
+						<lon>-80.065581101852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.454037391536</lat>
+						<lon>-80.065672296959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.454163931214</lat>
+						<lon>-80.065763492065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.454661923763</lat>
+						<lon>-80.065988797623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.455339514254</lat>
+						<lon>-80.066278476196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.455788516236</lat>
+						<lon>-80.066450137573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.456241597014</lat>
+						<lon>-80.066530603844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.456637529966</lat>
+						<lon>-80.066557425934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.456976316104</lat>
+						<lon>-80.06659497686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.457196730265</lat>
+						<lon>-80.066734451729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.457547758731</lat>
+						<lon>-80.066981214958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.457768171017</lat>
+						<lon>-80.067174334007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.457891776595</lat>
+						<lon>-80.067351878308</lon>
+
+							<typ>S</typ>
+                			<stpid>4178</stpid>
+                			<stpnm>Chartiers Ave at Oetting St</stpnm>
+                			<pdist>25519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.458479538074</lat>
+						<lon>-80.069100678585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.458516272995</lat>
+						<lon>-80.069229424618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.458519158276</lat>
+						<lon>-80.06937461574</lon>
+
+							<typ>S</typ>
+                			<stpid>19215</stpid>
+                			<stpnm>Chartiers Ave past Oltman St</stpnm>
+                			<pdist>26108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.458206100079</lat>
+						<lon>-80.070854166668</lon>
+
+							<typ>S</typ>
+                			<stpid>4180</stpid>
+                			<stpnm>Chartiers Ave at Harlow St</stpnm>
+                			<pdist>26516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.457694933438</lat>
+						<lon>-80.073095791007</lon>
+
+							<typ>S</typ>
+                			<stpid>4181</stpid>
+                			<stpnm>Chartiers Ave at Middletown Rd</stpnm>
+                			<pdist>27156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.457617380965</lat>
+						<lon>-80.074072115088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.457617380965</lat>
+						<lon>-80.074318878318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.457686770024</lat>
+						<lon>-80.074533455039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.458152083039</lat>
+						<lon>-80.075493685866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.458774433381</lat>
+						<lon>-80.076896666666</lon>
+
+							<typ>S</typ>
+                			<stpid>4183</stpid>
+                			<stpnm>Chartiers Ave opp Warfle St</stpnm>
+                			<pdist>28310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.459327575883</lat>
+						<lon>-80.077612601852</lon>
+
+							<typ>S</typ>
+                			<stpid>4184</stpid>
+                			<stpnm>Chartiers Ave at Windgap Ave</stpnm>
+                			<pdist>28600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.459384718365</lat>
+						<lon>-80.077666246033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.459188801083</lat>
+						<lon>-80.077939831352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.458837781191</lat>
+						<lon>-80.078406535721</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.458350188403</lat>
+						<lon>-80.078974446427</lon>
+
+							<typ>S</typ>
+                			<stpid>3752</stpid>
+                			<stpnm>Windgap Ave at Belhust Ave</stpnm>
+                			<pdist>29158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.457880795065</lat>
+						<lon>-80.07945724405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.457754262387</lat>
+						<lon>-80.079575261247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.457635892892</lat>
+						<lon>-80.079650363099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.456737910617</lat>
+						<lon>-80.080041965615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.456216860946</lat>
+						<lon>-80.080258415344</lon>
+
+							<typ>S</typ>
+                			<stpid>3753</stpid>
+                			<stpnm>Windgap Ave at Summerdale St</stpnm>
+                			<pdist>30015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.456082161525</lat>
+						<lon>-80.080258415344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.455882152796</lat>
+						<lon>-80.080210135582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.455706634441</lat>
+						<lon>-80.080113576057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.455539279303</lat>
+						<lon>-80.079947279099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.454473911215</lat>
+						<lon>-80.078928039673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.454155522071</lat>
+						<lon>-80.078536437157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.453424854101</lat>
+						<lon>-80.077721045616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.453265657232</lat>
+						<lon>-80.077871249321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.453110541972</lat>
+						<lon>-80.077973173264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.452910524397</lat>
+						<lon>-80.077978537682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.452649276055</lat>
+						<lon>-80.077898071411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.452400272784</lat>
+						<lon>-80.077865884903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.452196171054</lat>
+						<lon>-80.077919529083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.451963494326</lat>
+						<lon>-80.078059003952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.451628438798</lat>
+						<lon>-80.078467101852</lon>
+
+							<typ>S</typ>
+                			<stpid>4302</stpid>
+                			<stpnm>Broadhead Fording opp Village #1</stpnm>
+                			<pdist>32008.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.449921844756</lat>
+						<lon>-80.080529853176</lon>
+
+							<typ>S</typ>
+                			<stpid>4303</stpid>
+                			<stpnm>Broadhead Fording opp Village #2</stpnm>
+                			<pdist>32866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.448402750314</lat>
+						<lon>-80.082380935185</lon>
+
+							<typ>S</typ>
+                			<stpid>17503</stpid>
+                			<stpnm>Broadhead Fording opp W. Prospect (nearside)</stpnm>
+                			<pdist>33625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.448284364345</lat>
+						<lon>-80.08253113889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.446926598741</lat>
+						<lon>-80.080641906748</lon>
+
+							<typ>S</typ>
+                			<stpid>4219</stpid>
+                			<stpnm>W. Prospect Ave opp Arbordale St</stpnm>
+                			<pdist>34378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.446824539642</lat>
+						<lon>-80.080389779101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.446632668115</lat>
+						<lon>-80.079692404757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.446485702319</lat>
+						<lon>-80.079102318773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.446428548868</lat>
+						<lon>-80.078710716257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.446465610165</lat>
+						<lon>-80.078522753969</lon>
+
+							<typ>S</typ>
+                			<stpid>4220</stpid>
+                			<stpnm>W. Prospect Ave at Allegheny Valley School</stpnm>
+                			<pdist>34961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.446694223553</lat>
+						<lon>-80.078034591929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.446988153911</lat>
+						<lon>-80.077272844568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.447126953911</lat>
+						<lon>-80.076897335306</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.447208600835</lat>
+						<lon>-80.076371622339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.447526110752</lat>
+						<lon>-80.074189708995</lon>
+
+							<typ>S</typ>
+                			<stpid>4222</stpid>
+                			<stpnm>W. Prospect Ave at #221</stpnm>
+                			<pdist>36271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.447660827324</lat>
+						<lon>-80.073132918643</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.447685321218</lat>
+						<lon>-80.072794960307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.447689403532</lat>
+						<lon>-80.072575019168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.447540530463</lat>
+						<lon>-80.071713886904</lon>
+
+							<typ>S</typ>
+                			<stpid>4223</stpid>
+                			<stpnm>W. Prospect Ave at Kingsland Ave</stpnm>
+                			<pdist>36969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.447030539918</lat>
+						<lon>-80.069237753966</lon>
+
+							<typ>S</typ>
+                			<stpid>4225</stpid>
+                			<stpnm>W. Prospect Ave opp Berry St</stpnm>
+                			<pdist>37657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.447014210498</lat>
+						<lon>-80.069151923278</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.446109544255</lat>
+						<lon>-80.067796513886</lon>
+
+							<typ>S</typ>
+                			<stpid>4209</stpid>
+                			<stpnm>W. Prospect Ave opp Mainsgate St</stpnm>
+                			<pdist>38184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.445676807348</lat>
+						<lon>-80.067147419305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.444834627972</lat>
+						<lon>-80.066130285051</lon>
+
+							<typ>S</typ>
+                			<stpid>4210</stpid>
+                			<stpnm>W. Prospect Ave at Ingram Ave</stpnm>
+                			<pdist>38847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.444781555607</lat>
+						<lon>-80.066087369707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.444708070726</lat>
+						<lon>-80.066060547617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.444118322834</lat>
+						<lon>-80.066193587299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.443869287954</lat>
+						<lon>-80.066263324734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.443795802075</lat>
+						<lon>-80.066316968914</lon>
+
+							<typ>S</typ>
+                			<stpid>19614</stpid>
+                			<stpnm>Ingram Ave at Marcross Ave</stpnm>
+                			<pdist>39393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.443734563781</lat>
+						<lon>-80.06635451984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.443595756776</lat>
+						<lon>-80.066515452381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.443354885116</lat>
+						<lon>-80.066810495373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.443265068344</lat>
+						<lon>-80.066939241405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.443224242499</lat>
+						<lon>-80.067084080692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.443150755915</lat>
+						<lon>-80.067556149479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.443085434439</lat>
+						<lon>-80.067588335987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.442613709203</lat>
+						<lon>-80.067797595235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.442319759716</lat>
+						<lon>-80.067963892194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.441797179676</lat>
+						<lon>-80.068296486112</lon>
+
+							<typ>S</typ>
+                			<stpid>19707</stpid>
+                			<stpnm>Foster Ave at Willow Ave</stpnm>
+                			<pdist>40264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.441756352939</lat>
+						<lon>-80.068323308202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.441825758377</lat>
+						<lon>-80.068553978177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.441854337066</lat>
+						<lon>-80.068693453046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.441862502403</lat>
+						<lon>-80.068897300931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.44187066774</lat>
+						<lon>-80.069068962308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.441747688907</lat>
+						<lon>-80.070032164023</lon>
+
+							<typ>S</typ>
+                			<stpid>3711</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Rite-Aid</stpnm>
+                			<pdist>40743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.441506810625</lat>
+						<lon>-80.071539565489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.441425156774</lat>
+						<lon>-80.072215482161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.441384329811</lat>
+						<lon>-80.072430058882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.441331254723</lat>
+						<lon>-80.072590991423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.441261848774</lat>
+						<lon>-80.0727626528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.441188360045</lat>
+						<lon>-80.07289676325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.44111895395</lat>
+						<lon>-80.073004051611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.441008720591</lat>
+						<lon>-80.073063060209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.440910267675</lat>
+						<lon>-80.072525000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3714</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Giant Eagle</stpnm>
+                			<pdist>41675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.440436527565</lat>
+						<lon>-80.06989451984</lon>
+
+							<typ>S</typ>
+                			<stpid>16637</stpid>
+                			<stpnm>Crafton Ingram at Bank</stpnm>
+                			<pdist>42429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.440297713749</lat>
+						<lon>-80.068950382267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.441317445729</lat>
+						<lon>-80.068752017198</lon>
+
+							<typ>S</typ>
+                			<stpid>16992</stpid>
+                			<stpnm>CRAFTON-INGRAM SHOPPING CTR + TERMINUS</stpnm>
+                			<pdist>42844.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4475</pid>
+				<ln>44024.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.441317445729</lat>
+						<lon>-80.068752017198</lon>
+
+							<typ>S</typ>
+                			<stpid>16992</stpid>
+                			<stpnm>CRAFTON-INGRAM SHOPPING CTR + TERMINUS</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.441652030582</lat>
+						<lon>-80.06876707077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.441827585646</lat>
+						<lon>-80.068691968918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.441860247003</lat>
+						<lon>-80.06904065609</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.441747688907</lat>
+						<lon>-80.070032164023</lon>
+
+							<typ>S</typ>
+                			<stpid>3711</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Rite-Aid</stpnm>
+                			<pdist>712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.441506810625</lat>
+						<lon>-80.071539565489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.441425156774</lat>
+						<lon>-80.072215482161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.441384329811</lat>
+						<lon>-80.072430058882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.441331254723</lat>
+						<lon>-80.072590991423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.441261848774</lat>
+						<lon>-80.0727626528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.441188360045</lat>
+						<lon>-80.07289676325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.44111895395</lat>
+						<lon>-80.073004051611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.441008720591</lat>
+						<lon>-80.073063060209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.440910267675</lat>
+						<lon>-80.072525000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3714</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Giant Eagle</stpnm>
+                			<pdist>1644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.440436527565</lat>
+						<lon>-80.06989451984</lon>
+
+							<typ>S</typ>
+                			<stpid>16637</stpid>
+                			<stpnm>Crafton Ingram at Bank</stpnm>
+                			<pdist>2398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.440248720569</lat>
+						<lon>-80.068810907398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.440745768879</lat>
+						<lon>-80.068652395503</lon>
+
+							<typ>S</typ>
+                			<stpid>3715</stpid>
+                			<stpnm>Foster Ave at Senior Citizen Bldg</stpnm>
+                			<pdist>2851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.440958070831</lat>
+						<lon>-80.068598751323</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.441182620242</lat>
+						<lon>-80.068507556216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.441716080109</lat>
+						<lon>-80.068263700396</lon>
+
+							<typ>S</typ>
+                			<stpid>18758</stpid>
+                			<stpnm>Foster Ave opp Willow Ave (playground)</stpnm>
+                			<pdist>3151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.4421161813</lat>
+						<lon>-80.068033030421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.442422379581</lat>
+						<lon>-80.067834546954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.443087845704</lat>
+						<lon>-80.067496588618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.443153167177</lat>
+						<lon>-80.067078164012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.443193993066</lat>
+						<lon>-80.066949417979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.443267479602</lat>
+						<lon>-80.066815307528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.443528764415</lat>
+						<lon>-80.066488078029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.443738607093</lat>
+						<lon>-80.066254282408</lon>
+
+							<typ>S</typ>
+                			<stpid>19192</stpid>
+                			<stpnm>Ingram Ave past West Busway Ramp</stpnm>
+                			<pdist>4192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.44388966144</lat>
+						<lon>-80.066173816137</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.444269337085</lat>
+						<lon>-80.066093349867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.444734743014</lat>
+						<lon>-80.065986061506</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.444812310356</lat>
+						<lon>-80.066012883596</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.444889877608</lat>
+						<lon>-80.066098714285</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.445514494849</lat>
+						<lon>-80.066855097227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.445759441202</lat>
+						<lon>-80.067176962309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.446123281024</lat>
+						<lon>-80.06766634525</lon>
+
+							<typ>S</typ>
+                			<stpid>4187</stpid>
+                			<stpnm>Ingram Ave at Mainsgate St</stpnm>
+                			<pdist>4517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.446478449728</lat>
+						<lon>-80.068234973561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.447061787473</lat>
+						<lon>-80.069088144845</lon>
+
+							<typ>S</typ>
+                			<stpid>4189</stpid>
+                			<stpnm>W. Prospect Ave at Berry St (nearside)</stpnm>
+                			<pdist>5614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.447248869082</lat>
+						<lon>-80.069968246033</lon>
+
+							<typ>S</typ>
+                			<stpid>19620</stpid>
+                			<stpnm>W. Prospect past Berry St</stpnm>
+                			<pdist>5950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.447582765294</lat>
+						<lon>-80.071588658069</lon>
+
+							<typ>S</typ>
+                			<stpid>4269</stpid>
+                			<stpnm>W. Prospect Ave opp Kingsland Ave</stpnm>
+                			<pdist>6494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.447758304869</lat>
+						<lon>-80.072645448421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.447599343564</lat>
+						<lon>-80.074114751322</lon>
+
+							<typ>S</typ>
+                			<stpid>4270</stpid>
+                			<stpnm>W. Prospect Ave at #210</stpnm>
+                			<pdist>7204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.4472360161</lat>
+						<lon>-80.07662529896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.447170698595</lat>
+						<lon>-80.07695252846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.446819615917</lat>
+						<lon>-80.077896666033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.446668568154</lat>
+						<lon>-80.078250717623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.446565012623</lat>
+						<lon>-80.078468333334</lon>
+
+							<typ>S</typ>
+                			<stpid>4272</stpid>
+                			<stpnm>W. Prospect Ave opp Allegheny Valley School</stpnm>
+                			<pdist>8475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.446528271168</lat>
+						<lon>-80.078538070768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.446487447304</lat>
+						<lon>-80.078656087965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.446491529692</lat>
+						<lon>-80.078827749342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.44654868309</lat>
+						<lon>-80.079063783735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.446732390112</lat>
+						<lon>-80.079836259932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.446899267352</lat>
+						<lon>-80.080391000001</lon>
+
+							<typ>S</typ>
+                			<stpid>4273</stpid>
+                			<stpnm>W. Prospect Ave past Arbordale St</stpnm>
+                			<pdist>9039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.446952338044</lat>
+						<lon>-80.080568025796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.448242832764</lat>
+						<lon>-80.082383093254</lon>
+
+							<typ>S</typ>
+                			<stpid>4275</stpid>
+                			<stpnm>W. Prospect Ave at Broadhead Fording Rd</stpnm>
+                			<pdist>9761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.448283655561</lat>
+						<lon>-80.082431373016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.449660931863</lat>
+						<lon>-80.080725932532</lon>
+
+							<typ>S</typ>
+                			<stpid>3731</stpid>
+                			<stpnm>Broadhead Fording Rd at Village Rd #2</stpnm>
+                			<pdist>10083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.451398864723</lat>
+						<lon>-80.078610167974</lon>
+
+							<typ>S</typ>
+                			<stpid>3732</stpid>
+                			<stpnm>Broadhead Fording Rd at Village Rd #1</stpnm>
+                			<pdist>10587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.451917288055</lat>
+						<lon>-80.077998624318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.452043831726</lat>
+						<lon>-80.07791279363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.452215277609</lat>
+						<lon>-80.077837691777</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.452362230876</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.452537757967</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.452652054431</lat>
+						<lon>-80.077832327359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.452839826772</lat>
+						<lon>-80.077891335958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.453019434606</lat>
+						<lon>-80.07791279363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.453133730251</lat>
+						<lon>-80.07788597154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.453260271631</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.453382730804</lat>
+						<lon>-80.077660665982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.453435796377</lat>
+						<lon>-80.077601657384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.453509271715</lat>
+						<lon>-80.077676759236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.454460361904</lat>
+						<lon>-80.078803287023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.454897124133</lat>
+						<lon>-80.079232440465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.455358374619</lat>
+						<lon>-80.079688415998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.45568900355</lat>
+						<lon>-80.080004916661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.455913503749</lat>
+						<lon>-80.080139027112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.456125757792</lat>
+						<lon>-80.080187306874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.456326345551</lat>
+						<lon>-80.080154499999</lon>
+
+							<typ>S</typ>
+                			<stpid>3740</stpid>
+                			<stpnm>Windgap Ave past Summerdale St</stpnm>
+                			<pdist>13545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.457081472438</lat>
+						<lon>-80.079811177245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.457669241006</lat>
+						<lon>-80.079537591926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.457791692143</lat>
+						<lon>-80.079451761237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.457963123361</lat>
+						<lon>-80.07928009986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.458189028347</lat>
+						<lon>-80.079051844576</lon>
+
+							<typ>S</typ>
+                			<stpid>3741</stpid>
+                			<stpnm>Windgap Ave at Belhurst Ave</stpnm>
+                			<pdist>14283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.458523725005</lat>
+						<lon>-80.078703157404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.45894821593</lat>
+						<lon>-80.078150622347</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.459239021849</lat>
+						<lon>-80.077759898147</lon>
+
+							<typ>S</typ>
+                			<stpid>3742</stpid>
+                			<stpnm>Windgap Ave ar Chartiers Ave</stpnm>
+                			<pdist>14803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.459292082797</lat>
+						<lon>-80.077674067458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.458953308336</lat>
+						<lon>-80.077244914016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.458753308154</lat>
+						<lon>-80.076976693114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.458679838549</lat>
+						<lon>-80.076826489409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.45859217835</lat>
+						<lon>-80.076625677911</lon>
+
+							<typ>S</typ>
+                			<stpid>4119</stpid>
+                			<stpnm>Chartiers Ave at Merle St</stpnm>
+                			<pdist>15226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.458103596781</lat>
+						<lon>-80.075586635584</lon>
+
+							<typ>S</typ>
+                			<stpid>4120</stpid>
+                			<stpnm>Chartiers Ave at Eyre Way</stpnm>
+                			<pdist>15573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.45763012001</lat>
+						<lon>-80.074588853831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.457560730893</lat>
+						<lon>-80.074374277109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.457544404031</lat>
+						<lon>-80.074170429224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.457572933446</lat>
+						<lon>-80.073631333332</lon>
+
+							<typ>S</typ>
+                			<stpid>4121</stpid>
+                			<stpnm>Chartiers Ave at Middletown Rd</stpnm>
+                			<pdist>16166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.457589260301</lat>
+						<lon>-80.073373841267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.457609668863</lat>
+						<lon>-80.073175357799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.457683139638</lat>
+						<lon>-80.0728481283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.458133103388</lat>
+						<lon>-80.070876855818</lon>
+
+							<typ>S</typ>
+                			<stpid>4122</stpid>
+                			<stpnm>Chartiers Ave at Krupp St</stpnm>
+                			<pdist>16951.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.458476933395</lat>
+						<lon>-80.069305499999</lon>
+
+							<typ>S</typ>
+                			<stpid>4123</stpid>
+                			<stpnm>Chartiers Ave at Oltman St</stpnm>
+                			<pdist>17428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.458432035128</lat>
+						<lon>-80.069149931876</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.45785220144</lat>
+						<lon>-80.067462844576</lon>
+
+							<typ>S</typ>
+                			<stpid>4124</stpid>
+                			<stpnm>Chartiers Ave opp Oetting St</stpnm>
+                			<pdist>17973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.457790975954</lat>
+						<lon>-80.067296547617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.457578727171</lat>
+						<lon>-80.067103428568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.457182799765</lat>
+						<lon>-80.066808385576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.4569419768</lat>
+						<lon>-80.066652817453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.456705234738</lat>
+						<lon>-80.066631359781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.45635420187</lat>
+						<lon>-80.066625995363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.456137866747</lat>
+						<lon>-80.066593808855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.455737849024</lat>
+						<lon>-80.066518707003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.455443956935</lat>
+						<lon>-80.066395325388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.455072508149</lat>
+						<lon>-80.066245121683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.454280621466</lat>
+						<lon>-80.065896434511</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.453994886867</lat>
+						<lon>-80.065740866388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.453921412059</lat>
+						<lon>-80.065638942446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.453888756563</lat>
+						<lon>-80.065542382921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.453847937171</lat>
+						<lon>-80.065097136225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.453052433688</lat>
+						<lon>-80.065513666665</lon>
+
+							<typ>S</typ>
+                			<stpid>17235</stpid>
+                			<stpnm>Jeffers St at #1330</stpnm>
+                			<pdist>20049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.45156093377</lat>
+						<lon>-80.066268999999</lon>
+
+							<typ>S</typ>
+                			<stpid>4151</stpid>
+                			<stpnm>Jeffers St opp Fadette St</stpnm>
+                			<pdist>20504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.451468434018</lat>
+						<lon>-80.066331375661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.451875739142</lat>
+						<lon>-80.067724935185</lon>
+
+							<typ>S</typ>
+                			<stpid>4152</stpid>
+                			<stpnm>Faronia St past Wynette St</stpnm>
+                			<pdist>21014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.452255369674</lat>
+						<lon>-80.069007031095</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.451615695091</lat>
+						<lon>-80.069444048281</lon>
+
+							<typ>S</typ>
+                			<stpid>4153</stpid>
+                			<stpnm>Ladoga St at Middletown rd</stpnm>
+                			<pdist>21647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.451546299762</lat>
+						<lon>-80.069486963625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.450801767142</lat>
+						<lon>-80.066940333332</lon>
+
+							<typ>S</typ>
+                			<stpid>4227</stpid>
+                			<stpnm>Middletown Rd at #3205</stpnm>
+                			<pdist>22417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.450516017749</lat>
+						<lon>-80.066028382267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.450206767174</lat>
+						<lon>-80.065353333333</lon>
+
+							<typ>S</typ>
+                			<stpid>4228</stpid>
+                			<stpnm>Middletown Rd opp Mutual St</stpnm>
+                			<pdist>22911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.449607767207</lat>
+						<lon>-80.064392166668</lon>
+
+							<typ>S</typ>
+                			<stpid>4229</stpid>
+                			<stpnm>Middletown Rd at Tyndall St</stpnm>
+                			<pdist>23262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.448635100593</lat>
+						<lon>-80.062980666667</lon>
+
+							<typ>S</typ>
+                			<stpid>4230</stpid>
+                			<stpnm>Middletown Rd at Berry St</stpnm>
+                			<pdist>23801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.448337095163</lat>
+						<lon>-80.062621250659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.448051335291</lat>
+						<lon>-80.062181368381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.447949277899</lat>
+						<lon>-80.062068715602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.447658433978</lat>
+						<lon>-80.061798166667</lon>
+
+							<typ>S</typ>
+                			<stpid>4231</stpid>
+                			<stpnm>Middletown Rd at #2847</stpnm>
+                			<pdist>24288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.446699937867</lat>
+						<lon>-80.060956531086</lon>
+
+							<typ>S</typ>
+                			<stpid>4232</stpid>
+                			<stpnm>Middletown Rd at Marshall St</stpnm>
+                			<pdist>24703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.445642772791</lat>
+						<lon>-80.060005166667</lon>
+
+							<typ>S</typ>
+                			<stpid>4233</stpid>
+                			<stpnm>Middletown Rd at Hodgson Ave</stpnm>
+                			<pdist>25175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.445512134621</lat>
+						<lon>-80.059876420634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.445005909311</lat>
+						<lon>-80.059200503963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.444523467398</lat>
+						<lon>-80.058416020504</lon>
+
+							<typ>S</typ>
+                			<stpid>19206</stpid>
+                			<stpnm>Middletown Rd past Stratmore St</stpnm>
+                			<pdist>25826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.444466312278</lat>
+						<lon>-80.058281910053</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.444425487163</lat>
+						<lon>-80.058094155422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.444396909567</lat>
+						<lon>-80.057847392193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.444347919375</lat>
+						<lon>-80.057316314808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.444315259227</lat>
+						<lon>-80.056913983456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.444274434019</lat>
+						<lon>-80.056661855808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.44408410084</lat>
+						<lon>-80.055953999999</lon>
+
+							<typ>S</typ>
+                			<stpid>4235</stpid>
+                			<stpnm>Middletown Rd opp Martera Pl</stpnm>
+                			<pdist>26451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.443553369385</lat>
+						<lon>-80.054178377631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.443500296009</lat>
+						<lon>-80.054022809508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.442986358976</lat>
+						<lon>-80.052748740078</lon>
+
+							<typ>S</typ>
+                			<stpid>4236</stpid>
+                			<stpnm>Steuben St at Obey St</stpnm>
+                			<pdist>27415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.442735253274</lat>
+						<lon>-80.052114299616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.442314742566</lat>
+						<lon>-80.050794652781</lon>
+
+							<typ>S</typ>
+                			<stpid>19710</stpid>
+                			<stpnm>Steuben St at Dexter St</stpnm>
+                			<pdist>28067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.442018771667</lat>
+						<lon>-80.049524635583</lon>
+
+							<typ>S</typ>
+                			<stpid>4238</stpid>
+                			<stpnm>Steuben St past Whitewood Dr</stpnm>
+                			<pdist>28384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.441884043786</lat>
+						<lon>-80.048950642854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.441786059702</lat>
+						<lon>-80.048650235444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.441671744758</lat>
+						<lon>-80.048365921289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.44147577583</lat>
+						<lon>-80.048038691789</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.441271640923</lat>
+						<lon>-80.047695369035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.441198152204</lat>
+						<lon>-80.04751834324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.44110833255</lat>
+						<lon>-80.047335953027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.441067505395</lat>
+						<lon>-80.04713746956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.441047091809</lat>
+						<lon>-80.046874613076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.441056689887</lat>
+						<lon>-80.04666762434</lon>
+
+							<typ>S</typ>
+                			<stpid>4239</stpid>
+                			<stpnm>Steuben St at #1129</stpnm>
+                			<pdist>29278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.441101599764</lat>
+						<lon>-80.046490598545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.441154675034</lat>
+						<lon>-80.046324301586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.441244494626</lat>
+						<lon>-80.046136546955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.441370770193</lat>
+						<lon>-80.045947844575</lon>
+
+							<typ>S</typ>
+                			<stpid>19615</stpid>
+                			<stpnm>Steuben St opp Elliott Heights Senior Ctr</stpnm>
+                			<pdist>29494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.442119600945</lat>
+						<lon>-80.045019929233</lon>
+
+							<typ>S</typ>
+                			<stpid>4240</stpid>
+                			<stpnm>Steuben St past Herschel St</stpnm>
+                			<pdist>29869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.442980105298</lat>
+						<lon>-80.044132937829</lon>
+
+							<typ>S</typ>
+                			<stpid>4241</stpid>
+                			<stpnm>Steuben St at Harker St</stpnm>
+                			<pdist>30272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.443037261682</lat>
+						<lon>-80.04404710714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.44311074839</lat>
+						<lon>-80.043859352509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.443159739484</lat>
+						<lon>-80.04358576719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.44317606984</lat>
+						<lon>-80.043462385575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.44317606984</lat>
+						<lon>-80.043306817452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.443167904663</lat>
+						<lon>-80.043151249329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.44311074839</lat>
+						<lon>-80.042968859116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.443000518298</lat>
+						<lon>-80.042770375649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.442801021186</lat>
+						<lon>-80.04251406217</lon>
+
+							<typ>S</typ>
+                			<stpid>4242</stpid>
+                			<stpnm>Steuben St opp Lorenz Ave</stpnm>
+                			<pdist>30794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.441673018287</lat>
+						<lon>-80.040931050926</lon>
+
+							<typ>S</typ>
+                			<stpid>4243</stpid>
+                			<stpnm>Steuben St at Elbon St</stpnm>
+                			<pdist>31406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.441358651194</lat>
+						<lon>-80.040475075394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.441215756575</lat>
+						<lon>-80.040244405418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.441158598643</lat>
+						<lon>-80.040067379623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.441146350508</lat>
+						<lon>-80.03988498941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.441154515931</lat>
+						<lon>-80.039686505943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.441162681354</lat>
+						<lon>-80.039418285042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.441113688804</lat>
+						<lon>-80.038935487419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.441089192516</lat>
+						<lon>-80.038667266518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.441085109801</lat>
+						<lon>-80.03844196096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.441097357946</lat>
+						<lon>-80.038211290985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.441146350508</lat>
+						<lon>-80.037991349846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.441211673867</lat>
+						<lon>-80.037744586617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.441248418229</lat>
+						<lon>-80.037594382912</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.441252500935</lat>
+						<lon>-80.037471001297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.441248418229</lat>
+						<lon>-80.037154500633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.441236272679</lat>
+						<lon>-80.036784090611</lon>
+
+							<typ>S</typ>
+                			<stpid>4111</stpid>
+                			<stpnm>Steuben St at #211</stpnm>
+                			<pdist>32641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.441232189972</lat>
+						<lon>-80.036574878307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.441285265139</lat>
+						<lon>-80.03637639484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.441644023507</lat>
+						<lon>-80.035355282409</lon>
+
+							<typ>S</typ>
+                			<stpid>4112</stpid>
+                			<stpnm>Steuben St at Wabash St</stpnm>
+                			<pdist>33032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.441933524995</lat>
+						<lon>-80.034603011244</lon>
+
+							<typ>S</typ>
+                			<stpid>4113</stpid>
+                			<stpnm>Steuben St at Alexander St</stpnm>
+                			<pdist>33275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.442476189179</lat>
+						<lon>-80.033100771166</lon>
+
+							<typ>S</typ>
+                			<stpid>4114</stpid>
+                			<stpnm>Steuben St past Sanctus St</stpnm>
+                			<pdist>33745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.442721684558</lat>
+						<lon>-80.032385587692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.44285641076</lat>
+						<lon>-80.031999349594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.44300746709</lat>
+						<lon>-80.031709671021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.443374899989</lat>
+						<lon>-80.030931830406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.44333815679</lat>
+						<lon>-80.03081381321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.443223844485</lat>
+						<lon>-80.030770897865</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.443015632288</lat>
+						<lon>-80.030786991119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.442848245544</lat>
+						<lon>-80.030765533447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.442746180251</lat>
+						<lon>-80.030631422997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.442742097636</lat>
+						<lon>-80.030465126038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.442864575976</lat>
+						<lon>-80.030153989792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.442913567249</lat>
+						<lon>-80.029810667038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.442954393283</lat>
+						<lon>-80.02950489521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.443011549689</lat>
+						<lon>-80.029199123383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.443105449393</lat>
+						<lon>-80.028952360153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.443313661312</lat>
+						<lon>-80.028582215309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.443542285422</lat>
+						<lon>-80.028153061867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.443644349505</lat>
+						<lon>-80.027874112129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.443648432066</lat>
+						<lon>-80.027702450752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.443672927421</lat>
+						<lon>-80.027364492416</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.443468799186</lat>
+						<lon>-80.026608109474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.443252422579</lat>
+						<lon>-80.025942921638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.443036045277</lat>
+						<lon>-80.025304555893</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.442733932406</lat>
+						<lon>-80.02468764782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.441880660343</lat>
+						<lon>-80.022241473198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.441634426511</lat>
+						<lon>-80.02151177116201</lon>
+
+							<typ>S</typ>
+                			<stpid>2258</stpid>
+                			<stpnm>W. Carson St opp Gateway View Plaza</stpnm>
+                			<pdist>37502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.44095669783</lat>
+						<lon>-80.019553758581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.440662741097</lat>
+						<lon>-80.018877841909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.439897763377</lat>
+						<lon>-80.017465353175</lon>
+
+							<typ>S</typ>
+                			<stpid>2260</stpid>
+                			<stpnm>W. Carson St at Duquesne Incline</stpnm>
+                			<pdist>38813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.439455512187</lat>
+						<lon>-80.016576647758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.439226874178</lat>
+						<lon>-80.016131401062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.439059478</lat>
+						<lon>-80.015943646431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.438781844396</lat>
+						<lon>-80.015423297882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.438532789745</lat>
+						<lon>-80.014999508858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.438067340877</lat>
+						<lon>-80.014178752899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.437973434135</lat>
+						<lon>-80.014007091522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.437928522169</lat>
+						<lon>-80.013846158981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.437895858902</lat>
+						<lon>-80.013647675514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.437908107629</lat>
+						<lon>-80.013502836227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.43794077089</lat>
+						<lon>-80.013347268105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.438030594776</lat>
+						<lon>-80.013079047203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.438169413273</lat>
+						<lon>-80.012671351433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.438324563018</lat>
+						<lon>-80.012370944023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.438524624004</lat>
+						<lon>-80.011990070343</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.438843087201</lat>
+						<lon>-80.011367797852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.439108472047</lat>
+						<lon>-80.010885000229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.439553499667</lat>
+						<lon>-80.010085701942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.43977805377</lat>
+						<lon>-80.00968337059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.439978110431</lat>
+						<lon>-80.009329319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>249</seq>
+						<lat>40.440059766039</lat>
+						<lon>-80.009195208549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>250</seq>
+						<lat>40.44016183541</lat>
+						<lon>-80.009071826935</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>251</seq>
+						<lat>40.440288401215</lat>
+						<lon>-80.008964538574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>252</seq>
+						<lat>40.440410884026</lat>
+						<lon>-80.008905529976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>253</seq>
+						<lat>40.440521118364</lat>
+						<lon>-80.008862614632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>254</seq>
+						<lat>40.440655848977</lat>
+						<lon>-80.008851885796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>255</seq>
+						<lat>40.440855903025</lat>
+						<lon>-80.008803606033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>256</seq>
+						<lat>40.441080452777</lat>
+						<lon>-80.008798241615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>257</seq>
+						<lat>40.44133358069</lat>
+						<lon>-80.008766055107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>258</seq>
+						<lat>40.441484640442</lat>
+						<lon>-80.008739233017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>259</seq>
+						<lat>40.44198680961</lat>
+						<lon>-80.008658766747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>260</seq>
+						<lat>40.44209295871</lat>
+						<lon>-80.008615851402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>261</seq>
+						<lat>40.442260347335</lat>
+						<lon>-80.008535385132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>262</seq>
+						<lat>40.442419570274</lat>
+						<lon>-80.008412003517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>263</seq>
+						<lat>40.442488975027</lat>
+						<lon>-80.008320808411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>264</seq>
+						<lat>40.442546131829</lat>
+						<lon>-80.00821352005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>265</seq>
+						<lat>40.442619619073</lat>
+						<lon>-80.008041858673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>266</seq>
+						<lat>40.442672693145</lat>
+						<lon>-80.00788629055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>267</seq>
+						<lat>40.442733932406</lat>
+						<lon>-80.007682442665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>268</seq>
+						<lat>40.442933980269</lat>
+						<lon>-80.006904602051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>269</seq>
+						<lat>40.443093201613</lat>
+						<lon>-80.006271600723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>270</seq>
+						<lat>40.443134027538</lat>
+						<lon>-80.00608921051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>271</seq>
+						<lat>40.443154440491</lat>
+						<lon>-80.005837082863</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>272</seq>
+						<lat>40.443423890891</lat>
+						<lon>-80.004699826241</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>273</seq>
+						<lat>40.442921732458</lat>
+						<lon>-80.004458427429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>274</seq>
+						<lat>40.442368607898</lat>
+						<lon>-80.004215643519</lon>
+
+							<typ>S</typ>
+                			<stpid>1502</stpid>
+                			<stpnm>Stanwix St at Penn Ave (Gateway #2)</stpnm>
+                			<pdist>44024.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4781</pid>
+				<ln>42429.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.442368607898</lat>
+						<lon>-80.004215643519</lon>
+
+							<typ>S</typ>
+                			<stpid>1502</stpid>
+                			<stpnm>Stanwix St at Penn Ave (Gateway #2)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.442301173766</lat>
+						<lon>-80.00418484211</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.442207272938</lat>
+						<lon>-80.004168748856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.442121537286</lat>
+						<lon>-80.004233121872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.442003140252</lat>
+						<lon>-80.004345774651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.441921487004</lat>
+						<lon>-80.004447698593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.441782676255</lat>
+						<lon>-80.004694461823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.441709188095</lat>
+						<lon>-80.004898309708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.441619369124</lat>
+						<lon>-80.005107522011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.441385188774</lat>
+						<lon>-80.00587771825701</lon>
+
+							<typ>S</typ>
+                			<stpid>4126</stpid>
+                			<stpnm>Liberty Ave at Wyndham Grand Hotel</stpnm>
+                			<pdist>653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.441125362638</lat>
+						<lon>-80.006657838821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.440925309392</lat>
+						<lon>-80.007167458534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.440733421025</lat>
+						<lon>-80.007709264755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.440561945851</lat>
+						<lon>-80.00813305378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.44030473227</lat>
+						<lon>-80.008680224419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.440092428255</lat>
+						<lon>-80.009082555771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.43969639782</lat>
+						<lon>-80.009855031967</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.439406518394</lat>
+						<lon>-80.010434389114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.438806341525</lat>
+						<lon>-80.011512637138</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.438422552147</lat>
+						<lon>-80.012231469154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.4381530817</lat>
+						<lon>-80.012767910957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.438030594776</lat>
+						<lon>-80.013191699982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.438006097364</lat>
+						<lon>-80.013454556465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.438034677677</lat>
+						<lon>-80.013610124588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.438120418542</lat>
+						<lon>-80.013792514801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.438430717901</lat>
+						<lon>-80.014328956604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.43862261284</lat>
+						<lon>-80.01466691494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.438949241265</lat>
+						<lon>-80.015230178833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.439275868103</lat>
+						<lon>-80.015900731087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.439382021483</lat>
+						<lon>-80.016244053841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.439439180927</lat>
+						<lon>-80.016367435455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.43976988818</lat>
+						<lon>-80.017016530037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.43999235603</lat>
+						<lon>-80.017460748676</lon>
+
+							<typ>S</typ>
+                			<stpid>2309</stpid>
+                			<stpnm>W. Carson St opp Duquesne Incline</stpnm>
+                			<pdist>4508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.440296566743</lat>
+						<lon>-80.01801431179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.440639518008</lat>
+						<lon>-80.018663406372</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.440851820295</lat>
+						<lon>-80.019097924232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.441064121912</lat>
+						<lon>-80.019607543945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.441370324986</lat>
+						<lon>-80.020487308502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.44166986869</lat>
+						<lon>-80.02138455092597</lon>
+
+							<typ>S</typ>
+                			<stpid>2310</stpid>
+                			<stpnm>W. Carson St at Gateway View Plaza</stpnm>
+                			<pdist>5842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.442109289326</lat>
+						<lon>-80.022659897804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.442823749888</lat>
+						<lon>-80.024719834328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.443097284207</lat>
+						<lon>-80.025368928909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.443358569681</lat>
+						<lon>-80.026168227196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.443632101824</lat>
+						<lon>-80.027090907097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.443734165771</lat>
+						<lon>-80.027348399162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.443946458285</lat>
+						<lon>-80.027761459351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.444464939106</lat>
+						<lon>-80.028614401817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.444477186636</lat>
+						<lon>-80.028748512268</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.444411866449</lat>
+						<lon>-80.028979182243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.44403219161</lat>
+						<lon>-80.029773116112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.443562698251</lat>
+						<lon>-80.030727982521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.443060540855</lat>
+						<lon>-80.031752586365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.442897236829</lat>
+						<lon>-80.032112002373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.442672693145</lat>
+						<lon>-80.0327450037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.442401767596</lat>
+						<lon>-80.033485333334</lon>
+
+							<typ>S</typ>
+                			<stpid>4129</stpid>
+                			<stpnm>Steuben St opp Sanctus St</stpnm>
+                			<pdist>9691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.441696100968</lat>
+						<lon>-80.035377500002</lon>
+
+							<typ>S</typ>
+                			<stpid>4131</stpid>
+                			<stpnm>Steuben St at Planet St  (Wabash St)</stpnm>
+                			<pdist>10276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.441496888515</lat>
+						<lon>-80.035995841026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.441309084482</lat>
+						<lon>-80.036510825157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.44130500178</lat>
+						<lon>-80.036607384682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.441317249886</lat>
+						<lon>-80.037095546722</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.44131701198</lat>
+						<lon>-80.037513977513</lon>
+
+							<typ>S</typ>
+                			<stpid>4132</stpid>
+                			<stpnm>Steuben St at Linhart St</stpnm>
+                			<pdist>10884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.441300681172</lat>
+						<lon>-80.037648087964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.441239440605</lat>
+						<lon>-80.037878757939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.441182282693</lat>
+						<lon>-80.038136250005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.441141455583</lat>
+						<lon>-80.038345462308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.441133290158</lat>
+						<lon>-80.038602954373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.441170034562</lat>
+						<lon>-80.038962370381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.441210861655</lat>
+						<lon>-80.039343244061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.441219027071</lat>
+						<lon>-80.039568549619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.441202696239</lat>
+						<lon>-80.039874321446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.441206778947</lat>
+						<lon>-80.040078169332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.441263936839</lat>
+						<lon>-80.040233737454</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.441414996747</lat>
+						<lon>-80.04046440743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.441734267632</lat>
+						<lon>-80.040924000001</lon>
+
+							<typ>S</typ>
+                			<stpid>4249</stpid>
+                			<stpnm>Steuben St opp Elbon St</stpnm>
+                			<pdist>11958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.442762657799</lat>
+						<lon>-80.042332587963</lon>
+
+							<typ>S</typ>
+                			<stpid>4250</stpid>
+                			<stpnm>Steuben St at Lorenz Ave</stpnm>
+                			<pdist>12425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.443048440157</lat>
+						<lon>-80.042718826061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.443134174628</lat>
+						<lon>-80.042890487438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.443203578643</lat>
+						<lon>-80.043046055561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.443232156746</lat>
+						<lon>-80.043190894848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.443236239331</lat>
+						<lon>-80.043373285061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.443215826403</lat>
+						<lon>-80.043603955036</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.44314233981</lat>
+						<lon>-80.043968735462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.443073516822</lat>
+						<lon>-80.0441340086</lon>
+
+							<typ>S</typ>
+                			<stpid>4251</stpid>
+                			<stpnm>Steuben St opp Harker St</stpnm>
+                			<pdist>13063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.442951038863</lat>
+						<lon>-80.044284212305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.442730577975</lat>
+						<lon>-80.044504153444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.44215152376</lat>
+						<lon>-80.045095957672</lon>
+
+							<typ>S</typ>
+                			<stpid>4252</stpid>
+                			<stpnm>Steuben St opp Herschel St</stpnm>
+                			<pdist>13496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.441569528672</lat>
+						<lon>-80.045799477515</lon>
+
+							<typ>S</typ>
+                			<stpid>19616</stpid>
+                			<stpnm>Steuben St at Elliott Heights Senior Ctr</stpnm>
+                			<pdist>13768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.441340897853</lat>
+						<lon>-80.046099884925</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.441279657323</lat>
+						<lon>-80.046201808868</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.441218416737</lat>
+						<lon>-80.0463305549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.441165341518</lat>
+						<lon>-80.046491487441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.441120431684</lat>
+						<lon>-80.046673877654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.441104100828</lat>
+						<lon>-80.046866996703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.441114854099</lat>
+						<lon>-80.047063531085</lon>
+
+							<typ>S</typ>
+                			<stpid>4253</stpid>
+                			<stpnm>Steuben St at #1260</stpnm>
+                			<pdist>14216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.441151598514</lat>
+						<lon>-80.047224463626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.441208756452</lat>
+						<lon>-80.047396125003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.441372064581</lat>
+						<lon>-80.047728718921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.441510876178</lat>
+						<lon>-80.04797548215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.441670100892</lat>
+						<lon>-80.04824906747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.441772167818</lat>
+						<lon>-80.048447550937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.441861986585</lat>
+						<lon>-80.048667492076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.441943639905</lat>
+						<lon>-80.048935712978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.442037541101</lat>
+						<lon>-80.049300493404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.442135524818</lat>
+						<lon>-80.049697460338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.442213095159</lat>
+						<lon>-80.050083698436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.442379682176</lat>
+						<lon>-80.050718031085</lon>
+
+							<typ>S</typ>
+                			<stpid>4255</stpid>
+                			<stpnm>Steuben St past Ringgold St</stpnm>
+                			<pdist>15337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.442604226839</lat>
+						<lon>-80.051420769847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.442796109866</lat>
+						<lon>-80.052085957683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.443069434226</lat>
+						<lon>-80.052787833332</lon>
+
+							<typ>S</typ>
+                			<stpid>4256</stpid>
+                			<stpnm>Steuben St opp Obey St</stpnm>
+                			<pdist>15987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.443473767537</lat>
+						<lon>-80.0538025</lon>
+
+							<typ>S</typ>
+                			<stpid>4257</stpid>
+                			<stpnm>Steuben St at Woodlow (nearside)</stpnm>
+                			<pdist>16314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.44359216198</lat>
+						<lon>-80.054059992065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.443922848803</lat>
+						<lon>-80.055207977524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.444164040933</lat>
+						<lon>-80.05603201984</lon>
+
+							<typ>S</typ>
+                			<stpid>19212</stpid>
+                			<stpnm>Middletown Rd past Martera Pl</stpnm>
+                			<pdist>16992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.444294681723</lat>
+						<lon>-80.056520181881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.444360002024</lat>
+						<lon>-80.056788402782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.444380414604</lat>
+						<lon>-80.057051259266</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.444413074721</lat>
+						<lon>-80.057582336651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.444449817333</lat>
+						<lon>-80.057957845913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.444502889959</lat>
+						<lon>-80.058204609142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.444602435806</lat>
+						<lon>-80.058453126985</lon>
+
+							<typ>S</typ>
+                			<stpid>4259</stpid>
+                			<stpnm>Middletown Rd opp Stratmore St</stpnm>
+                			<pdist>17720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.445582229158</lat>
+						<lon>-80.059863968926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.445777767412</lat>
+						<lon>-80.060051000002</lon>
+
+							<typ>S</typ>
+                			<stpid>4260</stpid>
+                			<stpnm>Middletown Rd past Hodgson Ave</stpnm>
+                			<pdist>18321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.446647600701</lat>
+						<lon>-80.060821500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4261</stpid>
+                			<stpnm>Middletown Rd at Justine St</stpnm>
+                			<pdist>18716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.446647600701</lat>
+						<lon>-80.060821500001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.447597433981</lat>
+						<lon>-80.061645500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4262</stpid>
+                			<stpnm>Middletown Rd past Straka St</stpnm>
+                			<pdist>19130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.447936265699</lat>
+						<lon>-80.061962000665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.448070981449</lat>
+						<lon>-80.062101475534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.4484576914</lat>
+						<lon>-80.062657104499</lon>
+
+							<typ>S</typ>
+                			<stpid>4263</stpid>
+                			<stpnm>Middletown Rd at Berry St</stpnm>
+                			<pdist>19563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.449504767213</lat>
+						<lon>-80.064117500001</lon>
+
+							<typ>S</typ>
+                			<stpid>4264</stpid>
+                			<stpnm>Middletown Rd at Tyndall St</stpnm>
+                			<pdist>20107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.450293687368</lat>
+						<lon>-80.065397791006</lon>
+
+							<typ>S</typ>
+                			<stpid>4265</stpid>
+                			<stpnm>Middletown Rd at Mutual St</stpnm>
+                			<pdist>20569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.450461055571</lat>
+						<lon>-80.065784029104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.450567191288</lat>
+						<lon>-80.066025427916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.450693737501</lat>
+						<lon>-80.066438488104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.450863431384</lat>
+						<lon>-80.066937886904</lon>
+
+							<typ>S</typ>
+                			<stpid>4266</stpid>
+                			<stpnm>Middletown Rd at #3206</stpnm>
+                			<pdist>21082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.451134513444</lat>
+						<lon>-80.067901666667</lon>
+
+							<typ>S</typ>
+                			<stpid>4267</stpid>
+                			<stpnm>Middletown Rd at Wynette St</stpnm>
+                			<pdist>21359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.451538100438</lat>
+						<lon>-80.069274833333</lon>
+
+							<typ>S</typ>
+                			<stpid>4268</stpid>
+                			<stpnm>Middletown Rd at Ladoga St</stpnm>
+                			<pdist>21787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.451570757076</lat>
+						<lon>-80.069371392858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.452191230188</lat>
+						<lon>-80.068958332669</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.451825528527</lat>
+						<lon>-80.067733833332</lon>
+
+							<typ>S</typ>
+                			<stpid>4089</stpid>
+                			<stpnm>Faronia St at Wynette St</stpnm>
+                			<pdist>22407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.451384664243</lat>
+						<lon>-80.0662961693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.452018600411</lat>
+						<lon>-80.065963666666</lon>
+
+							<typ>S</typ>
+                			<stpid>4091</stpid>
+                			<stpnm>Jeffers St at Fadette St</stpnm>
+                			<pdist>23019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.452918933696</lat>
+						<lon>-80.065506</lon>
+
+							<typ>S</typ>
+                			<stpid>4092</stpid>
+                			<stpnm>Jeffers St at #1331</stpnm>
+                			<pdist>23382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.453902687746</lat>
+						<lon>-80.065007109123</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.453943507105</lat>
+						<lon>-80.06545235582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.453963916775</lat>
+						<lon>-80.065581101852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.454037391536</lat>
+						<lon>-80.065672296959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.454163931214</lat>
+						<lon>-80.065763492065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.454661923763</lat>
+						<lon>-80.065988797623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.455339514254</lat>
+						<lon>-80.066278476196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.455788516236</lat>
+						<lon>-80.066450137573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.456241597014</lat>
+						<lon>-80.066530603844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.456637529966</lat>
+						<lon>-80.066557425934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.456976316104</lat>
+						<lon>-80.06659497686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.457196730265</lat>
+						<lon>-80.066734451729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.457547758731</lat>
+						<lon>-80.066981214958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.457768171017</lat>
+						<lon>-80.067174334007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.457891776595</lat>
+						<lon>-80.067351878308</lon>
+
+							<typ>S</typ>
+                			<stpid>4178</stpid>
+                			<stpnm>Chartiers Ave at Oetting St</stpnm>
+                			<pdist>25519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.458479538074</lat>
+						<lon>-80.069100678585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.458516272995</lat>
+						<lon>-80.069229424618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.458519158276</lat>
+						<lon>-80.06937461574</lon>
+
+							<typ>S</typ>
+                			<stpid>19215</stpid>
+                			<stpnm>Chartiers Ave past Oltman St</stpnm>
+                			<pdist>26108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.458206100079</lat>
+						<lon>-80.070854166668</lon>
+
+							<typ>S</typ>
+                			<stpid>4180</stpid>
+                			<stpnm>Chartiers Ave at Harlow St</stpnm>
+                			<pdist>26516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.457694933438</lat>
+						<lon>-80.073095791007</lon>
+
+							<typ>S</typ>
+                			<stpid>4181</stpid>
+                			<stpnm>Chartiers Ave at Middletown Rd</stpnm>
+                			<pdist>27156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.457617380965</lat>
+						<lon>-80.074072115088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.457617380965</lat>
+						<lon>-80.074318878318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.457686770024</lat>
+						<lon>-80.074533455039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.458152083039</lat>
+						<lon>-80.075493685866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.458774433381</lat>
+						<lon>-80.076896666666</lon>
+
+							<typ>S</typ>
+                			<stpid>4183</stpid>
+                			<stpnm>Chartiers Ave opp Warfle St</stpnm>
+                			<pdist>28310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.459327575883</lat>
+						<lon>-80.077612601852</lon>
+
+							<typ>S</typ>
+                			<stpid>4184</stpid>
+                			<stpnm>Chartiers Ave at Windgap Ave</stpnm>
+                			<pdist>28600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.459384718365</lat>
+						<lon>-80.077666246033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.459188801083</lat>
+						<lon>-80.077939831352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.458837781191</lat>
+						<lon>-80.078406535721</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.458350188403</lat>
+						<lon>-80.078974446427</lon>
+
+							<typ>S</typ>
+                			<stpid>3752</stpid>
+                			<stpnm>Windgap Ave at Belhust Ave</stpnm>
+                			<pdist>29158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.457880795065</lat>
+						<lon>-80.07945724405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.457754262387</lat>
+						<lon>-80.079575261247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.457635892892</lat>
+						<lon>-80.079650363099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.456737910617</lat>
+						<lon>-80.080041965615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.456216860946</lat>
+						<lon>-80.080258415344</lon>
+
+							<typ>S</typ>
+                			<stpid>3753</stpid>
+                			<stpnm>Windgap Ave at Summerdale St</stpnm>
+                			<pdist>30015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.456082161525</lat>
+						<lon>-80.080258415344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.455882152796</lat>
+						<lon>-80.080210135582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.455706634441</lat>
+						<lon>-80.080113576057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.455539279303</lat>
+						<lon>-80.079947279099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.454473911215</lat>
+						<lon>-80.078928039673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.454155522071</lat>
+						<lon>-80.078536437157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.453424854101</lat>
+						<lon>-80.077721045616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.453265657232</lat>
+						<lon>-80.077871249321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.453110541972</lat>
+						<lon>-80.077973173264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.452910524397</lat>
+						<lon>-80.077978537682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.452649276055</lat>
+						<lon>-80.077898071411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.452400272784</lat>
+						<lon>-80.077865884903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.452196171054</lat>
+						<lon>-80.077919529083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.451963494326</lat>
+						<lon>-80.078059003952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.451628438798</lat>
+						<lon>-80.078467101852</lon>
+
+							<typ>S</typ>
+                			<stpid>4302</stpid>
+                			<stpnm>Broadhead Fording opp Village #1</stpnm>
+                			<pdist>32008.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.449921844756</lat>
+						<lon>-80.080529853176</lon>
+
+							<typ>S</typ>
+                			<stpid>4303</stpid>
+                			<stpnm>Broadhead Fording opp Village #2</stpnm>
+                			<pdist>32866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.448402750314</lat>
+						<lon>-80.082380935185</lon>
+
+							<typ>S</typ>
+                			<stpid>17503</stpid>
+                			<stpnm>Broadhead Fording opp W. Prospect (nearside)</stpnm>
+                			<pdist>33625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.448284364345</lat>
+						<lon>-80.08253113889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.446926598741</lat>
+						<lon>-80.080641906748</lon>
+
+							<typ>S</typ>
+                			<stpid>4219</stpid>
+                			<stpnm>W. Prospect Ave opp Arbordale St</stpnm>
+                			<pdist>34378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.446824539642</lat>
+						<lon>-80.080389779101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.446632668115</lat>
+						<lon>-80.079692404757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.446485702319</lat>
+						<lon>-80.079102318773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.446428548868</lat>
+						<lon>-80.078710716257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.446465610165</lat>
+						<lon>-80.078522753969</lon>
+
+							<typ>S</typ>
+                			<stpid>4220</stpid>
+                			<stpnm>W. Prospect Ave at Allegheny Valley School</stpnm>
+                			<pdist>34961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.446694223553</lat>
+						<lon>-80.078034591929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.446988153911</lat>
+						<lon>-80.077272844568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.447126953911</lat>
+						<lon>-80.076897335306</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.447208600835</lat>
+						<lon>-80.076371622339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.447526110752</lat>
+						<lon>-80.074189708995</lon>
+
+							<typ>S</typ>
+                			<stpid>4222</stpid>
+                			<stpnm>W. Prospect Ave at #221</stpnm>
+                			<pdist>36271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.447660827324</lat>
+						<lon>-80.073132918643</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.447685321218</lat>
+						<lon>-80.072794960307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.447689403532</lat>
+						<lon>-80.072575019168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.447540530463</lat>
+						<lon>-80.071713886904</lon>
+
+							<typ>S</typ>
+                			<stpid>4223</stpid>
+                			<stpnm>W. Prospect Ave at Kingsland Ave</stpnm>
+                			<pdist>36969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.447030539918</lat>
+						<lon>-80.069237753966</lon>
+
+							<typ>S</typ>
+                			<stpid>4225</stpid>
+                			<stpnm>W. Prospect Ave opp Berry St</stpnm>
+                			<pdist>37657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.447014210498</lat>
+						<lon>-80.069151923278</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.446109544255</lat>
+						<lon>-80.067796513886</lon>
+
+							<typ>S</typ>
+                			<stpid>4209</stpid>
+                			<stpnm>W. Prospect Ave opp Mainsgate St</stpnm>
+                			<pdist>38184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.445676807348</lat>
+						<lon>-80.067147419305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.444834627972</lat>
+						<lon>-80.066130285051</lon>
+
+							<typ>S</typ>
+                			<stpid>4210</stpid>
+                			<stpnm>W. Prospect Ave at Ingram Ave</stpnm>
+                			<pdist>38847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.444781555607</lat>
+						<lon>-80.066087369707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.444708070726</lat>
+						<lon>-80.066060547617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.444118322834</lat>
+						<lon>-80.066193587299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.443869287954</lat>
+						<lon>-80.066263324734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.443795802075</lat>
+						<lon>-80.066316968914</lon>
+
+							<typ>S</typ>
+                			<stpid>19614</stpid>
+                			<stpnm>Ingram Ave at Marcross Ave</stpnm>
+                			<pdist>39393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.443734563781</lat>
+						<lon>-80.06635451984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.443595756776</lat>
+						<lon>-80.066515452381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.443354885116</lat>
+						<lon>-80.066810495373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.443265068344</lat>
+						<lon>-80.066939241405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.443224242499</lat>
+						<lon>-80.067084080692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.443150755915</lat>
+						<lon>-80.067556149479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.443085434439</lat>
+						<lon>-80.067588335987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.442613709203</lat>
+						<lon>-80.067797595235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.442319759716</lat>
+						<lon>-80.067963892194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.441797179676</lat>
+						<lon>-80.068296486112</lon>
+
+							<typ>S</typ>
+                			<stpid>19707</stpid>
+                			<stpnm>Foster Ave at Willow Ave</stpnm>
+                			<pdist>40264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.441756352939</lat>
+						<lon>-80.068323308202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.441825758377</lat>
+						<lon>-80.068553978177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.441854337066</lat>
+						<lon>-80.068693453046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.441862502403</lat>
+						<lon>-80.068897300931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.44187066774</lat>
+						<lon>-80.069068962308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.441747688907</lat>
+						<lon>-80.070032164023</lon>
+
+							<typ>S</typ>
+                			<stpid>3711</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Rite-Aid</stpnm>
+                			<pdist>40743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.441506810625</lat>
+						<lon>-80.071539565489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.441425156774</lat>
+						<lon>-80.072215482161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.441384329811</lat>
+						<lon>-80.072430058882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.441331254723</lat>
+						<lon>-80.072590991423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.441261848774</lat>
+						<lon>-80.0727626528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.441188360045</lat>
+						<lon>-80.07289676325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.44111895395</lat>
+						<lon>-80.073004051611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.441008720591</lat>
+						<lon>-80.073063060209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.440910267675</lat>
+						<lon>-80.072525000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3714</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Giant Eagle</stpnm>
+                			<pdist>41675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.440436527565</lat>
+						<lon>-80.06989451984</lon>
+
+							<typ>S</typ>
+                			<stpid>16637</stpid>
+                			<stpnm>Crafton Ingram at Bank</stpnm>
+                			<pdist>42429.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4783</pid>
+				<ln>43312.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.441747688907</lat>
+						<lon>-80.070032164023</lon>
+
+							<typ>S</typ>
+                			<stpid>3711</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Rite-Aid</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.441506810625</lat>
+						<lon>-80.071539565489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.441425156774</lat>
+						<lon>-80.072215482161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.441384329811</lat>
+						<lon>-80.072430058882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.441331254723</lat>
+						<lon>-80.072590991423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.441261848774</lat>
+						<lon>-80.0727626528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.441188360045</lat>
+						<lon>-80.07289676325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.44111895395</lat>
+						<lon>-80.073004051611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.441008720591</lat>
+						<lon>-80.073063060209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.440910267675</lat>
+						<lon>-80.072525000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3714</stpid>
+                			<stpnm>Crafton Ingram Shopping Center at Giant Eagle</stpnm>
+                			<pdist>932.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.440436527565</lat>
+						<lon>-80.06989451984</lon>
+
+							<typ>S</typ>
+                			<stpid>16637</stpid>
+                			<stpnm>Crafton Ingram at Bank</stpnm>
+                			<pdist>1686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.440248720569</lat>
+						<lon>-80.068810907398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.440745768879</lat>
+						<lon>-80.068652395503</lon>
+
+							<typ>S</typ>
+                			<stpid>3715</stpid>
+                			<stpnm>Foster Ave at Senior Citizen Bldg</stpnm>
+                			<pdist>2139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.440958070831</lat>
+						<lon>-80.068598751323</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.441182620242</lat>
+						<lon>-80.068507556216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.441716080109</lat>
+						<lon>-80.068263700396</lon>
+
+							<typ>S</typ>
+                			<stpid>18758</stpid>
+                			<stpnm>Foster Ave opp Willow Ave (playground)</stpnm>
+                			<pdist>2439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.4421161813</lat>
+						<lon>-80.068033030421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.442422379581</lat>
+						<lon>-80.067834546954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.443087845704</lat>
+						<lon>-80.067496588618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.443153167177</lat>
+						<lon>-80.067078164012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.443193993066</lat>
+						<lon>-80.066949417979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.443267479602</lat>
+						<lon>-80.066815307528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.443528764415</lat>
+						<lon>-80.066488078029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.443738607093</lat>
+						<lon>-80.066254282408</lon>
+
+							<typ>S</typ>
+                			<stpid>19192</stpid>
+                			<stpnm>Ingram Ave past West Busway Ramp</stpnm>
+                			<pdist>3480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.44388966144</lat>
+						<lon>-80.066173816137</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.444269337085</lat>
+						<lon>-80.066093349867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.444734743014</lat>
+						<lon>-80.065986061506</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.444812310356</lat>
+						<lon>-80.066012883596</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.444889877608</lat>
+						<lon>-80.066098714285</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.445514494849</lat>
+						<lon>-80.066855097227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.445759441202</lat>
+						<lon>-80.067176962309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.446123281024</lat>
+						<lon>-80.06766634525</lon>
+
+							<typ>S</typ>
+                			<stpid>4187</stpid>
+                			<stpnm>Ingram Ave at Mainsgate St</stpnm>
+                			<pdist>3805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.446478449728</lat>
+						<lon>-80.068234973561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.447061787473</lat>
+						<lon>-80.069088144845</lon>
+
+							<typ>S</typ>
+                			<stpid>4189</stpid>
+                			<stpnm>W. Prospect Ave at Berry St (nearside)</stpnm>
+                			<pdist>4902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.447248869082</lat>
+						<lon>-80.069968246033</lon>
+
+							<typ>S</typ>
+                			<stpid>19620</stpid>
+                			<stpnm>W. Prospect past Berry St</stpnm>
+                			<pdist>5238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.447582765294</lat>
+						<lon>-80.071588658069</lon>
+
+							<typ>S</typ>
+                			<stpid>4269</stpid>
+                			<stpnm>W. Prospect Ave opp Kingsland Ave</stpnm>
+                			<pdist>5782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.447758304869</lat>
+						<lon>-80.072645448421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.447599343564</lat>
+						<lon>-80.074114751322</lon>
+
+							<typ>S</typ>
+                			<stpid>4270</stpid>
+                			<stpnm>W. Prospect Ave at #210</stpnm>
+                			<pdist>6492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.4472360161</lat>
+						<lon>-80.07662529896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.447170698595</lat>
+						<lon>-80.07695252846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.446819615917</lat>
+						<lon>-80.077896666033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.446668568154</lat>
+						<lon>-80.078250717623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.446565012623</lat>
+						<lon>-80.078468333334</lon>
+
+							<typ>S</typ>
+                			<stpid>4272</stpid>
+                			<stpnm>W. Prospect Ave opp Allegheny Valley School</stpnm>
+                			<pdist>7763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.446528271168</lat>
+						<lon>-80.078538070768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.446487447304</lat>
+						<lon>-80.078656087965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.446491529692</lat>
+						<lon>-80.078827749342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.44654868309</lat>
+						<lon>-80.079063783735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.446732390112</lat>
+						<lon>-80.079836259932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.446899267352</lat>
+						<lon>-80.080391000001</lon>
+
+							<typ>S</typ>
+                			<stpid>4273</stpid>
+                			<stpnm>W. Prospect Ave past Arbordale St</stpnm>
+                			<pdist>8327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.446952338044</lat>
+						<lon>-80.080568025796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.448242832764</lat>
+						<lon>-80.082383093254</lon>
+
+							<typ>S</typ>
+                			<stpid>4275</stpid>
+                			<stpnm>W. Prospect Ave at Broadhead Fording Rd</stpnm>
+                			<pdist>9049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.448283655561</lat>
+						<lon>-80.082431373016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.449660931863</lat>
+						<lon>-80.080725932532</lon>
+
+							<typ>S</typ>
+                			<stpid>3731</stpid>
+                			<stpnm>Broadhead Fording Rd at Village Rd #2</stpnm>
+                			<pdist>9371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.451398864723</lat>
+						<lon>-80.078610167974</lon>
+
+							<typ>S</typ>
+                			<stpid>3732</stpid>
+                			<stpnm>Broadhead Fording Rd at Village Rd #1</stpnm>
+                			<pdist>9875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.451917288055</lat>
+						<lon>-80.077998624318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.452043831726</lat>
+						<lon>-80.07791279363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.452215277609</lat>
+						<lon>-80.077837691777</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.452362230876</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.452537757967</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.452652054431</lat>
+						<lon>-80.077832327359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.452839826772</lat>
+						<lon>-80.077891335958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.453019434606</lat>
+						<lon>-80.07791279363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.453133730251</lat>
+						<lon>-80.07788597154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.453260271631</lat>
+						<lon>-80.077800140851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.453382730804</lat>
+						<lon>-80.077660665982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.453435796377</lat>
+						<lon>-80.077601657384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.453509271715</lat>
+						<lon>-80.077676759236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.454460361904</lat>
+						<lon>-80.078803287023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.454897124133</lat>
+						<lon>-80.079232440465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.455358374619</lat>
+						<lon>-80.079688415998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.45568900355</lat>
+						<lon>-80.080004916661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.455913503749</lat>
+						<lon>-80.080139027112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.456125757792</lat>
+						<lon>-80.080187306874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.456326345551</lat>
+						<lon>-80.080154499999</lon>
+
+							<typ>S</typ>
+                			<stpid>3740</stpid>
+                			<stpnm>Windgap Ave past Summerdale St</stpnm>
+                			<pdist>12833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.457081472438</lat>
+						<lon>-80.079811177245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.457669241006</lat>
+						<lon>-80.079537591926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.457791692143</lat>
+						<lon>-80.079451761237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.457963123361</lat>
+						<lon>-80.07928009986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.458189028347</lat>
+						<lon>-80.079051844576</lon>
+
+							<typ>S</typ>
+                			<stpid>3741</stpid>
+                			<stpnm>Windgap Ave at Belhurst Ave</stpnm>
+                			<pdist>13571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.458523725005</lat>
+						<lon>-80.078703157404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.45894821593</lat>
+						<lon>-80.078150622347</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.459239021849</lat>
+						<lon>-80.077759898147</lon>
+
+							<typ>S</typ>
+                			<stpid>3742</stpid>
+                			<stpnm>Windgap Ave ar Chartiers Ave</stpnm>
+                			<pdist>14091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.459292082797</lat>
+						<lon>-80.077674067458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.458953308336</lat>
+						<lon>-80.077244914016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.458753308154</lat>
+						<lon>-80.076976693114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.458679838549</lat>
+						<lon>-80.076826489409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.45859217835</lat>
+						<lon>-80.076625677911</lon>
+
+							<typ>S</typ>
+                			<stpid>4119</stpid>
+                			<stpnm>Chartiers Ave at Merle St</stpnm>
+                			<pdist>14514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.458103596781</lat>
+						<lon>-80.075586635584</lon>
+
+							<typ>S</typ>
+                			<stpid>4120</stpid>
+                			<stpnm>Chartiers Ave at Eyre Way</stpnm>
+                			<pdist>14861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.45763012001</lat>
+						<lon>-80.074588853831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.457560730893</lat>
+						<lon>-80.074374277109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.457544404031</lat>
+						<lon>-80.074170429224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.457572933446</lat>
+						<lon>-80.073631333332</lon>
+
+							<typ>S</typ>
+                			<stpid>4121</stpid>
+                			<stpnm>Chartiers Ave at Middletown Rd</stpnm>
+                			<pdist>15454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.457589260301</lat>
+						<lon>-80.073373841267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.457609668863</lat>
+						<lon>-80.073175357799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.457683139638</lat>
+						<lon>-80.0728481283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.458133103388</lat>
+						<lon>-80.070876855818</lon>
+
+							<typ>S</typ>
+                			<stpid>4122</stpid>
+                			<stpnm>Chartiers Ave at Krupp St</stpnm>
+                			<pdist>16239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.458476933395</lat>
+						<lon>-80.069305499999</lon>
+
+							<typ>S</typ>
+                			<stpid>4123</stpid>
+                			<stpnm>Chartiers Ave at Oltman St</stpnm>
+                			<pdist>16716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.458432035128</lat>
+						<lon>-80.069149931876</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.45785220144</lat>
+						<lon>-80.067462844576</lon>
+
+							<typ>S</typ>
+                			<stpid>4124</stpid>
+                			<stpnm>Chartiers Ave opp Oetting St</stpnm>
+                			<pdist>17261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.457790975954</lat>
+						<lon>-80.067296547617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.457578727171</lat>
+						<lon>-80.067103428568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.457182799765</lat>
+						<lon>-80.066808385576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.4569419768</lat>
+						<lon>-80.066652817453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.456705234738</lat>
+						<lon>-80.066631359781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.45635420187</lat>
+						<lon>-80.066625995363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.456137866747</lat>
+						<lon>-80.066593808855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.455737849024</lat>
+						<lon>-80.066518707003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.455443956935</lat>
+						<lon>-80.066395325388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.455072508149</lat>
+						<lon>-80.066245121683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.454280621466</lat>
+						<lon>-80.065896434511</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.453994886867</lat>
+						<lon>-80.065740866388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.453921412059</lat>
+						<lon>-80.065638942446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.453888756563</lat>
+						<lon>-80.065542382921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.453847937171</lat>
+						<lon>-80.065097136225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.453052433688</lat>
+						<lon>-80.065513666665</lon>
+
+							<typ>S</typ>
+                			<stpid>17235</stpid>
+                			<stpnm>Jeffers St at #1330</stpnm>
+                			<pdist>19337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.45156093377</lat>
+						<lon>-80.066268999999</lon>
+
+							<typ>S</typ>
+                			<stpid>4151</stpid>
+                			<stpnm>Jeffers St opp Fadette St</stpnm>
+                			<pdist>19792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.451468434018</lat>
+						<lon>-80.066331375661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.451875739142</lat>
+						<lon>-80.067724935185</lon>
+
+							<typ>S</typ>
+                			<stpid>4152</stpid>
+                			<stpnm>Faronia St past Wynette St</stpnm>
+                			<pdist>20302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.452255369674</lat>
+						<lon>-80.069007031095</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.451615695091</lat>
+						<lon>-80.069444048281</lon>
+
+							<typ>S</typ>
+                			<stpid>4153</stpid>
+                			<stpnm>Ladoga St at Middletown rd</stpnm>
+                			<pdist>20935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.451546299762</lat>
+						<lon>-80.069486963625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.450801767142</lat>
+						<lon>-80.066940333332</lon>
+
+							<typ>S</typ>
+                			<stpid>4227</stpid>
+                			<stpnm>Middletown Rd at #3205</stpnm>
+                			<pdist>21705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.450516017749</lat>
+						<lon>-80.066028382267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.450206767174</lat>
+						<lon>-80.065353333333</lon>
+
+							<typ>S</typ>
+                			<stpid>4228</stpid>
+                			<stpnm>Middletown Rd opp Mutual St</stpnm>
+                			<pdist>22199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.449607767207</lat>
+						<lon>-80.064392166668</lon>
+
+							<typ>S</typ>
+                			<stpid>4229</stpid>
+                			<stpnm>Middletown Rd at Tyndall St</stpnm>
+                			<pdist>22550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.448635100593</lat>
+						<lon>-80.062980666667</lon>
+
+							<typ>S</typ>
+                			<stpid>4230</stpid>
+                			<stpnm>Middletown Rd at Berry St</stpnm>
+                			<pdist>23089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.448337095163</lat>
+						<lon>-80.062621250659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.448051335291</lat>
+						<lon>-80.062181368381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.447949277899</lat>
+						<lon>-80.062068715602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.447658433978</lat>
+						<lon>-80.061798166667</lon>
+
+							<typ>S</typ>
+                			<stpid>4231</stpid>
+                			<stpnm>Middletown Rd at #2847</stpnm>
+                			<pdist>23576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.446699937867</lat>
+						<lon>-80.060956531086</lon>
+
+							<typ>S</typ>
+                			<stpid>4232</stpid>
+                			<stpnm>Middletown Rd at Marshall St</stpnm>
+                			<pdist>23991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.445642772791</lat>
+						<lon>-80.060005166667</lon>
+
+							<typ>S</typ>
+                			<stpid>4233</stpid>
+                			<stpnm>Middletown Rd at Hodgson Ave</stpnm>
+                			<pdist>24463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.445512134621</lat>
+						<lon>-80.059876420634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.445005909311</lat>
+						<lon>-80.059200503963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.444523467398</lat>
+						<lon>-80.058416020504</lon>
+
+							<typ>S</typ>
+                			<stpid>19206</stpid>
+                			<stpnm>Middletown Rd past Stratmore St</stpnm>
+                			<pdist>25114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.444466312278</lat>
+						<lon>-80.058281910053</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.444425487163</lat>
+						<lon>-80.058094155422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.444396909567</lat>
+						<lon>-80.057847392193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.444347919375</lat>
+						<lon>-80.057316314808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.444315259227</lat>
+						<lon>-80.056913983456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.444274434019</lat>
+						<lon>-80.056661855808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.44408410084</lat>
+						<lon>-80.055953999999</lon>
+
+							<typ>S</typ>
+                			<stpid>4235</stpid>
+                			<stpnm>Middletown Rd opp Martera Pl</stpnm>
+                			<pdist>25739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.443553369385</lat>
+						<lon>-80.054178377631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.443500296009</lat>
+						<lon>-80.054022809508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.442986358976</lat>
+						<lon>-80.052748740078</lon>
+
+							<typ>S</typ>
+                			<stpid>4236</stpid>
+                			<stpnm>Steuben St at Obey St</stpnm>
+                			<pdist>26703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.442735253274</lat>
+						<lon>-80.052114299616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.442314742566</lat>
+						<lon>-80.050794652781</lon>
+
+							<typ>S</typ>
+                			<stpid>19710</stpid>
+                			<stpnm>Steuben St at Dexter St</stpnm>
+                			<pdist>27355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.442018771667</lat>
+						<lon>-80.049524635583</lon>
+
+							<typ>S</typ>
+                			<stpid>4238</stpid>
+                			<stpnm>Steuben St past Whitewood Dr</stpnm>
+                			<pdist>27672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.441884043786</lat>
+						<lon>-80.048950642854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.441786059702</lat>
+						<lon>-80.048650235444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.441671744758</lat>
+						<lon>-80.048365921289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.44147577583</lat>
+						<lon>-80.048038691789</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.441271640923</lat>
+						<lon>-80.047695369035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.441198152204</lat>
+						<lon>-80.04751834324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.44110833255</lat>
+						<lon>-80.047335953027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.441067505395</lat>
+						<lon>-80.04713746956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.441047091809</lat>
+						<lon>-80.046874613076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.441056689887</lat>
+						<lon>-80.04666762434</lon>
+
+							<typ>S</typ>
+                			<stpid>4239</stpid>
+                			<stpnm>Steuben St at #1129</stpnm>
+                			<pdist>28566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.441101599764</lat>
+						<lon>-80.046490598545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.441154675034</lat>
+						<lon>-80.046324301586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.441244494626</lat>
+						<lon>-80.046136546955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.441370770193</lat>
+						<lon>-80.045947844575</lon>
+
+							<typ>S</typ>
+                			<stpid>19615</stpid>
+                			<stpnm>Steuben St opp Elliott Heights Senior Ctr</stpnm>
+                			<pdist>28782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.442119600945</lat>
+						<lon>-80.045019929233</lon>
+
+							<typ>S</typ>
+                			<stpid>4240</stpid>
+                			<stpnm>Steuben St past Herschel St</stpnm>
+                			<pdist>29157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.442980105298</lat>
+						<lon>-80.044132937829</lon>
+
+							<typ>S</typ>
+                			<stpid>4241</stpid>
+                			<stpnm>Steuben St at Harker St</stpnm>
+                			<pdist>29560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.443037261682</lat>
+						<lon>-80.04404710714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.44311074839</lat>
+						<lon>-80.043859352509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.443159739484</lat>
+						<lon>-80.04358576719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>40.44317606984</lat>
+						<lon>-80.043462385575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>40.44317606984</lat>
+						<lon>-80.043306817452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>40.443167904663</lat>
+						<lon>-80.043151249329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>40.44311074839</lat>
+						<lon>-80.042968859116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>40.443000518298</lat>
+						<lon>-80.042770375649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>40.442801021186</lat>
+						<lon>-80.04251406217</lon>
+
+							<typ>S</typ>
+                			<stpid>4242</stpid>
+                			<stpnm>Steuben St opp Lorenz Ave</stpnm>
+                			<pdist>30082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>40.441673018287</lat>
+						<lon>-80.040931050926</lon>
+
+							<typ>S</typ>
+                			<stpid>4243</stpid>
+                			<stpnm>Steuben St at Elbon St</stpnm>
+                			<pdist>30694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>40.441358651194</lat>
+						<lon>-80.040475075394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>40.441215756575</lat>
+						<lon>-80.040244405418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>40.441158598643</lat>
+						<lon>-80.040067379623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>40.441146350508</lat>
+						<lon>-80.03988498941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>40.441154515931</lat>
+						<lon>-80.039686505943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>40.441162681354</lat>
+						<lon>-80.039418285042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>40.441113688804</lat>
+						<lon>-80.038935487419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>40.441089192516</lat>
+						<lon>-80.038667266518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>40.441085109801</lat>
+						<lon>-80.03844196096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>40.441097357946</lat>
+						<lon>-80.038211290985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>40.441146350508</lat>
+						<lon>-80.037991349846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>40.441211673867</lat>
+						<lon>-80.037744586617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>40.441248418229</lat>
+						<lon>-80.037594382912</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>188</seq>
+						<lat>40.441252500935</lat>
+						<lon>-80.037471001297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>189</seq>
+						<lat>40.441248418229</lat>
+						<lon>-80.037154500633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>190</seq>
+						<lat>40.441236272679</lat>
+						<lon>-80.036784090611</lon>
+
+							<typ>S</typ>
+                			<stpid>4111</stpid>
+                			<stpnm>Steuben St at #211</stpnm>
+                			<pdist>31929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>191</seq>
+						<lat>40.441232189972</lat>
+						<lon>-80.036574878307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>192</seq>
+						<lat>40.441285265139</lat>
+						<lon>-80.03637639484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>193</seq>
+						<lat>40.441644023507</lat>
+						<lon>-80.035355282409</lon>
+
+							<typ>S</typ>
+                			<stpid>4112</stpid>
+                			<stpnm>Steuben St at Wabash St</stpnm>
+                			<pdist>32320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>194</seq>
+						<lat>40.441933524995</lat>
+						<lon>-80.034603011244</lon>
+
+							<typ>S</typ>
+                			<stpid>4113</stpid>
+                			<stpnm>Steuben St at Alexander St</stpnm>
+                			<pdist>32563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>195</seq>
+						<lat>40.442476189179</lat>
+						<lon>-80.033100771166</lon>
+
+							<typ>S</typ>
+                			<stpid>4114</stpid>
+                			<stpnm>Steuben St past Sanctus St</stpnm>
+                			<pdist>33033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>196</seq>
+						<lat>40.442721684558</lat>
+						<lon>-80.032385587692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>197</seq>
+						<lat>40.44285641076</lat>
+						<lon>-80.031999349594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>198</seq>
+						<lat>40.44300746709</lat>
+						<lon>-80.031709671021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>199</seq>
+						<lat>40.443374899989</lat>
+						<lon>-80.030931830406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>200</seq>
+						<lat>40.44333815679</lat>
+						<lon>-80.03081381321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>201</seq>
+						<lat>40.443223844485</lat>
+						<lon>-80.030770897865</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>202</seq>
+						<lat>40.443015632288</lat>
+						<lon>-80.030786991119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>203</seq>
+						<lat>40.442848245544</lat>
+						<lon>-80.030765533447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>204</seq>
+						<lat>40.442746180251</lat>
+						<lon>-80.030631422997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>205</seq>
+						<lat>40.442742097636</lat>
+						<lon>-80.030465126038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>206</seq>
+						<lat>40.442864575976</lat>
+						<lon>-80.030153989792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>207</seq>
+						<lat>40.442913567249</lat>
+						<lon>-80.029810667038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>208</seq>
+						<lat>40.442954393283</lat>
+						<lon>-80.02950489521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>209</seq>
+						<lat>40.443011549689</lat>
+						<lon>-80.029199123383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>210</seq>
+						<lat>40.443105449393</lat>
+						<lon>-80.028952360153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>211</seq>
+						<lat>40.443313661312</lat>
+						<lon>-80.028582215309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>212</seq>
+						<lat>40.443542285422</lat>
+						<lon>-80.028153061867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>213</seq>
+						<lat>40.443644349505</lat>
+						<lon>-80.027874112129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>214</seq>
+						<lat>40.443648432066</lat>
+						<lon>-80.027702450752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>215</seq>
+						<lat>40.443672927421</lat>
+						<lon>-80.027364492416</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>216</seq>
+						<lat>40.443468799186</lat>
+						<lon>-80.026608109474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>217</seq>
+						<lat>40.443252422579</lat>
+						<lon>-80.025942921638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>218</seq>
+						<lat>40.443036045277</lat>
+						<lon>-80.025304555893</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>219</seq>
+						<lat>40.442733932406</lat>
+						<lon>-80.02468764782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>220</seq>
+						<lat>40.441880660343</lat>
+						<lon>-80.022241473198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>221</seq>
+						<lat>40.441634426511</lat>
+						<lon>-80.02151177116201</lon>
+
+							<typ>S</typ>
+                			<stpid>2258</stpid>
+                			<stpnm>W. Carson St opp Gateway View Plaza</stpnm>
+                			<pdist>36790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>222</seq>
+						<lat>40.44095669783</lat>
+						<lon>-80.019553758581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>223</seq>
+						<lat>40.440662741097</lat>
+						<lon>-80.018877841909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>224</seq>
+						<lat>40.439897763377</lat>
+						<lon>-80.017465353175</lon>
+
+							<typ>S</typ>
+                			<stpid>2260</stpid>
+                			<stpnm>W. Carson St at Duquesne Incline</stpnm>
+                			<pdist>38101.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>225</seq>
+						<lat>40.439455512187</lat>
+						<lon>-80.016576647758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>226</seq>
+						<lat>40.439226874178</lat>
+						<lon>-80.016131401062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>227</seq>
+						<lat>40.439059478</lat>
+						<lon>-80.015943646431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>228</seq>
+						<lat>40.438781844396</lat>
+						<lon>-80.015423297882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>229</seq>
+						<lat>40.438532789745</lat>
+						<lon>-80.014999508858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>230</seq>
+						<lat>40.438067340877</lat>
+						<lon>-80.014178752899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>231</seq>
+						<lat>40.437973434135</lat>
+						<lon>-80.014007091522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>232</seq>
+						<lat>40.437928522169</lat>
+						<lon>-80.013846158981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>233</seq>
+						<lat>40.437895858902</lat>
+						<lon>-80.013647675514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>234</seq>
+						<lat>40.437908107629</lat>
+						<lon>-80.013502836227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>235</seq>
+						<lat>40.43794077089</lat>
+						<lon>-80.013347268105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>236</seq>
+						<lat>40.438030594776</lat>
+						<lon>-80.013079047203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>237</seq>
+						<lat>40.438169413273</lat>
+						<lon>-80.012671351433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>238</seq>
+						<lat>40.438324563018</lat>
+						<lon>-80.012370944023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>239</seq>
+						<lat>40.438524624004</lat>
+						<lon>-80.011990070343</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>240</seq>
+						<lat>40.438843087201</lat>
+						<lon>-80.011367797852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>241</seq>
+						<lat>40.439108472047</lat>
+						<lon>-80.010885000229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>242</seq>
+						<lat>40.439553499667</lat>
+						<lon>-80.010085701942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>243</seq>
+						<lat>40.43977805377</lat>
+						<lon>-80.00968337059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>244</seq>
+						<lat>40.439978110431</lat>
+						<lon>-80.009329319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>245</seq>
+						<lat>40.440059766039</lat>
+						<lon>-80.009195208549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>246</seq>
+						<lat>40.44016183541</lat>
+						<lon>-80.009071826935</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>247</seq>
+						<lat>40.440288401215</lat>
+						<lon>-80.008964538574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>248</seq>
+						<lat>40.440410884026</lat>
+						<lon>-80.008905529976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>249</seq>
+						<lat>40.440521118364</lat>
+						<lon>-80.008862614632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>250</seq>
+						<lat>40.440655848977</lat>
+						<lon>-80.008851885796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>251</seq>
+						<lat>40.440855903025</lat>
+						<lon>-80.008803606033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>252</seq>
+						<lat>40.441080452777</lat>
+						<lon>-80.008798241615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>253</seq>
+						<lat>40.44133358069</lat>
+						<lon>-80.008766055107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>254</seq>
+						<lat>40.441484640442</lat>
+						<lon>-80.008739233017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>255</seq>
+						<lat>40.44198680961</lat>
+						<lon>-80.008658766747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>256</seq>
+						<lat>40.44209295871</lat>
+						<lon>-80.008615851402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>257</seq>
+						<lat>40.442260347335</lat>
+						<lon>-80.008535385132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>258</seq>
+						<lat>40.442419570274</lat>
+						<lon>-80.008412003517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>259</seq>
+						<lat>40.442488975027</lat>
+						<lon>-80.008320808411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>260</seq>
+						<lat>40.442546131829</lat>
+						<lon>-80.00821352005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>261</seq>
+						<lat>40.442619619073</lat>
+						<lon>-80.008041858673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>262</seq>
+						<lat>40.442672693145</lat>
+						<lon>-80.00788629055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>263</seq>
+						<lat>40.442733932406</lat>
+						<lon>-80.007682442665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>264</seq>
+						<lat>40.442933980269</lat>
+						<lon>-80.006904602051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>265</seq>
+						<lat>40.443093201613</lat>
+						<lon>-80.006271600723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>266</seq>
+						<lat>40.443134027538</lat>
+						<lon>-80.00608921051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>267</seq>
+						<lat>40.443154440491</lat>
+						<lon>-80.005837082863</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>268</seq>
+						<lat>40.443423890891</lat>
+						<lon>-80.004699826241</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>269</seq>
+						<lat>40.442921732458</lat>
+						<lon>-80.004458427429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>270</seq>
+						<lat>40.442368607898</lat>
+						<lon>-80.004215643519</lon>
+
+							<typ>S</typ>
+                			<stpid>1502</stpid>
+                			<stpnm>Stanwix St at Penn Ave (Gateway #2)</stpnm>
+                			<pdist>43312.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>

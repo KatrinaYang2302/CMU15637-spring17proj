@@ -1,0 +1,3458 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4541</pid>
+				<ln>44641.0</ln>
+				<rtdir>OUTBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.44088273536</lat>
+						<lon>-80.00084666204202</lon>
+
+							<typ>S</typ>
+                			<stpid>20690</stpid>
+                			<stpnm>Fifth Ave at Wood St</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.440076181611</lat>
+						<lon>-79.99872384193202</lon>
+
+							<typ>S</typ>
+                			<stpid>20691</stpid>
+                			<stpnm>5TH AVE + SMITHFIELD ST</stpnm>
+                			<pdist>518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.439031583534</lat>
+						<lon>-79.99599604232901</lon>
+
+							<typ>S</typ>
+                			<stpid>20293</stpid>
+                			<stpnm>5TH AVE + ROSS ST</stpnm>
+                			<pdist>1427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.438936992727776</lat>
+						<lon>-79.99568223953247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.438928827035014</lat>
+						<lon>-79.99553203582764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.43891657849401</lat>
+						<lon>-79.99521553516388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.43890841279878</lat>
+						<lon>-79.99480247497559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.43879817581588</lat>
+						<lon>-79.99481320381165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.438340894549505</lat>
+						<lon>-79.99454498291016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.43798159994397</lat>
+						<lon>-79.99434113502502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.437999108078</lat>
+						<lon>-79.99344112962899</lon>
+
+							<typ>S</typ>
+                			<stpid>3241</stpid>
+                			<stpnm>Forbes Ave at Boyd St</stpnm>
+                			<pdist>2263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.437917437913</lat>
+						<lon>-79.99134648611101</lon>
+
+							<typ>S</typ>
+                			<stpid>3242</stpid>
+                			<stpnm>Forbes Ave at McAnulty Dr</stpnm>
+                			<pdist>2923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.437810426188</lat>
+						<lon>-79.98874681680002</lon>
+
+							<typ>S</typ>
+                			<stpid>3243</stpid>
+                			<stpnm>Forbes Ave at Magee St</stpnm>
+                			<pdist>3682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.437725178342</lat>
+						<lon>-79.98679457076702</lon>
+
+							<typ>S</typ>
+                			<stpid>3244</stpid>
+                			<stpnm>Forbes Ave at Stevenson St</stpnm>
+                			<pdist>4199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.437646432071</lat>
+						<lon>-79.98534843783</lon>
+
+							<typ>S</typ>
+                			<stpid>3245</stpid>
+                			<stpnm>Forbes Ave at Pride St</stpnm>
+                			<pdist>4571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.437541934523</lat>
+						<lon>-79.98294066666699</lon>
+
+							<typ>S</typ>
+                			<stpid>3246</stpid>
+                			<stpnm>Forbes Ave at Van Braam St</stpnm>
+                			<pdist>5252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.437488434527</lat>
+						<lon>-79.98175816666702</lon>
+
+							<typ>S</typ>
+                			<stpid>3247</stpid>
+                			<stpnm>Forbes Ave at Miltenberger St</stpnm>
+                			<pdist>5569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.43739501512</lat>
+						<lon>-79.979675333334</lon>
+
+							<typ>S</typ>
+                			<stpid>3248</stpid>
+                			<stpnm>Forbes Ave at Gist St</stpnm>
+                			<pdist>6150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.437313356274</lat>
+						<lon>-79.97768513424501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.437740517434</lat>
+						<lon>-79.97766484457702</lon>
+
+							<typ>S</typ>
+                			<stpid>3249</stpid>
+                			<stpnm>Jumonville St at Watson St</stpnm>
+                			<pdist>6821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.438185923097</lat>
+						<lon>-79.97765330292202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.438112431006</lat>
+						<lon>-79.97598496891499</lon>
+
+							<typ>S</typ>
+                			<stpid>3250</stpid>
+                			<stpnm>Fifth Ave at Seneca St</stpnm>
+                			<pdist>7433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.43797818236</lat>
+						<lon>-79.97454894907298</lon>
+
+							<typ>S</typ>
+                			<stpid>3251</stpid>
+                			<stpnm>5th Ave at Moulrie St</stpnm>
+                			<pdist>7828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.437889166532</lat>
+						<lon>-79.97340458862999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.437725849943</lat>
+						<lon>-79.97286278240898</lon>
+
+							<typ>S</typ>
+                			<stpid>3252</stpid>
+                			<stpnm>Fifth Ave at Birmingham Bridge</stpnm>
+                			<pdist>8307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.437214433778</lat>
+						<lon>-79.97129970899601</lon>
+
+							<typ>S</typ>
+                			<stpid>2556</stpid>
+                			<stpnm>5th Ave at #2358</stpnm>
+                			<pdist>8785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.43686293456</lat>
+						<lon>-79.97022249999998</lon>
+
+							<typ>S</typ>
+                			<stpid>2557</stpid>
+                			<stpnm>5th Ave at #2410</stpnm>
+                			<pdist>9115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.436434221124</lat>
+						<lon>-79.96891894641897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.436409723131</lat>
+						<lon>-79.96875801387802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.436405101253</lat>
+						<lon>-79.968582166668</lon>
+
+							<typ>S</typ>
+                			<stpid>2558</stpid>
+                			<stpnm>Fifth Ave opp Brenham St</stpnm>
+                			<pdist>9604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.436421433251</lat>
+						<lon>-79.96804036044699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.436425516249</lat>
+						<lon>-79.966962112423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.436478595211</lat>
+						<lon>-79.96651150130901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.436580670019</lat>
+						<lon>-79.96624328040701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.436727657471</lat>
+						<lon>-79.96599651717798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.436850146768</lat>
+						<lon>-79.96584631347298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.436988967702</lat>
+						<lon>-79.96572829627598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.437119622437</lat>
+						<lon>-79.965658558842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.437262131201</lat>
+						<lon>-79.96556143849602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.437429531855</lat>
+						<lon>-79.96536295502898</lon>
+
+							<typ>S</typ>
+                			<stpid>19850</stpid>
+                			<stpnm>5th Ave at Maurice St</stpnm>
+                			<pdist>10709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.437552019874</lat>
+						<lon>-79.96516447156199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.437645927204</lat>
+						<lon>-79.96500353902098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.437735751483</lat>
+						<lon>-79.96471922486603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.437787848263</lat>
+						<lon>-79.96415486441902</lon>
+
+							<typ>S</typ>
+                			<stpid>2561</stpid>
+                			<stpnm>Fifth Ave at Craft Ave</stpnm>
+                			<pdist>11042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.437836843236</lat>
+						<lon>-79.96390810118999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.437951164701</lat>
+						<lon>-79.963613058198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.438171641264</lat>
+						<lon>-79.96328582869802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.438318625238</lat>
+						<lon>-79.963103438485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.438592177888</lat>
+						<lon>-79.96274402247701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.439010601112</lat>
+						<lon>-79.96218866666698</lon>
+
+							<typ>S</typ>
+                			<stpid>2562</stpid>
+                			<stpnm>Fifth Ave at Halket St</stpnm>
+                			<pdist>11757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.440680195665</lat>
+						<lon>-79.95990505357298</lon>
+
+							<typ>S</typ>
+                			<stpid>17671</stpid>
+                			<stpnm>Fifth Ave past McKee Pl</stpnm>
+                			<pdist>12641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.441172012068</lat>
+						<lon>-79.95923953373097</lon>
+
+							<typ>S</typ>
+                			<stpid>2564</stpid>
+                			<stpnm>5th Ave at Meyran Ave</stpnm>
+                			<pdist>12870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.442085267612</lat>
+						<lon>-79.957992499998</lon>
+
+							<typ>S</typ>
+                			<stpid>2565</stpid>
+                			<stpnm>Fifth Ave at Oakland Ave</stpnm>
+                			<pdist>13391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.442990015366</lat>
+						<lon>-79.95674745767201</lon>
+
+							<typ>S</typ>
+                			<stpid>2566</stpid>
+                			<stpnm>Fifth Ave opp Thackeray Ave</stpnm>
+                			<pdist>13871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.444335993965</lat>
+						<lon>-79.954881824734</lon>
+
+							<typ>S</typ>
+                			<stpid>2567</stpid>
+                			<stpnm>Fifth Ave at Bigelow Blvd</stpnm>
+                			<pdist>14547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.444983369978</lat>
+						<lon>-79.953932269848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.445546749707</lat>
+						<lon>-79.953202708996</lon>
+
+							<typ>S</typ>
+                			<stpid>3253</stpid>
+                			<stpnm>Fifth Ave opp Tennyson Ave</stpnm>
+                			<pdist>15224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.44630592845</lat>
+						<lon>-79.952111093253</lon>
+
+							<typ>S</typ>
+                			<stpid>3254</stpid>
+                			<stpnm>Fifth Ave at Bellefield Ave</stpnm>
+                			<pdist>15662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.446623373397</lat>
+						<lon>-79.951609216288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.446721350429</lat>
+						<lon>-79.951314173296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.446770338891</lat>
+						<lon>-79.950579248026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.446835656786</lat>
+						<lon>-79.949640474871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.446913221703</lat>
+						<lon>-79.948980651453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.447374526992</lat>
+						<lon>-79.94917913492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.447762347572</lat>
+						<lon>-79.949420533732</lon>
+
+							<typ>S</typ>
+                			<stpid>2571</stpid>
+                			<stpnm>Craig St at Park Plaza</stpnm>
+                			<pdist>16923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.449607534262</lat>
+						<lon>-79.95057008730203</lon>
+
+							<typ>S</typ>
+                			<stpid>2572</stpid>
+                			<stpnm>Craig St at Bayard St</stpnm>
+                			<pdist>17701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.451872385571</lat>
+						<lon>-79.95195935317298</lon>
+
+							<typ>S</typ>
+                			<stpid>2573</stpid>
+                			<stpnm>Craig St at Centre Ave</stpnm>
+                			<pdist>18517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.452173174704</lat>
+						<lon>-79.95100155357102</lon>
+
+							<typ>S</typ>
+                			<stpid>2574</stpid>
+                			<stpnm>Centre Ave at Melwood Ave</stpnm>
+                			<pdist>18827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.452535756554</lat>
+						<lon>-79.94985261574101</lon>
+
+							<typ>S</typ>
+                			<stpid>2575</stpid>
+                			<stpnm>Centre Ave at Neville St</stpnm>
+                			<pdist>19178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.452783201296</lat>
+						<lon>-79.94906657475002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.453252630247</lat>
+						<lon>-79.94732313889</lon>
+
+							<typ>S</typ>
+                			<stpid>8198</stpid>
+                			<stpnm>Centre Ave opp Millvale Ave</stpnm>
+                			<pdist>20005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.454097103115</lat>
+						<lon>-79.94454168915297</lon>
+
+							<typ>S</typ>
+                			<stpid>8199</stpid>
+                			<stpnm>Centre Ave at Morewood Ave</stpnm>
+                			<pdist>20764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.45498568797</lat>
+						<lon>-79.94152251388903</lon>
+
+							<typ>S</typ>
+                			<stpid>8201</stpid>
+                			<stpnm>Centre Ave opp Cypress St</stpnm>
+                			<pdist>21661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.455500688037</lat>
+						<lon>-79.939839104496</lon>
+
+							<typ>S</typ>
+                			<stpid>8202</stpid>
+                			<stpnm>Centre Ave at Shadyside Hospital</stpnm>
+                			<pdist>22181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.455849760816</lat>
+						<lon>-79.93862242063403</lon>
+
+							<typ>S</typ>
+                			<stpid>8203</stpid>
+                			<stpnm>Centre Ave at Aiken Ave</stpnm>
+                			<pdist>22520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.456481021498</lat>
+						<lon>-79.93651613822601</lon>
+
+							<typ>S</typ>
+                			<stpid>8204</stpid>
+                			<stpnm>Centre Ave at Graham St</stpnm>
+                			<pdist>23154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.457026769981</lat>
+						<lon>-79.93468851124203</lon>
+
+							<typ>S</typ>
+                			<stpid>8205</stpid>
+                			<stpnm>Centre Ave at Negley Ave</stpnm>
+                			<pdist>23725.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.457233818562</lat>
+						<lon>-79.933969974518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.457315453208</lat>
+						<lon>-79.934012889862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.457617500534</lat>
+						<lon>-79.934141635895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.4576909713</lat>
+						<lon>-79.934120178223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.457833830893</lat>
+						<lon>-79.93407189846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.457972608492</lat>
+						<lon>-79.933980703354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.458263705021</lat>
+						<lon>-79.933821595899</lon>
+
+							<typ>S</typ>
+                			<stpid>8206</stpid>
+                			<stpnm>Centre Ave at Baum Blvd</stpnm>
+                			<pdist>24325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.460559766618</lat>
+						<lon>-79.932419593254</lon>
+
+							<typ>S</typ>
+                			<stpid>8207</stpid>
+                			<stpnm>Negley Ave at Friendship Ave</stpnm>
+                			<pdist>25266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.461936270313</lat>
+						<lon>-79.931569697751</lon>
+
+							<typ>S</typ>
+                			<stpid>8208</stpid>
+                			<stpnm>Negley Ave opp Coral St</stpnm>
+                			<pdist>25811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.463411168093</lat>
+						<lon>-79.930680564813</lon>
+
+							<typ>S</typ>
+                			<stpid>8209</stpid>
+                			<stpnm>Negley Ave at Penn Ave</stpnm>
+                			<pdist>26337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.462775483559</lat>
+						<lon>-79.928895160713</lon>
+
+							<typ>S</typ>
+                			<stpid>21607</stpid>
+                			<stpnm>Penn Ave opp N. St. Clair St</stpnm>
+                			<pdist>26908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.462641899445</lat>
+						<lon>-79.928455352783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.462548027037</lat>
+						<lon>-79.928133487701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.46242150315</lat>
+						<lon>-79.927720427513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.462153770328</lat>
+						<lon>-79.927000313492</lon>
+
+							<typ>S</typ>
+                			<stpid>9128</stpid>
+                			<stpnm>Penn Ave at Beatty St</stpnm>
+                			<pdist>27537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.461761433221</lat>
+						<lon>-79.92592004232898</lon>
+
+							<typ>S</typ>
+                			<stpid>9129</stpid>
+                			<stpnm>Penn Ave at Whitfield St</stpnm>
+                			<pdist>27899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.461429599904</lat>
+						<lon>-79.92496483333503</lon>
+
+							<typ>S</typ>
+                			<stpid>3133</stpid>
+                			<stpnm>Penn Ave at Highland Ave</stpnm>
+                			<pdist>28208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.461080255601</lat>
+						<lon>-79.92396013558101</lon>
+
+							<typ>S</typ>
+                			<stpid>18975</stpid>
+                			<stpnm>Penn Ave at Sheridan Sq</stpnm>
+                			<pdist>28525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.460351862483</lat>
+						<lon>-79.92193846296101</lon>
+
+							<typ>S</typ>
+                			<stpid>19574</stpid>
+                			<stpnm>Penn Ave at Eastside III Dr</stpnm>
+                			<pdist>29301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.46021750042</lat>
+						<lon>-79.92164254188503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.460046074954</lat>
+						<lon>-79.92128849029501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.459984851468</lat>
+						<lon>-79.92114901542698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.4598828122</lat>
+						<lon>-79.92098808288597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.459707304296</lat>
+						<lon>-79.92075741291</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.459421592774</lat>
+						<lon>-79.92039263248398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.459199365493</lat>
+						<lon>-79.92009733333299</lon>
+
+							<typ>S</typ>
+                			<stpid>8276</stpid>
+                			<stpnm>Penn Ave past Shady Ave</stpnm>
+                			<pdist>29765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.459080998544</lat>
+						<lon>-79.91996322288202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.459015692551</lat>
+						<lon>-79.91975401057903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.458219989936</lat>
+						<lon>-79.91857272552699</lon>
+
+							<typ>S</typ>
+                			<stpid>8277</stpid>
+                			<stpnm>Penn Ave opp Village of Eastside Shpg Ctr</stpnm>
+                			<pdist>30238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.457587933445</lat>
+						<lon>-79.917682999999</lon>
+
+							<typ>S</typ>
+                			<stpid>22017</stpid>
+                			<stpnm>Penn Ave Opposite East Liberty Blvd</stpnm>
+                			<pdist>30658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.456158097123</lat>
+						<lon>-79.915559208994</lon>
+
+							<typ>S</typ>
+                			<stpid>8279</stpid>
+                			<stpnm>Penn Ave opp Bakery Square</stpnm>
+                			<pdist>31438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.454361927924</lat>
+						<lon>-79.912942375661</lon>
+
+							<typ>S</typ>
+                			<stpid>8280</stpid>
+                			<stpnm>Penn Ave at Fifth Ave</stpnm>
+                			<pdist>32436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.453982309293</lat>
+						<lon>-79.912395205022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.453194491742</lat>
+						<lon>-79.911279406072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.452643023645</lat>
+						<lon>-79.910441722881</lon>
+
+							<typ>S</typ>
+                			<stpid>8281</stpid>
+                			<stpnm>Penn Ave at Linden Ave</stpnm>
+                			<pdist>33366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.452187911929</lat>
+						<lon>-79.909776638236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.451938906948</lat>
+						<lon>-79.909347484794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.451751132091</lat>
+						<lon>-79.908955882277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.451444976306</lat>
+						<lon>-79.908237050262</lon>
+
+							<typ>S</typ>
+                			<stpid>20763</stpid>
+                			<stpnm>Penn Ave at Dallas Ave</stpnm>
+                			<pdist>34041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.45074051835</lat>
+						<lon>-79.90612508201201</lon>
+
+							<typ>S</typ>
+                			<stpid>7692</stpid>
+                			<stpnm>Penn Ave opp Murtland St</stpnm>
+                			<pdist>34752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.449983276458</lat>
+						<lon>-79.90388637566002</lon>
+
+							<typ>S</typ>
+                			<stpid>7693</stpid>
+                			<stpnm>Penn Ave at Lang Ave</stpnm>
+                			<pdist>35409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.449207267228</lat>
+						<lon>-79.90154266666502</lon>
+
+							<typ>S</typ>
+                			<stpid>7694</stpid>
+                			<stpnm>Penn Ave at Homewood Ave</stpnm>
+                			<pdist>36141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.44861834093</lat>
+						<lon>-79.89973817791201</lon>
+
+							<typ>S</typ>
+                			<stpid>7695</stpid>
+                			<stpnm>Penn Ave at Lexington St</stpnm>
+                			<pdist>36673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.448122273561</lat>
+						<lon>-79.89826306018801</lon>
+
+							<typ>S</typ>
+                			<stpid>18542</stpid>
+                			<stpnm>Penn Ave past Carnegie Pl</stpnm>
+                			<pdist>37224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.447155681048</lat>
+						<lon>-79.89534443782901</lon>
+
+							<typ>S</typ>
+                			<stpid>7697</stpid>
+                			<stpnm>Penn Ave at Braddock Ave</stpnm>
+                			<pdist>38027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.44674726544</lat>
+						<lon>-79.894080240081</lon>
+
+							<typ>S</typ>
+                			<stpid>7698</stpid>
+                			<stpnm>Penn Ave at East End Ave</stpnm>
+                			<pdist>38412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.445849137648</lat>
+						<lon>-79.891376573394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.445526100761</lat>
+						<lon>-79.891540499999</lon>
+
+							<typ>S</typ>
+                			<stpid>8283</stpid>
+                			<stpnm>Trenton Ave past Penn</stpnm>
+                			<pdist>39371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.445060696134</lat>
+						<lon>-79.891780072747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.44430135164</lat>
+						<lon>-79.892091208993</lon>
+
+							<typ>S</typ>
+                			<stpid>8284</stpid>
+                			<stpnm>Trenton Ave at South Ave</stpnm>
+                			<pdist>39826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.444219701183</lat>
+						<lon>-79.892101937829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.443714100858</lat>
+						<lon>-79.890609666666</lon>
+
+							<typ>S</typ>
+                			<stpid>7329</stpid>
+                			<stpnm>South Ave at West St</stpnm>
+                			<pdist>40311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.442899450303</lat>
+						<lon>-79.888255084655</lon>
+
+							<typ>S</typ>
+                			<stpid>7330</stpid>
+                			<stpnm>South Ave at Pitt St</stpnm>
+                			<pdist>41015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.442649715114</lat>
+						<lon>-79.887481977515</lon>
+
+							<typ>S</typ>
+                			<stpid>20013</stpid>
+                			<stpnm>South Ave at Pennwood Ave</stpnm>
+                			<pdist>41266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.442407322369</lat>
+						<lon>-79.886736273766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.442725767174</lat>
+						<lon>-79.886575341225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.442770675936</lat>
+						<lon>-79.886811375618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.442815584667</lat>
+						<lon>-79.886881113052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.442987054093</lat>
+						<lon>-79.886918663979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.443258814492</lat>
+						<lon>-79.88698229960198</lon>
+
+							<typ>S</typ>
+                			<stpid>16014</stpid>
+                			<stpnm>Hay St Ramp Inbound Shelter</stpnm>
+                			<pdist>41918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.443606583819</lat>
+						<lon>-79.88707691398298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.443912775312</lat>
+						<lon>-79.88717749682098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.444377163081</lat>
+						<lon>-79.88732501831703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.444724176023</lat>
+						<lon>-79.88747253981302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.444964022156</lat>
+						<lon>-79.887593239218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.445321238215</lat>
+						<lon>-79.88777428832702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.445642731045</lat>
+						<lon>-79.88794863191299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.445862161776</lat>
+						<lon>-79.88807603684097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.446096900834</lat>
+						<lon>-79.888210147292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.446499209682</lat>
+						<lon>-79.88844805952203</lon>
+
+							<typ>S</typ>
+                			<stpid>16118</stpid>
+                			<stpnm>Wilkinsburg Station stop D</stpnm>
+                			<pdist>43120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.446653129063</lat>
+						<lon>-79.88858163356798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.44674702368</lat>
+						<lon>-79.88864064216602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.446853165263</lat>
+						<lon>-79.88871574401901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.446983800827</lat>
+						<lon>-79.88880157470703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.447061365573</lat>
+						<lon>-79.88886058330502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.447228741826</lat>
+						<lon>-79.88900542259199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.447404282325</lat>
+						<lon>-79.88916099071503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.447632892522</lat>
+						<lon>-79.88939166068997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.447955394869</lat>
+						<lon>-79.88970279693604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.448208496893</lat>
+						<lon>-79.88995492458298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.44854732553</lat>
+						<lon>-79.890319705009</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.448800425325</lat>
+						<lon>-79.89060938358301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.449037195238</lat>
+						<lon>-79.89089906215702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.449257635441</lat>
+						<lon>-79.89117264747597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.449539307982</lat>
+						<lon>-79.891548156738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.449653609547</lat>
+						<lon>-79.89173054695101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.449735253402</lat>
+						<lon>-79.89178419113199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.449901185011</lat>
+						<lon>-79.89193733333298</lon>
+
+							<typ>S</typ>
+                			<stpid>19988</stpid>
+                			<stpnm>LAYOVER BRUSHTON TERMINAL</stpnm>
+                			<pdist>44641.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4687</pid>
+				<ln>49061.0</ln>
+				<rtdir>INBOUND</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>40.449901185011</lat>
+						<lon>-79.89193733333298</lon>
+
+							<typ>S</typ>
+                			<stpid>19988</stpid>
+                			<stpnm>LAYOVER BRUSHTON TERMINAL</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>40.449841390265</lat>
+						<lon>-79.89201486110699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>40.449629116371</lat>
+						<lon>-79.89169299602497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>40.449486239333</lat>
+						<lon>-79.89148378372198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>40.449269882098</lat>
+						<lon>-79.89118874073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>40.44914741543</lat>
+						<lon>-79.891038537025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>40.4488902347</lat>
+						<lon>-79.890716671944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>40.448628970729</lat>
+						<lon>-79.89041090011597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>40.448355458921</lat>
+						<lon>-79.89009976387001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>40.448094192871</lat>
+						<lon>-79.88983690738701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>40.447902324969</lat>
+						<lon>-79.88964378833799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>40.447653304108</lat>
+						<lon>-79.889407753944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>40.447530834494</lat>
+						<lon>-79.889295101166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>40.447367541329</lat>
+						<lon>-79.88912880420702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>40.447245071194</lat>
+						<lon>-79.88902151584603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>40.447061365573</lat>
+						<lon>-79.88886594772299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>40.446926647799</lat>
+						<lon>-79.88875865936302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>40.446845684989</lat>
+						<lon>-79.88872563822599</lon>
+
+							<typ>S</typ>
+                			<stpid>16111</stpid>
+                			<stpnm>Wilkinsburg Station stop B</stpnm>
+                			<pdist>1800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>40.44668987045081</lat>
+						<lon>-79.88860309123993</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>40.44611425307341</lat>
+						<lon>-79.88824903964996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>40.44539166257877</lat>
+						<lon>-79.8878413438797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>40.444852776475024</lat>
+						<lon>-79.88757312297821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>40.44475071422633</lat>
+						<lon>-79.88751411437988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>40.44449351667229</lat>
+						<lon>-79.88742291927338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>40.44438328884785</lat>
+						<lon>-79.88741755485535</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>40.444240400658266</lat>
+						<lon>-79.88740146160126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>40.44381173426701</lat>
+						<lon>-79.88729953765869</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>40.44315444049087</lat>
+						<lon>-79.88711178302765</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>40.4429543932833</lat>
+						<lon>-79.88706350326538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>40.44288907161719</lat>
+						<lon>-79.88703668117523</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>40.442822670548</lat>
+						<lon>-79.88699011045202</lon>
+
+							<typ>S</typ>
+                			<stpid>8153</stpid>
+                			<stpnm>HAY ST RAMP + OUTBOUND SHELTER</stpnm>
+                			<pdist>3325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>40.44279108899899</lat>
+						<lon>-79.88688111305237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>40.442778841161676</lat>
+						<lon>-79.88676846027374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>40.442750262865935</lat>
+						<lon>-79.88663971424103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>40.442501222917286</lat>
+						<lon>-79.8867791891098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>40.44270535409091</lat>
+						<lon>-79.8874980211258</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>40.441803119568</lat>
+						<lon>-79.88723397222299</lon>
+
+							<typ>S</typ>
+                			<stpid>19871</stpid>
+                			<stpnm>Pennwood Ave at Franklin Ave</stpnm>
+                			<pdist>3942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>40.44066404441</lat>
+						<lon>-79.886885285051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>40.440518615096</lat>
+						<lon>-79.88775724934203</lon>
+
+							<typ>S</typ>
+                			<stpid>7084</stpid>
+                			<stpnm>Rowland Connector opp Highrise</stpnm>
+                			<pdist>4613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>40.4404410428</lat>
+						<lon>-79.88792891071898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>40.440228739215</lat>
+						<lon>-79.88819176720199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>40.440196077066</lat>
+						<lon>-79.88832587765302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>40.440550595192</lat>
+						<lon>-79.88944295502597</lon>
+
+							<typ>S</typ>
+                			<stpid>7085</stpid>
+                			<stpnm>Kelly Ave at Pitt St</stpnm>
+                			<pdist>5224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>40.441113108446</lat>
+						<lon>-79.89109724008097</lon>
+
+							<typ>S</typ>
+                			<stpid>7086</stpid>
+                			<stpnm>Kelly Ave at West St</stpnm>
+                			<pdist>5773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>40.441213613573</lat>
+						<lon>-79.89138986242801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>40.44125444064</lat>
+						<lon>-79.89178682936199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>40.441266688755</lat>
+						<lon>-79.892339364419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>40.441887256997</lat>
+						<lon>-79.89235545767303</lon>
+
+							<typ>S</typ>
+                			<stpid>8224</stpid>
+                			<stpnm>Trenton Ave opp Rebecca Ave (nearside)</stpnm>
+                			<pdist>6329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>40.443183767554</lat>
+						<lon>-79.892379833333</lon>
+
+							<typ>S</typ>
+                			<stpid>8225</stpid>
+                			<stpnm>Trenton Ave at Franklin Ave</stpnm>
+                			<pdist>6827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>40.443363401196</lat>
+						<lon>-79.89234228240701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>40.443920100848</lat>
+						<lon>-79.89216616666698</lon>
+
+							<typ>S</typ>
+                			<stpid>8226</stpid>
+                			<stpnm>Trenton Ave at South Ave</stpnm>
+                			<pdist>7105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>40.445097455012</lat>
+						<lon>-79.89170817857303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>40.445815966242</lat>
+						<lon>-79.891327304892</lon>
+
+							<typ>S</typ>
+                			<stpid>8227</stpid>
+                			<stpnm>Trenton Ave at Penn Ave</stpnm>
+                			<pdist>7750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>40.445893532335</lat>
+						<lon>-79.89128438954799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>40.44601741031</lat>
+						<lon>-79.89163141137203</lon>
+
+							<typ>S</typ>
+                			<stpid>18527</stpid>
+                			<stpnm>Penn Ave past Trenton Ave</stpnm>
+                			<pdist>8069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>40.446668068321</lat>
+						<lon>-79.89356461904998</lon>
+
+							<typ>S</typ>
+                			<stpid>7628</stpid>
+                			<stpnm>Penn Ave at Brushton Ave</stpnm>
+                			<pdist>8474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>40.44715925159</lat>
+						<lon>-79.89509030820199</lon>
+
+							<typ>S</typ>
+                			<stpid>7629</stpid>
+                			<stpnm>Penn Ave at Braddock Ave</stpnm>
+                			<pdist>8958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>40.447673625313</lat>
+						<lon>-79.89660843850402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>40.44816623597</lat>
+						<lon>-79.898152870373</lon>
+
+							<typ>S</typ>
+                			<stpid>7630</stpid>
+                			<stpnm>Penn Ave opp Carnegie Pl</stpnm>
+                			<pdist>9875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>40.448684819403</lat>
+						<lon>-79.89967763293498</lon>
+
+							<typ>S</typ>
+                			<stpid>7631</stpid>
+                			<stpnm>Penn Ave at Lexington St</stpnm>
+                			<pdist>10357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>40.449202240648</lat>
+						<lon>-79.901225994708</lon>
+
+							<typ>S</typ>
+                			<stpid>7632</stpid>
+                			<stpnm>Penn Ave at Homewood Ave</stpnm>
+                			<pdist>10808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>40.450018821594</lat>
+						<lon>-79.90369277447303</lon>
+
+							<typ>S</typ>
+                			<stpid>7633</stpid>
+                			<stpnm>Penn Ave at Lang Ave</stpnm>
+                			<pdist>11540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>40.450823187894</lat>
+						<lon>-79.90612844907298</lon>
+
+							<typ>S</typ>
+                			<stpid>18528</stpid>
+                			<stpnm>Penn Ave past Murtland St</stpnm>
+                			<pdist>12405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>40.451481247155</lat>
+						<lon>-79.90810231349099</lon>
+
+							<typ>S</typ>
+                			<stpid>20762</stpid>
+                			<stpnm>Penn Ave at Dallas Ave</stpnm>
+                			<pdist>13035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>40.451775156577</lat>
+						<lon>-79.90884796759701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>40.452232346455</lat>
+						<lon>-79.90970091006398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>40.452589523632</lat>
+						<lon>-79.91022438425802</lon>
+
+							<typ>S</typ>
+                			<stpid>8229</stpid>
+                			<stpnm>Penn Ave at Linden Ave</stpnm>
+                			<pdist>13756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>40.453822374</lat>
+						<lon>-79.91203943518599</lon>
+
+							<typ>S</typ>
+                			<stpid>8230</stpid>
+                			<stpnm>Penn Ave at Fifth Ave</stpnm>
+                			<pdist>14438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>40.455933324408</lat>
+						<lon>-79.91510798809298</lon>
+
+							<typ>S</typ>
+                			<stpid>18942</stpid>
+                			<stpnm>PENN AVE + BAKERY SQUARE</stpnm>
+                			<pdist>15593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>40.457492789405</lat>
+						<lon>-79.91735725198703</lon>
+
+							<typ>S</typ>
+                			<stpid>20011</stpid>
+                			<stpnm>PENN AVE + EAST LIBERTY BLVD</stpnm>
+                			<pdist>16370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>40.458190021715</lat>
+						<lon>-79.91837086441899</lon>
+
+							<typ>S</typ>
+                			<stpid>8233</stpid>
+                			<stpnm>Penn Ave at Village of Eastside Shpg Ctr</stpnm>
+                			<pdist>16813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>40.459063494845</lat>
+						<lon>-79.91967978241803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>40.45921568281</lat>
+						<lon>-79.91981071692999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>40.459493232013</lat>
+						<lon>-79.92021841270002</lon>
+
+							<typ>S</typ>
+                			<stpid>8234</stpid>
+                			<stpnm>Penn Ave opp Shady Ave (nearside)</stpnm>
+                			<pdist>17468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>40.459827922173</lat>
+						<lon>-79.92062610847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>40.460195263114</lat>
+						<lon>-79.92122155887103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>40.460350125013</lat>
+						<lon>-79.921578570767</lon>
+
+							<typ>S</typ>
+                			<stpid>19573</stpid>
+                			<stpnm>Penn Ave opp Eastside III Dr (Target)</stpnm>
+                			<pdist>17997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>40.460386858912</lat>
+						<lon>-79.92178778306999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>40.460676647854</lat>
+						<lon>-79.92269436971799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>40.461008500156</lat>
+						<lon>-79.92356959325502</lon>
+
+							<typ>S</typ>
+                			<stpid>8881</stpid>
+                			<stpnm>Penn Ave at Sheridan Ave</stpnm>
+                			<pdist>18598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>40.46138158881</lat>
+						<lon>-79.92460004232998</lon>
+
+							<typ>S</typ>
+                			<stpid>8882</stpid>
+                			<stpnm>Penn Ave at Highland Ave</stpnm>
+                			<pdist>18928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>40.461677433225</lat>
+						<lon>-79.925521833333</lon>
+
+							<typ>S</typ>
+                			<stpid>8883</stpid>
+                			<stpnm>Penn Ave at Whitfield St</stpnm>
+                			<pdist>19202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>40.462834921535</lat>
+						<lon>-79.92857580224802</lon>
+
+							<typ>S</typ>
+                			<stpid>9124</stpid>
+                			<stpnm>Penn Ave at St Clair St</stpnm>
+                			<pdist>20150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>40.463592860356</lat>
+						<lon>-79.93067622184799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>40.463050518435</lat>
+						<lon>-79.93096978240897</lon>
+
+							<typ>S</typ>
+                			<stpid>19060</stpid>
+                			<stpnm>Negley Ave past Penn Ave</stpnm>
+                			<pdist>20925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>40.462015444544</lat>
+						<lon>-79.93160924007998</lon>
+
+							<typ>S</typ>
+                			<stpid>8188</stpid>
+                			<stpnm>Negley Ave at Coral St</stpnm>
+                			<pdist>21394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>40.460807766604</lat>
+						<lon>-79.93236550000097</lon>
+
+							<typ>S</typ>
+                			<stpid>8189</stpid>
+                			<stpnm>Negley Ave at Friendship Ave</stpnm>
+                			<pdist>21889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>40.459079351742</lat>
+						<lon>-79.93339364682402</lon>
+
+							<typ>S</typ>
+                			<stpid>8190</stpid>
+                			<stpnm>Negley Ave at #370</stpnm>
+                			<pdist>22602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>40.457797710009</lat>
+						<lon>-79.93416612302002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>40.45757729782</lat>
+						<lon>-79.93421976720003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>40.457299991305</lat>
+						<lon>-79.934121398147</lon>
+
+							<typ>S</typ>
+                			<stpid>8191</stpid>
+                			<stpnm>Negley Ave at Centre Ave</stpnm>
+                			<pdist>23237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>40.456588788684</lat>
+						<lon>-79.936404395502</lon>
+
+							<typ>S</typ>
+                			<stpid>8192</stpid>
+                			<stpnm>Centre Ave at Graham St</stpnm>
+                			<pdist>24003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>40.45594147008</lat>
+						<lon>-79.93854622685302</lon>
+
+							<typ>S</typ>
+                			<stpid>8193</stpid>
+                			<stpnm>Centre Ave at Aiken Ave</stpnm>
+                			<pdist>24533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>40.455471658241</lat>
+						<lon>-79.940120982802</lon>
+
+							<typ>S</typ>
+                			<stpid>8194</stpid>
+                			<stpnm>Centre Ave opp Shadyside Hospital</stpnm>
+                			<pdist>25162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>40.455069439451</lat>
+						<lon>-79.94143268386398</lon>
+
+							<typ>S</typ>
+                			<stpid>8195</stpid>
+                			<stpnm>Centre Ave at Cypress St</stpnm>
+                			<pdist>25482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>40.454661251586</lat>
+						<lon>-79.94284889022401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>40.454203439285</lat>
+						<lon>-79.94441278836001</lon>
+
+							<typ>S</typ>
+                			<stpid>8196</stpid>
+                			<stpnm>Centre Ave at Morewood Ave</stpnm>
+                			<pdist>26376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>40.453325441844</lat>
+						<lon>-79.94732052579599</lon>
+
+							<typ>S</typ>
+                			<stpid>8197</stpid>
+                			<stpnm>Centre Ave at Millvale Ave</stpnm>
+                			<pdist>27227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>40.452851703376</lat>
+						<lon>-79.94905713492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>40.452672095094</lat>
+						<lon>-79.94966331415696</lon>
+
+							<typ>S</typ>
+                			<stpid>2631</stpid>
+                			<stpnm>Centre Ave opp Neville St</stpnm>
+                			<pdist>27897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>40.452286780054</lat>
+						<lon>-79.95081378836198</lon>
+
+							<typ>S</typ>
+                			<stpid>2632</stpid>
+                			<stpnm>Centre Ave at Melwood Ave</stpnm>
+                			<pdist>28282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>40.451902128516</lat>
+						<lon>-79.95208089352201</lon>
+
+							<typ>S</typ>
+                			<stpid>2633</stpid>
+                			<stpnm>Centre Ave past Craig St </stpnm>
+                			<pdist>28809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>40.451840897608</lat>
+						<lon>-79.95203797817703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>40.449890100525</lat>
+						<lon>-79.95083616666602</lon>
+
+							<typ>S</typ>
+                			<stpid>2634</stpid>
+                			<stpnm>Craig St at Bayard St</stpnm>
+                			<pdist>29483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>40.447257934</lat>
+						<lon>-79.949188166667</lon>
+
+							<typ>S</typ>
+                			<stpid>2635</stpid>
+                			<stpnm>Craig St at Fifth Ave</stpnm>
+                			<pdist>30540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>40.446951757745</lat>
+						<lon>-79.94906478505197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>40.446853781049</lat>
+						<lon>-79.95005183797002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>40.446796627911</lat>
+						<lon>-79.95126956086301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>40.446723145233</lat>
+						<lon>-79.951559239436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>40.446598625546</lat>
+						<lon>-79.95180562169503</lon>
+
+							<typ>S</typ>
+                			<stpid>1171</stpid>
+                			<stpnm>Fifth Ave at Bellefield Ave</stpnm>
+                			<pdist>31414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>40.445674281789</lat>
+						<lon>-79.95312898875602</lon>
+
+							<typ>S</typ>
+                			<stpid>33</stpid>
+                			<stpnm>Fifth Ave at Tennyson Ave</stpnm>
+                			<pdist>31934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>40.444567437463</lat>
+						<lon>-79.954665240081</lon>
+
+							<typ>S</typ>
+                			<stpid>34</stpid>
+                			<stpnm>Fifth Ave at Bigelow Blvd</stpnm>
+                			<pdist>32566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>40.443287941739</lat>
+						<lon>-79.95642605357102</lon>
+
+							<typ>S</typ>
+                			<stpid>35</stpid>
+                			<stpnm>Fifth Ave at Thackeray Ave</stpnm>
+                			<pdist>33246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>40.441797374239</lat>
+						<lon>-79.95850473743599</lon>
+
+							<typ>S</typ>
+                			<stpid>36</stpid>
+                			<stpnm>Fifth Ave opp Atwood St</stpnm>
+                			<pdist>33991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>40.439498767751</lat>
+						<lon>-79.96163183333397</lon>
+
+							<typ>S</typ>
+                			<stpid>38</stpid>
+                			<stpnm>Fifth Ave at Chesterfield Rd</stpnm>
+                			<pdist>35244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>40.438439620008</lat>
+						<lon>-79.96303767327402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>40.438194646982</lat>
+						<lon>-79.96332735184797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>40.43796192178</lat>
+						<lon>-79.96372968319997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>40.43786393198</lat>
+						<lon>-79.96400863293701</lon>
+
+							<typ>S</typ>
+                			<stpid>2639</stpid>
+                			<stpnm>Fifth Ave opp Craft Ave</stpnm>
+                			<pdist>36136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>40.437761859121</lat>
+						<lon>-79.964722100536</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>40.437786356621</lat>
+						<lon>-79.96504396561699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>40.437783509968</lat>
+						<lon>-79.965337675265</lon>
+
+							<typ>S</typ>
+                			<stpid>2640</stpid>
+                			<stpnm>Fifth Ave at Robinson St</stpnm>
+                			<pdist>36513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>40.437501788161</lat>
+						<lon>-79.96555225198597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>40.437269060561</lat>
+						<lon>-79.96561662500301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>40.437056746959</lat>
+						<lon>-79.96576682870699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>40.436913843196</lat>
+						<lon>-79.96587411706798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>40.436762773174</lat>
+						<lon>-79.966045778445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>40.436615785799</lat>
+						<lon>-79.96626035516601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>40.43652187703</lat>
+						<lon>-79.96656076257602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>40.436472881098</lat>
+						<lon>-79.96698991601801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>40.436465920651</lat>
+						<lon>-79.96843088161597</lon>
+
+							<typ>S</typ>
+                			<stpid>18165</stpid>
+                			<stpnm>Fifth Ave past Brenham St</stpnm>
+                			<pdist>37645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>40.436457754658</lat>
+						<lon>-79.96866155159103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>40.436484215649</lat>
+						<lon>-79.968868819433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>40.436925177673</lat>
+						<lon>-79.97015627975998</lon>
+
+							<typ>S</typ>
+                			<stpid>2643</stpid>
+                			<stpnm>5th Ave opp #2410</stpnm>
+                			<pdist>38103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>40.437194762564</lat>
+						<lon>-79.970976146824</lon>
+
+							<typ>S</typ>
+                			<stpid>2644</stpid>
+                			<stpnm>5th Ave opp #2358</stpnm>
+                			<pdist>38384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>40.437822924516</lat>
+						<lon>-79.97300916402202</lon>
+
+							<typ>S</typ>
+                			<stpid>18164</stpid>
+                			<stpnm>Fifth Ave past Kirkpatrick St</stpnm>
+                			<pdist>38953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>40.437953577631</lat>
+						<lon>-79.97340076653899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>40.438046432767</lat>
+						<lon>-79.97446494907399</lon>
+
+							<typ>S</typ>
+                			<stpid>3147</stpid>
+                			<stpnm>5th Ave past Moultrie</stpnm>
+                			<pdist>39413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>40.438166929226</lat>
+						<lon>-79.97577360449901</lon>
+
+							<typ>S</typ>
+                			<stpid>3148</stpid>
+                			<stpnm>Fifth Ave opp Seneca St</stpnm>
+                			<pdist>39769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>40.438247594947</lat>
+						<lon>-79.97739431084597</lon>
+
+							<typ>S</typ>
+                			<stpid>3149</stpid>
+                			<stpnm>Fifth Ave at Wyandotte St</stpnm>
+                			<pdist>40205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>40.438339593968</lat>
+						<lon>-79.97944159061001</lon>
+
+							<typ>S</typ>
+                			<stpid>3150</stpid>
+                			<stpnm>Fifth Ave opp Gist St</stpnm>
+                			<pdist>40761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>40.438395013737</lat>
+						<lon>-79.98056906481497</lon>
+
+							<typ>S</typ>
+                			<stpid>3151</stpid>
+                			<stpnm>Fifth Ave at Dinwiddie St</stpnm>
+                			<pdist>41122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>40.438484094732</lat>
+						<lon>-79.982623861111</lon>
+
+							<typ>S</typ>
+                			<stpid>3152</stpid>
+                			<stpnm>Fifth Ave opp Van Braam St</stpnm>
+                			<pdist>41738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>40.438582096493</lat>
+						<lon>-79.98490301984299</lon>
+
+							<typ>S</typ>
+                			<stpid>3154</stpid>
+                			<stpnm>Fifth Ave at Pride St</stpnm>
+                			<pdist>42301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>40.438632511731</lat>
+						<lon>-79.986305788361</lon>
+
+							<typ>S</typ>
+                			<stpid>3155</stpid>
+                			<stpnm>Fifth Ave at Stevenson St</stpnm>
+                			<pdist>42669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>40.438710016375</lat>
+						<lon>-79.98809724007901</lon>
+
+							<typ>S</typ>
+                			<stpid>3156</stpid>
+                			<stpnm>Fifth Ave at Magee St</stpnm>
+                			<pdist>43199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>40.43883051923</lat>
+						<lon>-79.99066396891499</lon>
+
+							<typ>S</typ>
+                			<stpid>3157</stpid>
+                			<stpnm>Fifth Ave at Washington Pl</stpnm>
+                			<pdist>43910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>40.43891805561953</lat>
+						<lon>-79.99259354100002</lon>
+
+							<typ>S</typ>
+                			<stpid>18161</stpid>
+                			<stpnm>5TH AVE + DIAMOND ST</stpnm>
+                			<pdist>44480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>40.43895888408</lat>
+						<lon>-79.99469102845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>40.439742785712</lat>
+						<lon>-79.99420286640901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>40.439906541484</lat>
+						<lon>-79.99416489219402</lon>
+
+							<typ>S</typ>
+                			<stpid>20292</stpid>
+                			<stpnm>Sixth Ave at Center Ave</stpnm>
+                			<pdist>45490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>40.44002494221</lat>
+						<lon>-79.994191714284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>40.440151508273</lat>
+						<lon>-79.99426681613699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>40.440265825802</lat>
+						<lon>-79.99437946891499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>40.440377273463</lat>
+						<lon>-79.99463113558102</lon>
+
+							<typ>S</typ>
+                			<stpid>1509</stpid>
+                			<stpnm>Sixth Ave at Bigelow Blvd</stpnm>
+                			<pdist>45861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>40.440657024606</lat>
+						<lon>-79.99556861175597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>40.441420492964</lat>
+						<lon>-79.99761245502498</lon>
+
+							<typ>S</typ>
+                			<stpid>3158</stpid>
+                			<stpnm>6th Ave at Smithfield St</stpnm>
+                			<pdist>46712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>40.442103148627</lat>
+						<lon>-79.99935869510801</lon>
+
+							<typ>S</typ>
+                			<stpid>3159</stpid>
+                			<stpnm>6th Ave at Wood St</stpnm>
+                			<pdist>47250.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>40.442264429979</lat>
+						<lon>-79.99975383281702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>40.442337917532</lat>
+						<lon>-79.99984502792398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>40.442468561872</lat>
+						<lon>-79.999898672104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>40.4419837987926</lat>
+						<lon>-80.00176593253985</lon>
+
+							<typ>S</typ>
+                			<stpid>22256</stpid>
+                			<stpnm>Liberty Ave at 6th St (nearside)</stpnm>
+                			<pdist>47945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>40.441721436127</lat>
+						<lon>-80.00277400016802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>40.441635699855</lat>
+						<lon>-80.00273644924198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>40.441509136586</lat>
+						<lon>-80.00253796577499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>40.441349911491</lat>
+						<lon>-80.00216782093003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>40.44088273536</lat>
+						<lon>-80.00084666204202</lon>
+
+							<typ>S</typ>
+                			<stpid>20690</stpid>
+                			<stpnm>Fifth Ave at Wood St</stpnm>
+                			<pdist>49061.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
